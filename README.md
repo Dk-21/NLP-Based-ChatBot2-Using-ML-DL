@@ -162,7 +162,7 @@ The dataset contains questions and answers related to Python programming, rangin
 
 
 (Include a diagram here showing the logic flow of the chatbot, from user input to final response)
-![Alt text]()
+![Worklflow of the ChatBot](project2.png)
 
 
 ### Sample Dialog of Interaction
