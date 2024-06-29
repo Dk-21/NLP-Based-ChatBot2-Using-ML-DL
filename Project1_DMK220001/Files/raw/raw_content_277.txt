@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The strptime() method creates a datetime object from the given string.
+Note: You cannot create datetime object from every string.
+The string needs to be in a certain format.
+When you run the program, the output will be: The strptime() class method takes two arguments: Based on the string and format code used, the method returns its equivalent datetime object.
+In the above example:  Here, When you run the program, the output will be: The table below shows all the format codes that you can use.
+If the string (first argument) and the format code (second argument) passed to the strptime() doesn't match, you will get ValueError.
+For example: If you run this program, you will get an error.
+Also Read: Sorry about that.
+Python Tutorial Python strftime() Python Tutorial Python datetime Python Tutorial How to get current date and time in Python?
+Python Tutorial Python timestamp to datetime and vice-versa © Parewa Labs Pvt.
+Ltd. All rights reserved.

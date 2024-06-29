@@ -1,0 +1,95 @@
+Try Programiz PRO At Programiz, we care about your personal data, so we have prepared this Privacy Policy to explain how we collect, use and share it.
+This Privacy Policy ("Privacy Policy") details the personal data Parewa Labs Pvt.
+Ltd. ("Programiz", "Parewa Labs", "we", "us" or "our") receives about you, how we process it and your rights and obligations in relation to your personal data.
+Parewa Labs Pvt.
+Ltd. is the data controller for the purposes of the General Data Protection Regulation ("GDPR") and any relevant local legislation ("Data Protection Laws").
+By using or accessing the Service, you agree to the terms of this Privacy Policy.
+Capitalized terms not defined here have the meanings set forth in the terms and conditions (the "Terms and Conditions"), located at www.programiz.com/terms-of-use.
+This Privacy Policy explains how we collect, use and share your personal data.
+While using the Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data").
+Personally, identifiable information may include, but is not limited to, your name, address, valid email address and phone number, and Cookies and Usage Data.
+You will also provide us with your payment transaction information if you choose to pay for Programiz services.
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you.
+You may opt-out of receiving any, or all, of these communications from us by following the unsubscribe link or follow instructions provided at the bottom of any email we send.
+We may also collect information that your browser sends whenever you visit the Service or when you access the Service by or through a mobile device.
+We will also generate data about your use of our Services including your engagement in educational activities on the Service, or your sending of messages and otherwise transmitting information to other users ("Usage Data").
+This Usage Data may include information such as your computer's Internet Protocol address (e.g.
+IP address), browser type, browser version, the pages of the Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+When you access the Service with a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
+We may contact you to participate in product research activities.
+These may include surveys, interviews, and other types of feedback sessions.
+When you participate in these research activities, the information you provide will be used to test, improve, and develop our products.
+We will record the video, audio and text transcriptions of this feedback together with any additional contact information you provide and will retain this data.
+When you enter the Website, we collect your browser type and your IP address (a unique address that identifies your computer on the Internet).
+When you use our Apps, we collect your device type, your device ID, and your IP address.
+In addition, we store certain information from your browser using "cookies."
+A cookie is a piece of data stored on the user's computer tied to information about the user.
+We use session ID cookies to confirm that users are logged in.
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features available on the Websites (e.g., customized delivery of information).
+You can find more information about cookies and how to manage them at http://www.allaboutcookies.org.
+Programiz uses the collected data for various purposes: If you are from the European Economic Area (EEA), Programiz legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+Programiz may process your Personal Data because: Programiz will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy.
+We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
+Programiz will also retain Usage Data for internal analysis purposes.
+Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods.
+Your information, including Personal Data, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
+If you are located outside the United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to the United States and process it there.
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Programiz will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Under certain circumstances, Programiz may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g.
+a court or a government agency).
+Programiz may disclose your Personal Data in the good faith belief that such action is necessary to: We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.
+But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights.
+Programiz aims to take reasonable steps to allow you to correct, amend, delete or limit the use of your Personal Data.
+If you wish to be informed about what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+In certain circumstances, you have the following data protection rights: Please note that we may ask you to verify your identity before responding to such requests.
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data.
+For more information, please contact your local data protection authority in the European Economic Area (EEA).
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), provide the Service on our behalf, perform Service-related services or assist us in analyzing how our Service is used.
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+To support and enhance the Service, we work with a variety of third party advertising networks, marketing analytics service providers and website analysis firms, such as Google and Facebook (collectively, "Third Party Advertising Service Providers").
+These Third Party Advertising Service Providers collect and use personal data about your visits to and use of the Website and Mobile Application, in order to serve you with advertisements and content tailored to meet your preferences and likely interests or better understand ad effectiveness.
+Aggregate demographic and interest data will also be used for market research purposes.
+We use Google Analytics which is an analytics service offered by Google that tracks and reports website traffic.
+Google uses the data collected to track and monitor the use of our Service.
+This data is shared with other Google services.
+Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: https://policies.google.com/privacy?hl=en.
+We also encourage you to review Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245.
+Additionally, we use Firebase provided by Google, Mixpanel provided by Mixpanel Inc and Hotjar that captures and analyzes your usage data to help us make our Service experience better.
+We also use Rudderstack for Customer Data Platform (CDP) and CleverTap for integration of app analytics and marketing.
+You can opt-out from MixPanel here: https://mixpanel.com/optout/ and from certain Firebase features through your mobile device settings by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en.
+For more information on Mixpanel visit their terms here: https://mixpanel.com/terms/ and for Hotjar's privacy policy, visit this link: https://www.hotjar.com/privacy.
+RudderStack's privacy policy can be found here: www.rudderstack.com/privacy-policy/.
+For CleverTap's privacy policies, visit the link: https://clevertap.com/privacy-policy/.
+For iOS app users, you can visit CleverTap's App store privacy policy section here: developer.clevertap.com/docs/app-store-connect-app-privacy  Programiz uses remarketing services to advertise on third party websites to you after you visited our Service.
+We use third-party vendors, such as Google, Facebook which use cookies to serve ads based on past visits to our Service.
+You can also opt-out from the participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.
+Programiz uses or may use advertising services to help monetize the Service.
+We use third-party vendors, such as Google which may use the information that it obtains via the third party cookies, web beacons, and other technologies in accordance with its advertising Privacy Policies.
+You can visit these third party websites to opt out of cookies for interest based advertising or opt out by visiting aboutads.info We may provide paid products and/or services within the Service.
+In that case, we use third-party services for payment processing (e.g.
+payment processors).
+We will not store or collect your payment card details.
+That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy.
+These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
+PCI-DSS requirements help ensure the secure handling of payment information.
+The payment processors we work with are Apple Store In-App Payments, and Google Play In-App Payments.
+Their Privacy Policies can be viewed at: Apple Store In-App: https://www.apple.com/legal/privacy/en-ww/ Play In-App Payments: https://www.google.com/policies/privacy/ We send anonymized data regarding your in-app purchases and basic app app usage statistics (operating system, country, session count) to RevenueCat, our purchase validation provider, for the sole purpose of validating your purchases, unlocking features and detecting potential app problems.
+RevenueCat's Privacy Policy can be viewed here: https://www.revenuecat.com/privacy This Service may contain links to other sites.
+If you click on a third-party link, you will be directed to that site.
+Note that these external sites are not operated by us.
+Therefore, we strongly advise you to review the Privacy Policy of these websites.
+We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+These Services do not address anyone under the age of 13.
+We do not knowingly collect personally identifiable information from children under 13.
+In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers.
+If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+We may update our Privacy Policy from time to time.
+Thus, you are advised to review this page periodically for any changes.
+We will notify you of any changes by posting the new Privacy Policy on this page.
+These changes are effective immediately after they are posted on this page.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

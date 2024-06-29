@@ -1,0 +1,60 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In the previous tutorial you learned about Python comments.
+Now, let's learn about variables and literals in Python.
+In programming, a variable is a container (storage area) to hold data.
+For example, Here, number is a variable storing the value 10.
+As we can see from the above example, we use the assignment operator = to assign a value to a variable.
+Output In the above example, we assigned the value programiz.pro to the site_name variable.
+Then, we printed out the value assigned to site_name Note: Python is a type-inferred language, so you don't have to explicitly define the variable type.
+It automatically knows that programiz.pro is a string and declares the site_name variable as a string.
+Output Here, the value of site_name is changed from 'programiz.pro' to 'apple.com'.
+If we want to assign the same value to multiple variables at once, we can do this as: Here, we have assigned the same string value 'programiz.com' to both the variables site1 and site2.
+1.
+Constant and variable names should have a combination of letters in lowercase (a to z) or uppercase (A to Z) or digits (0 to 9) or an underscore (_).
+For example: 2.
+Create a name that makes sense.
+For example, vowel makes more sense than v. 3.
+If you want to create a variable name having two words, use underscore to separate them.
+For example: 5.
+Python is case-sensitive.
+So num and Num are different variables.
+For example, 6.
+Avoid using keywords like if, True, class, etc.
+as variable names.
+Literals are representations of fixed values in a program.
+They can be numbers, characters, or strings, etc.
+For example, 'Hello, World!
+', 12, 23.0, 'C', etc.
+Literals are often used to assign values to variables or constants.
+For example, In the above expression, site_name is a variable, and 'programiz.com' is a literal.
+There are different types of literals in Python.
+Let's discuss some of the commonly used types in detail.
+Numeric Literals are immutable (unchangeable).
+Numeric literals can belong to 3 different numerical types: Integer, Float, and Complex.
+Integer literals are numbers without decimal parts.
+It also consists of negative numbers.
+For example,  5, -11, 0, 12, etc.
+Floating-point literals are numbers that contain decimal parts.
+Just like integers, floating-point numbers can also be both positive and negative.
+For example, 2.5, 6.76, 0.0, -9.45, etc.
+Complex literals are numbers that represent complex numbers.
+Here, numerals are in the form a + bj, where a is real and b is imaginary.
+For example, 6+9j, 2+3j.
+In Python, texts wrapped inside quotation marks are called string literals.. We can also use single quotes to create strings.
+There are two boolean literals: True and False.
+For example,  Here, true is a boolean literal assigned to pass.
+Character literals are unicode characters enclosed in a quote.
+For example, Here, S is a character literal assigned to some_character.
+Python contains one special literal None.
+We use it to specify a null variable.
+For example, Here, we get None as an output as the value variable has no value assigned to it.
+Let's see examples of four different collection literals.
+List, Tuple, Dict, and Set literals.
+Output In the above example, we created a list of fruits, a tuple of numbers, a dictionary of alphabets having values with keys designated to each value and a set of vowels.
+To learn more about literal collections, refer to Python Data Types.
+Sorry about that.
+Python Tutorial Python Data Types Python Tutorial Python Keywords and Identifiers Python Tutorial Python Numbers, Type Conversion and Mathematics Python Tutorial Python Comments © Parewa Labs Pvt.
+Ltd. All rights reserved.

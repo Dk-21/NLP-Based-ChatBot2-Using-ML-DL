@@ -1,0 +1,34 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In the previous tutorial, you learned to write your first Python program.
+Now, let's learn about Python comments.
+Tip: We are introducing comments early in this tutorial series because, from now on, we will be using them to explain our code.
+In Python, parts of code beginning with # are called comments.
+For example, Here, # print a number is a comment.
+As such, it is completely ignored by the computer.
+Comments are hints that we add to our code to make it easier to understand.
+Note: You can ignore the programming concepts and simply focus on the comments.
+We will revisit these concepts in later tutorials.
+We use the hash (#) symbol to write a single-line comment.
+For example, In the above example, we have used three single-line comments: We can also use single-line comments alongside the code: Note: Remember the keyboard shortcut to apply comments.
+In most text editors, it's Ctrl + / if you are on Windows & Cmd + / if you are on a Mac.
+Unlike languages such as C++ and Java, Python doesn't have a dedicated method to write multi-line comments.
+However, we can achieve the same effect by using the hash (#) symbol at the beginning of each line.
+Let's look at an example.
+We can also use multiline strings as comments like: Output We can see that these unassigned multiline strings are ignored.
+Comments are valuable when debugging code.
+If we encounter an error while running a program, instead of removing code segments, we can comment them out to prevent execution.
+For example, Here, the code throws an error because we have not defined a product variable.
+We can comment out the code that's causing the error.
+For example, Output Now, the code runs without any errors.
+Here, we have resolved the error by commenting out the code related to the product.
+If we need to calculate the product in the near future, we can uncomment it.
+We should use comments for the following reasons: Note: Comments are not and should not be used as a substitute to explain poorly written code.
+Always try to write clean, understandable code, and then use comments as an addition.
+In most cases, always use comments to explain 'why' rather than 'how' and you are good to go.
+Next, we will be learning about Python variables and literals.
+Sorry about that.
+Python Tutorial Python Comments Python Tutorial Python Docstrings Python Tutorial Python pass Statement Python Tutorial Python Variables and Literals © Parewa Labs Pvt.
+Ltd. All rights reserved.

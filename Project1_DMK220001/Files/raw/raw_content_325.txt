@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The list() constructor converts an iterable (dictionary, tuple, string etc.)
+to a list and returns it.
+The syntax of list() is: The list() constructor takes a single argument: The list() constructor returns a list.
+Output Output Note: In the case of dictionaries, the keys of the dictionary will be the items of the list.
+Also, the order of the elements will be random.
+Output Also Read: Sorry about that.
+Python Library Python tuple() Python Library Python iter() Python Library Python reversed() Python Library Python set() © Parewa Labs Pvt.
+Ltd. All rights reserved.

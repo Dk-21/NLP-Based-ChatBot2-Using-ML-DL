@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The math module is a standard module in Python and is always available.
+To use mathematical functions under this module, you have to import the module using import math.
+It gives access to the underlying C library functions.
+For example, This module does not support complex datatypes.
+The cmath module is the complex counterpart.
+Here is the list of all the functions and attributes defined in math module with a brief explanation of what they do.
+Visit this page to learn about all the mathematical functions defined in Python 3.
+Sorry about that.
+Python Library Python eval() Python Tutorial Python Modules Python Tutorial Python Numbers, Type Conversion and Mathematics Python Library Python __import__() © Parewa Labs Pvt.
+Ltd. All rights reserved.

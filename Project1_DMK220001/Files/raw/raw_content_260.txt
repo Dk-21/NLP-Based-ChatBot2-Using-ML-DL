@@ -1,0 +1,22 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In the previous tutorial, we learned about different built-in exceptions in Python and why it is important to handle exceptions.
+However, sometimes we may need to create our own custom exceptions that serve our purpose.
+In Python, we can define custom exceptions by creating a new class that is derived from the built-in Exception class.
+Here's the syntax to define custom exceptions, Here, CustomError is a user-defined error which inherits from the Exception class.
+Note: Output If the user input input_num is greater than 18, If the user input input_num is smaller than 18, In the above example, we have defined the custom exception InvalidAgeException by creating a new class that is derived from the built-in Exception class.
+Here, when input_num is smaller than 18, this code generates an exception.
+When an exception occurs, the rest of the code inside the try block is skipped.
+The except block catches the user-defined InvalidAgeException exception and statements inside the except block are executed.
+We can further customize this class to accept other arguments as per our needs.
+To learn about customizing the Exception classes, you need to have the basic knowledge of Object-Oriented programming.
+Visit Python Object Oriented Programming to learn about Object-Oriented programming in Python.
+Let's see an example, Output Here, we have overridden the constructor of the Exception class to accept our own custom arguments salary and message.
+Then, the constructor of the parent Exception class is called manually with the self.message argument using super().
+The custom self.salary attribute is defined to be used later.
+The inherited __str__ method of the Exception class is then used to display the corresponding message when SalaryNotInRangeError is raised.
+Also Read: Sorry about that.
+Python Tutorial Python Exception Handling   Python Tutorial Python Exceptions Python Library Python Dictionary get() Python Library Python open() © Parewa Labs Pvt.
+Ltd. All rights reserved.

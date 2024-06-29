@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+They copy() method returns a copy (shallow copy) of the dictionary.
+The syntax of copy() is: The copy() method doesn't take any arguments.
+This method returns a shallow copy of the dictionary.
+It doesn't modify the original dictionary.
+Output When the copy() method is used, a new dictionary is created which is filled with a copy of the references from the original dictionary.
+When the = operator is used, a new reference to the original dictionary is created.
+Output Here, when the new dictionary is cleared, the original dictionary is also cleared.
+Output Here, when the new dictionary is cleared, the original dictionary remains unchanged.
+Also Read: Sorry about that.
+Python Library Python Dictionary clear() Python Library Python Dictionary update() Python Library Python Dictionary items() Python Library Python Dictionary values() © Parewa Labs Pvt.
+Ltd. All rights reserved.

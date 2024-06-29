@@ -1,0 +1,30 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: The format for list slicing is [start:stop:step].
+List slicing works similar to Python slice() function.
+Output If you simply use :, you will get all the elements of the list.
+This is similar to print(my_list).
+Output If you want to get all the elements after a specific index, you can mention that index before : as shown in example above.
+In the above example, elements at index 2 and all the elements after index 2 are printed.
+Note: Indexing starts from 0.
+Item on index 2 is also included.
+Output This example lets you get all the elements before a specific index.
+Mention that index after :.
+In the example, the items before index 2 are sliced.
+Item on index 2 is excluded.
+Output If you want to get all the elements between two specific indices, you can mention them before and after :.
+In the above example, my_list[2:4] gives the elements between 2nd and the 4th positions.
+The starting position (i.e.
+2) is included and the ending position (i.e.
+4) is excluded.
+Output If you want to get elements at specified intervals, you can do it by using two :.
+In the above example, the items at interval 2 starting from index 0 are sliced.
+If you want the indexing to start from the last item, you can use negative sign -.
+Output The items at interval 2 starting from the last index are sliced.
+If you want the items from one position to another, you can mention them from start to stop.
+Output The items from index 1 to 4 are sliced with intervals of 2.
+Also Read:  Sorry about that.
+Python Example Access Index of a List Using for Loop Python Example Split a List Into Evenly Sized Chunks Python Example Get the Last Element of the List Python Tutorial Python del Statement © Parewa Labs Pvt.
+Ltd. All rights reserved.

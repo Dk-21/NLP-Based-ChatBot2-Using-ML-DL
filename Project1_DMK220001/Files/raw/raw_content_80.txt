@@ -1,0 +1,16 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A strongly connected component is the portion of a directed graph in which there is a path from each vertex to another vertex.
+It is applicable only on a directed graph.
+For example: Let us take the graph below.
+The strongly connected components of the above graph are: You can observe that in the first strongly connected component, every vertex can reach the other vertex through the directed path.
+These components can be found using Kosaraju's Algorithm.
+Kosaraju's Algorithm is based on the depth-first search algorithm implemented twice.
+Three steps are involved.
+Kosaraju's algorithm runs in linear time i.e.
+O(V+E).
+Sorry about that.
+DS & Algorithms Depth First Search (DFS) DS & Algorithms Adjacency List DS & Algorithms Graph Data Stucture DS & Algorithms Breadth first search © Parewa Labs Pvt.
+Ltd. All rights reserved.

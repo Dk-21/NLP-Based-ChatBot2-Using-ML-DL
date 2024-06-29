@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A string is a sequence of characters enclosed in quotation marks.
+In this reference page, you will find all the methods that a string object can call.
+For example, you can use the join() method to concatenate two strings.
+Converts first character to Capital Letter converts to case folded strings Pads string with specified character returns occurrences of substring in string returns encoded string of given string Checks if String Ends with the Specified Suffix Replaces Tab character With Spaces Returns the index of first occurrence of substring formats string into nicer output Formats the String Using Dictionary Returns Index of Substring Checks Alphanumeric Character Checks if All Characters are Alphabets Checks Decimal Characters Checks Digit Characters Checks for Valid Identifier Checks if all Alphabets in a String are Lowercase Checks Numeric Characters Checks Printable Character Checks Whitespace Characters Checks for Titlecased String returns if all characters are uppercase characters Returns a Concatenated String returns left-justified string of given width returns lowercased string Removes Leading Characters returns a translation table Returns a Tuple Replaces Substring Inside Returns the Highest Index of Substring Returns Highest Index of Substring returns right-justified string of given width Returns a Tuple Splits String From Right Removes Trailing Characters splits string into a list of substrings Splits String at Line Boundaries Checks if String Starts with the Specified String removes both leading and trailing characters swap uppercase characters to lowercase; vice versa Returns a Title Cased String returns mapped charactered string returns uppercased string Returns a Copy of The String Padded With Zeros  © Parewa Labs Pvt.
+Ltd. All rights reserved.

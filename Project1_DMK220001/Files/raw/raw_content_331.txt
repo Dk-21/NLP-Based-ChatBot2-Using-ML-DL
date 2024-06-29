@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The list's sort() method sorts the elements of a list.
+The sort() method can take two optional keyword arguments: We can sort a list in descending order by setting reverse to True.
+Output The sort() method sorts a list of strings in dictionary order.
+Output The sort() method can sort items based on a function.
+For example, Output len is a built-in function that returns the length of a string.
+Since we passed the len function as key, the strings are sorted based on their length.
+Sorry about that.
+Python Library Python List reverse() Python Library Python List clear() Python Library Python List extend() Python Library Python List pop() © Parewa Labs Pvt.
+Ltd. All rights reserved.

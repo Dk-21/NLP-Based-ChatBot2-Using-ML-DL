@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The reversed() function returns an iterator object that provides access to the elements of an iterable (list, tuple, string, etc.)
+in reverse order.
+The syntax of reversed() is: The reversed() function takes a single argument.
+The reversed() method returns an iterator object.
+Note: Iterator objects can be easily converted into sequences such as lists and tuples.
+They can also be directly iterated over using a loop.
+Output Output Also Read: Sorry about that.
+Python Library Python tuple() Python Library Python list() Python Library Python map() Function Python Library Python sorted() © Parewa Labs Pvt.
+Ltd. All rights reserved.

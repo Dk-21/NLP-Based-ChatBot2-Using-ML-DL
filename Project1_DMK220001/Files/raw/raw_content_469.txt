@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Output However, the more pythonic way is example 1.
+Output It works for python 2 versions.
+As in Example 1, we can use iteritems() for python 2 versions.
+Output You can use keys() and values() to explicitly return keys and values of the dictionary respectively.
+Also Read:  Sorry about that.
+Python Tutorial Python Nested Dictionary Python Tutorial Python Dictionary  Python Example Return Multiple Values From a Function Python Example Access Index of a List Using for Loop © Parewa Labs Pvt.
+Ltd. All rights reserved.

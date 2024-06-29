@@ -1,0 +1,26 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The fromkeys() method creates a dictionary from the given sequence of keys and values.
+The syntax of the fromkeys() method is: Here, alphabets and numbers are the key and value of the dictionary.
+The fromkeys() method can take two parameters: Note: The same value is assigned to all the keys of the dictionary.
+The fromkeys() method returns: Note:  If the value of the dictionary is not provided, None is assigned to the keys.
+Output In the above example, we have used the fromkeys() method to create the dictionary with the given set of keys and string value.
+Here, the fromkeys() method creates a new dictionary named vowels from keys and value.
+All the keys of the dictionary are assigned with the same value.
+Output In the above example, we have created a dictionary named numbers with the given list of keys.
+We have not provided any values, so all the keys are assigned None by default.
+Output In the above example, we have used a list as the value for the dictionary.
+The iterables like list, dictionary, etc are the mutable objects, meaning they can be modified.
+Here, when we update the list value using append, the keys are assigned with the new updated values.
+This is because each element is pointing to the same address in the memory.
+To solve this problem, we can use dictionary comprehension.
+We can use dictionary comprehension and prevent updating the dictionary when the mutable object (list, dictionary, etc) is updated.
+For example, Output In the above example, we have used dictionary comprehension to create a dictionary named vowels.
+Here, the value is not assigned to the keys of the dictionary.
+But, for each key in keys, a new list of value is created.
+The newly created list is assigned each key in the dictionary.
+Also Read: Sorry about that.
+Python Library Python Dictionary keys() Python Library Python Dictionary update() Python Library Python Dictionary values() Python Library Python Dictionary setdefault() © Parewa Labs Pvt.
+Ltd. All rights reserved.

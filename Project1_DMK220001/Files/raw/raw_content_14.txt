@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: A leap year is exactly divisible by 4 except for century years (years ending with 00).
+The century year is a leap year only if it is perfectly divisible by 400.
+For example, Output You can change the value of year in the source code and run it again to test this program.
+Also Read:  Sorry about that.
+Python Example Display Calendar Python Tutorial Python strftime() Python Tutorial Python strptime() Python Tutorial Python datetime © Parewa Labs Pvt.
+Ltd. All rights reserved.

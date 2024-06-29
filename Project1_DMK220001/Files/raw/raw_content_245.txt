@@ -1,0 +1,52 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A set is a collection of unique data, meaning that elements within a set cannot be duplicated.
+For instance, if we need to store information about student IDs, a set is suitable since student IDs cannot have duplicates.
+In Python, we create sets by placing all the elements inside curly braces {}, separated by commas.
+A set can have any number of items and they may be of different types (integer, float, tuple, string, etc.).
+But a set cannot have mutable elements like lists, sets or dictionaries as its elements.
+Let's see an example, Output In the above example, we have created different types of sets by placing all the elements inside the curly braces {}.
+Note: When you run this code, you might get output in a different order.
+This is because the set has no particular order.
+Creating an empty set is a bit tricky.
+Empty curly braces {} will make an empty dictionary in Python.
+To make a set without any elements, we use the set() function without any argument.
+For example, Output Here,  Finally, we have used the type() function to know which class empty_set and empty_dictionary belong to.
+Let's see what will happen if we try to include duplicate items in a set.
+Here, we can see there are no duplicate items in the set as a set cannot contain duplicates.
+Sets are mutable.
+However, since they are unordered, indexing has no meaning.
+We cannot access or change an element of a set using indexing or slicing.
+The set data type does not support it.
+In Python, we use the add() method to add an item to a set.
+For example, Output In the above example, we have created a set named numbers.
+Notice the line, Here, add() adds 32 to our set.
+The update() method is used to update the set with items other collection types (lists, tuples, sets, etc).
+For example, Here, all the unique elements of tech_companies are added to the companies set.
+We use the discard() method to remove the specified element from a set.
+For example, Output Here, we have used the discard() method to remove 'Java' from the languages set.
+Here are some of the popular built-in functions that allow us to perform different operations on a set.
+Output Here, we have used for loop to iterate over a set in Python.
+We can use the len() method to find the number of elements present in a Set.
+For example, Output Here, we have used the len() method to find the number of elements present in a Set.
+Python Set provides different built-in methods to perform mathematical set operations like union, intersection, subtraction, and symmetric difference.
+The union of two sets A and B includes all the elements of sets A and B.
+We use the | operator or the union() method to perform the set union operation.
+For example, Output Note: A|B and union() is equivalent to A ⋃ B set operation.
+The intersection of two sets A and B include the common elements between set A and B.
+In Python, we use the & operator or the intersection() method to perform the set intersection operation.
+For example, Output Note: A&B and intersection() is equivalent to A ⋂ B set operation.
+The difference between two sets A and B include elements of set A that are not present on set B.
+We use the - operator or the difference() method to perform the difference between two sets.
+For example, Output Note: A - B and A.difference(B) is equivalent to A - B set operation.
+The symmetric difference between two sets A and B includes all elements of A and B without the common elements.
+In Python, we use the ^ operator or the symmetric_difference() method to perform symmetric differences between two sets.
+For example, Output We can use the == operator to check whether two sets are equal or not.
+For example, Output In the above example, A and B have the same elements, so the condition evaluates to True.
+Hence, the statement print('Set A and Set B are equal') inside the if is executed.
+There are many set methods, some of which we have already used above.
+Here is a list of all the methods that are available with the set objects: Also Read: Sorry about that.
+Python Library Python Set union() Python Library Python frozenset() Python Library Python Set intersection() Python Library Python Set symmetric_difference() © Parewa Labs Pvt.
+Ltd. All rights reserved.

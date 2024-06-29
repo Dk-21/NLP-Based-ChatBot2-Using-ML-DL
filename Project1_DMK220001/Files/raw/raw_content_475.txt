@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Using if statement and in keyword, you can check if a key is present in a dictionary.
+In the above example, 2 is present in the dictionary as a key; therefore, the output is present.
+You can use not in if you want to check if a key is not present in the dictionary.
+Also Read: Sorry about that.
+Python Example Delete an Element From a Dictionary Python Tutorial Python Dictionary Comprehension Python Example Find All File with .txt Extension Present Inside a Directory Python Tutorial Python Nested Dictionary © Parewa Labs Pvt.
+Ltd. All rights reserved.

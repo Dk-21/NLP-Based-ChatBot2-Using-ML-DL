@@ -1,0 +1,16 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: A palindrome is a string that is the same read forward or backward.
+For example, "dad" is the same in forward or reverse direction.
+Another example is "aibohphobia", which literally means, an irritable fear of palindromes.
+Output Note: To test the program, change the value of my_str in the program.
+In this program, we have taken a string stored in my_str.
+Using the method casefold() we make it suitable for caseless comparisons.
+Basically, this method returns a lowercased version of the string.
+We reverse the string using the built-in function reversed().
+Since this function returns a reversed object, we use the list() function to convert them into a list before comparing.
+Sorry about that.
+Python Example Reverse a Number Python Example Remove Punctuations From a String Python Example Sort Words in Alphabetic Order Python Example Count the Number of Each Vowel © Parewa Labs Pvt.
+Ltd. All rights reserved.

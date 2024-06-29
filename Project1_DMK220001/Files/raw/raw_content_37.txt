@@ -1,0 +1,22 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A computer program is a collection of instructions to perform a specific task.
+For this, a computer program may need to store data, retrieve data, and perform computations on the data.
+A data structure is a named location that can be used to store and organize data.
+And, an algorithm is a collection of steps to solve a particular problem.
+Learning data structures and algorithms allow us to write efficient and optimized computer programs.
+Our DSA tutorial will guide you to learn different types of data structures and algorithms and their implementations in Python, C, C++, and Java.
+Do you want to learn DSA the right way?
+Enroll in our Interactive DSA Course for FREE.
+Want to learn DSA with Python by solving quizzes and challenges after learning each concept?
+Enroll in our DSA Interactive Course for FREE.
+Programiz offers a complete series of easy to follow DSA tutorials along with suitable examples.
+These tutorials are targeted for absolute beginners who want to dive into the field of computer programming.
+Learning from books is always a good practice.
+You will get the big picture of programming concepts in the book which you may not find elsewhere.
+Here are some books we personally recommend.
+Once you have some idea about data structure and algorithms, there is a great resource at Data Structure Visualizations that lets you learn through animation.
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

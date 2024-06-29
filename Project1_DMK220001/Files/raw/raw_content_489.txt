@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output You can use '''(multiline string)''' or """(multiline string)""" to print a multiline string as shown above.
+Output If you use (" ") syntax, you need to specify the newlines explicitly using \n.
+Output You can use \ as in the above example code to write a multiline string.
+Sorry about that.
+Python Example Trim Whitespace From a String Python Example Capitalize the First Character of a String Python Example Count the Number of Occurrence of a Character in String Python Example Get a Substring of a String © Parewa Labs Pvt.
+Ltd. All rights reserved.

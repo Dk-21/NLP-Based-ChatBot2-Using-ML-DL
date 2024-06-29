@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output In order to calculate the time elapsed in executing a code, the time module can be used.
+The execution time depends on the system.
+Output Similar to Example 1, we use timer() method from timeit module.
+timeit provides the most accurate results.
+Also Read: Sorry about that.
+Python Tutorial Python time Module Python Tutorial Python Get Current time Python Tutorial How to get current date and time in Python?
+Python Tutorial Python sleep() © Parewa Labs Pvt.
+Ltd. All rights reserved.

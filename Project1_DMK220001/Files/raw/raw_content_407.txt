@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Here, we have used the if...elif...else statement.
+We can do the same thing using nested if statements as follows.
+The output of both programs will be the same.
+Output 1 Output 2 A number is positive if it is greater than zero.
+We check this in the expression of if.
+If it is False, the number will either be zero or negative.
+This is also tested in subsequent expression.
+Also Read:  Sorry about that.
+Python Example Check if a Number is Odd or Even Python Example Find the Factorial of a Number Python Example Check Armstrong Number Python Example Find Factorial of Number Using Recursion © Parewa Labs Pvt.
+Ltd. All rights reserved.

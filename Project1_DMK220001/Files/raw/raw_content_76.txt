@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Red-Black tree is a self-balancing binary search tree in which each node contains an extra bit for denoting the color of the node, either red or black.
+Before reading this article, please refer to the article on red-black tree.
+While inserting a new node, the new node is always inserted as a RED node.
+After insertion of a new node, if the tree is violating the properties of the red-black tree then, we do the following operations.
+Following steps are followed for inserting a new element into a red-black tree: Why newly inserted nodes are always red in a red-black tree?
+This is because inserting a red node does not violate the depth property of a red-black tree.
+If you attach a red node to a red node, then the rule is violated but it is easier to fix this problem than the problem introduced by violating the depth property.
+This algorithm is used for maintaining the property of a red-black tree if insertion of a newNode violates this property.
+The final tree look like this: Sorry about that.
+DS & Algorithms Deletion From a Red-Black Tree DS & Algorithms Red-Black Tree DS & Algorithms Tree Traversal - inorder, preorder and postorder DS & Algorithms Full Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

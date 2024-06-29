@@ -1,0 +1,16 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Heap data structure is a complete binary tree that satisfies the heap property, where any given node is This type of data structure is also called a binary heap.
+Some of the important operations performed on a heap are described below along with their algorithms.
+Heapify is the process of creating a heap data structure from a binary tree.
+It is used to create a Min-Heap or a Max-Heap.
+Algorithm To create a Max-Heap: For Min-Heap, both leftChild and rightChild must be larger than the parent for all nodes.
+Algorithm for insertion in Max Heap  For Min Heap, the above algorithm is modified so that parentNode is always smaller than newNode.
+Algorithm for deletion in Max Heap For Min Heap, above algorithm is modified so that both childNodes are greater smaller than currentNode.
+Peek operation returns the maximum element from Max Heap or minimum element from Min Heap without deleting the node.
+For both Max heap and Min Heap Extract-Max returns the node with maximum value after removing it from a Max Heap whereas Extract-Min returns the node with minimum after removing it from Min Heap.
+Sorry about that.
+DS & Algorithms Priority Queue DS & Algorithms Heap Sort Algorithm DS & Algorithms Huffman Coding DS & Algorithms Fibonacci Heap © Parewa Labs Pvt.
+Ltd. All rights reserved.

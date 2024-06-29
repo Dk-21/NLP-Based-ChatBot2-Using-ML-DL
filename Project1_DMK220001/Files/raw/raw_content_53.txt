@@ -1,0 +1,29 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A linked list is a linear data structure that includes a series of connected nodes.
+Here, each node stores the data and the address of the next node.
+For example, You have to start somewhere, so we give the address of the first node a special name called HEAD.
+Also, the last node in the linked list can be identified because its next portion points to NULL.
+Linked lists can be of multiple types: singly, doubly, and circular linked list.
+In this article, we will focus on the singly linked list.
+To learn about other types, visit Types of Linked List.
+Note: You might have played the game Treasure Hunt, where each clue includes the information about the next clue.
+That is how the linked list operates.
+Let's see how each node of the linked list is represented.
+Each node consists: We wrap both the data item and the next node reference in a struct as: Understanding the structure of a linked list node is the key to having a grasp on it.
+Each struct node has a data item and a pointer to another struct node.
+Let us create a simple Linked List with three items to understand how this works.
+If you didn't understand any of the lines above, all you need is a refresher on pointers and structs.
+In just a few steps, we have created a simple linked list with three nodes.
+The power of a linked list comes from the ability to break the chain and rejoin it.
+E.g.
+if you wanted to put an element 4 between 1 and 2, the steps would be: Doing something similar in an array would have required shifting the positions of all the subsequent elements.
+In python and Java, the linked list can be implemented using classes as shown in the codes below.
+Lists are one of the most popular and efficient data structures, with implementation in every programming language like C, C++, Python, Java, and C#.
+Apart from that, linked lists are a great way to learn how pointers work.
+By practicing how to manipulate linked lists, you can prepare yourself to learn more advanced data structures like graphs and trees.
+Time Complexity Space Complexity: O(n) Sorry about that.
+DS & Algorithms Types of Linked List - Singly linked, doubly linked and circular DS & Algorithms Linked List Operations: Traverse, Insert and Delete DS & Algorithms Circular Linked List DS & Algorithms Doubly Linked List © Parewa Labs Pvt.
+Ltd. All rights reserved.

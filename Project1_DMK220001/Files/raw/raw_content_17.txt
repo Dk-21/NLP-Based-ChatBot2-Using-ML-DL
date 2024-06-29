@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Python has a lot of list methods that allow us to work with lists.
+In this reference page, you will find all the list methods to work with Python List.
+For example, if you want to add a single item to the end of the list, you can use the list.append() method.
+Add a single element to the end of the list Removes all Items from the List returns a shallow copy of the list returns count of the element in the list adds iterable elements to the end of the list returns the index of the element in the list insert an element to the list Removes element at the given index Removes item from the list reverses the list sorts elements of a list © Parewa Labs Pvt.
+Ltd. All rights reserved.

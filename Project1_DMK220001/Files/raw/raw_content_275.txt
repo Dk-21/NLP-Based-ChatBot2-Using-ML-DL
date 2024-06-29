@@ -1,0 +1,54 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Python has a module named datetime to work with dates and times.
+It provides a variety of classes for representing and manipulating dates and times, as well as for formatting and parsing dates and times in a variety of formats.
+Output Here, we have imported the datetime module using the import datetime statement.
+One of the classes defined in the datetime module is the datetime class.
+We then used the now() method to create a datetime object containing the current local date and time.
+Output In the above example, we have used the today() method defined in the date class to get a datetime object containing the current local date.
+We can use the dir() function to get a list containing all attributes of a module.
+Output Among all the attributes of datetime module, the most commonly used classes in the datetime module are: In Python, we can instantiate date objects from the date class.
+A date object represents a date (year, month and day).
+Output Here, date() in the above example is a constructor of the date class.
+The constructor takes three arguments: year, month and day.
+We can only import the date class from the datetime module.
+For example, Output Here, from datetime import date only imports the date class from the datetime module.
+We can create a date object containing the current date by using the class method named today().
+For example, Output We can also create date objects from a timestamp.
+A UNIX timestamp is the number of seconds between a particular date and January 1, 1970, at UTC.
+You can convert a timestamp to a date using the fromtimestamp() method.
+Output We can get year, month, day, day of the week, etc.
+from the date object easily.
+For example, Output A time object instantiated from the time class represents the local time.
+Output Once we create the time object, we can easily print its attributes such as hour, minute, etc.
+For example,  Output Here, notice that we haven't passed the microsecond argument.
+Hence, its default value 0 is printed.
+The datetime module has a class named datetime that can contain information from both date and time objects.
+Output The first three arguments year, month and day in the datetime() constructor are mandatory.
+Output A timedelta object represents the difference between two dates or times.
+For example, Output Notice, both t3 and t6 are of <class 'datetime.timedelta'> type.
+Output Here, we have created two timedelta objects t1 and t2, and their difference is printed on the screen.
+We can get the total number of seconds in a timedelta object using the total_seconds() method.
+Output The way date and time are represented may be different in different places, organizations, etc.
+It's more common to use mm/dd/yyyy in the US, whereas dd/mm/yyyy is more common in the UK.
+Python has strftime() and strptime() methods to handle this.
+The strftime() method is defined under classes date, datetime and time.
+The method creates a formatted string from a given date, datetime or time object.
+Let's see an example.
+Output Here, %Y, %m, %d, %H etc.
+are format codes.
+The strftime() method takes one or more format codes and returns a formatted string based on it.
+In the above example, t, s1 and s2 are strings.
+To learn more about strftime() and format codes, visit: Python strftime().
+The strptime() method creates a datetime object from a given string (representing date and time).
+For example, Output The strptime() method takes two arguments: By the way, %d, %B and %Y format codes are used for day, month(full name) and year respectively.
+To learn more about strptime() and format codes, visit: Python strptime().
+Suppose, we are working on a project and need to display date and time based on their timezone.
+Rather than trying to handle the timezone yourself, we suggest using a third-party pytZ module.
+Output Here, datetime_NY and datetime_London are datetime objects containing the current date and time of their respective timezone.
+Also Read: Sorry about that.
+Python Tutorial How to get current date and time in Python?
+Python Tutorial Python timestamp to datetime and vice-versa Python Tutorial Python strftime() Python Tutorial Python strptime() © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A balanced binary tree, also referred to as a height-balanced binary tree, is defined as a binary tree in which the height of the left and right subtree of any node differ by not more than 1.
+To learn more about the height of a tree/node, visit Tree Data Structure.Following are the conditions for a height-balanced binary tree: The following code is for checking whether a tree is height-balanced.
+Sorry about that.
+DS & Algorithms Perfect Binary Tree DS & Algorithms Full Binary Tree DS & Algorithms Binary Tree DS & Algorithms Complete Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

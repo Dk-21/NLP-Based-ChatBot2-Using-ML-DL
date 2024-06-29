@@ -1,0 +1,24 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In Python, the global keyword allows us to modify the variable outside of the current scope.
+It is used to create a global variable and make changes to the variable in a local context.
+Before we learn about the global keyword, make sure you have got some basics of Python Variable Scope.
+First let's try to access a global variable from the inside of a function, Here, we can see that we have accessed a global variable from the inside of a function.
+However, if we try to modify the global variable from inside a function as: Output This is because we can only access the global variable but cannot modify it from inside the function.
+The solution for this is to use the global keyword.
+In the above example, we have defined c as the global keyword inside add().
+Then, we have incremented the variable c by 2, i.e c = c + 2.
+As we can see while calling add(), the value of global variable c is modified from 1 to 3.
+In Python, we can also use the global keyword in a nested function.
+For example, Output In the above example, we declared a global variable inside the nested function inner_function().
+Inside outer_function(), num has no effect of the global keyword.
+Before and after calling inner_function(), num takes the value of the local variable i.e num = 20.
+Outside of the outer_function() function, num will take the value defined in the inner_function() function i.e x = 25.
+This is because we have used the global keyword in num to create a global variable inside the inner_function() function (local scope).
+So, if we make any changes inside the inner_function() function, the changes appear outside the local scope, i.e.
+outer_function().
+The basic rules for global keyword in Python are: Also Read: Sorry about that.
+Python Tutorial Python Namespace and Scope Python Tutorial  Python Variable Scope Python Library Python globals() Python Tutorial List of Keywords in Python © Parewa Labs Pvt.
+Ltd. All rights reserved.

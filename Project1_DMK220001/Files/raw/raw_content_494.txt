@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Let's understand the difference between type() and isinstance() with the example code below.
+Output In the above example, we see that type() cannot distinguish whether an instance of a class is somehow related to the base class.
+In our case, although obj_triangle is an instance of child class Triangle, it is inherited from the base class Polygon.
+If you want to relate the object of a child class with the base class, you can achieve this with isinstance().
+Sorry about that.
+Python Example Calculate the Area of a Triangle Python Example Get the Class Name of an Instance Python Tutorial Python Object Oriented Programming Python Tutorial Python Numbers, Type Conversion and Mathematics © Parewa Labs Pvt.
+Ltd. All rights reserved.

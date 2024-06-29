@@ -1,0 +1,18 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In the previous tutorial, you learned how to install Python on your computer.
+Now, let's learn how to write a simple Python program.
+We will write a simple program that displays Hello, World!
+on the screen.
+Output  Let's see how the above program works:  
+Hello World Code
+ In Python, anything inside print() is displayed on the screen.
+There are two things to note about print(): We can also use single quotes to print text on the screen.
+For example,  is same as Note: We have used Hello World as your first Python program since it's beginner-friendly and is used everywhere to introduce a new programming language.
+And it's okay if you don't understand it now.
+We will explain all the underlying concepts in our upcoming tutorials.
+Sorry about that.
+Python Tutorial Python Comments Python Tutorial  Python Comments  Python Tutorial Python String Interpolation Python Tutorial Getting Started with Python © Parewa Labs Pvt.
+Ltd. All rights reserved.

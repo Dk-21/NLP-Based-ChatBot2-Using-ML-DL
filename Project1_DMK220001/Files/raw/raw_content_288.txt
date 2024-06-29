@@ -1,0 +1,30 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In programming, we define a function to make a reusable code that performs similar operation.
+To perform that operation, we call a function with the specific value, this value is called a function argument in Python.
+We would recommend you to read Python Function and Python Function Arguments.
+Suppose, we define a function for addition of 3 numbers.
+When we run the above program, the output will be In above program we have adder() function with three arguments x, y and z.
+When we pass three values while calling adder() function, we get sum of the 3 numbers as the output.
+Lets see what happens when we pass more than 3 arguments in the adder() function.
+When we run the above program, the output will be In the above program, we passed 5 arguments to the adder() function instead of 3 arguments due to which we got TypeError.
+In Python, we can pass a variable number of arguments to a function using special symbols.
+There are two special symbols: We use *args and **kwargs as an argument when we are unsure about the number of arguments to pass in the functions.
+As in the above example we are not sure about the number of arguments that can be passed to a function.
+Python has *args which allow us to pass the variable number of non keyword arguments to function.
+In the function, we should use an asterisk * before the parameter name to pass variable length arguments.The arguments are passed as a tuple and these passed arguments make tuple inside the function with same name as the parameter excluding asterisk *.
+When we run the above program, the output will be In the above program, we used *num as a parameter which allows us to pass variable length argument list to the adder() function.
+Inside the function, we have a loop which adds the passed argument and prints the result.
+We passed 3 different tuples with variable length as an argument to the function.
+Python passes variable length non keyword argument to function using *args but we cannot use this to pass keyword argument.
+For this problem Python has got a solution called **kwargs, it allows us to pass the variable length of keyword arguments to the function.
+In the function, we use the double asterisk ** before the parameter name to denote this type of argument.
+The arguments are passed as a dictionary and these arguments make a dictionary inside function with name same as the parameter excluding double asterisk **.
+When we run the above program, the output will be In the above program, we have a function intro() with **data as a parameter.
+We passed two dictionaries with variable argument length to the intro() function.
+We have for loop inside intro() function which works on the data of passed dictionary and prints the value of the dictionary.
+Sorry about that.
+Python Tutorial Python Function Arguments Python Library Python dict() Python Tutorial Python Decorators Python Tutorial Python Functions © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,19 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A circular queue is the extended version of a regular queue where the last element is connected to the first element.
+Thus forming a circle-like structure.
+The circular queue solves the major limitation of the normal queue.
+In a normal queue, after a bit of insertion and deletion, there will be non-usable empty space.
+Here, indexes 0 and 1 can only be used after resetting the queue (deletion of all elements).
+This reduces the actual size of the queue.
+Circular Queue works by the process of circular increment i.e.
+when we try to increment the pointer and we reach the end of the queue, we start from the beginning of the queue.
+Here, the circular increment is performed by modulo division with the queue size.
+That is, The circular queue work as follows:  However, the check for full queue has a new additional case: The second case happens when REAR starts from 0 due to circular increment and when its value is just 1 less than FRONT, the queue is full.
+The most common queue implementation is using arrays, but it can also be implemented using lists.
+The complexity of the enqueue and dequeue operations of a circular queue is O(1) for (array implementations).
+Sorry about that.
+DS & Algorithms Queue Data Structure DS & Algorithms Deque Data Structure DS & Algorithms Types of Queues DS & Algorithms Breadth first search © Parewa Labs Pvt.
+Ltd. All rights reserved.

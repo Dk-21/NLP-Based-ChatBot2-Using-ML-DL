@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+There are a number of ways we can take to get the current date.
+We will use the date class of the datetime module to accomplish this task.
+Output Here, we imported the date class from the datetime module.
+Then, we used the date.today() method to get the current local date.
+Output If we need to get the current date and time, you can use the datetime class of the datetime module.
+Output Here, we have used datetime.now() to get the current date and time.
+Then, we used strftime() to create a string representing date and time in another format.
+Also Read: Sorry about that.
+Python Tutorial Python datetime Python Tutorial Python Get Current time Python Tutorial Python timestamp to datetime and vice-versa Python Tutorial Python strftime() © Parewa Labs Pvt.
+Ltd. All rights reserved.

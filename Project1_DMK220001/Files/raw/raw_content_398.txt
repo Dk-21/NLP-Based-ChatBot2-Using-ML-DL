@@ -1,0 +1,23 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The map() function executes a given function to each element of an iterable (such as lists, tuples, etc.).
+Example The map() function takes two arguments: Note: We can pass more than one iterable to the map() function.
+The map() function returns a map object, which can be easily converted to lists, tuples, etc.
+Output In the above example, we have defined a tuple named numbers with 4 elements.
+Notice the line Here, the map() function squares each element of the tuple using the square function.
+The initial output <map object at 0x7f722da129e8>  represents a map object Finally, we convert the map object to a set and obtain the squared values of each element in tuple.
+Note: The output is not in order because sets in Python are unordered collections and do not preserve the original sequence of elements.
+In a map() function, we can also use a lambda function instead of a regular function.
+For example, Output In the above example, we have directly used the lambda function to perform the square of each element in the tuple.
+Note: Use of lambda() function makes the code concise and easier to read.
+We can use map() and lambda to add multiple lists in Python.
+For example, Output In the above example, we have passed two lists num1 and num2 to the map() function.
+Notice the line, 
+ Here, the lambda function is used within map() to add the corresponding elements of the both lists.
+We can use map() function to modify the string.
+For example, Output In the above example, we have used list() around map() to convert each string to a list of individual characters.
+Sorry about that.
+Python Library Python range() Function Python Library Python list() Python Library Python tuple() Python Library Python min() © Parewa Labs Pvt.
+Ltd. All rights reserved.

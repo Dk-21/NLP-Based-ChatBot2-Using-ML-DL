@@ -1,0 +1,17 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A B+ tree is an advanced form of a self-balancing tree in which all the values are present in the leaf level.
+An important concept to be understood before learning B+ tree is multilevel indexing.
+In multilevel indexing, the index of indices is created as in figure below.
+It makes accessing the data easier and faster.
+The data pointers are present only at the leaf nodes on a B+ tree whereas the data pointers are present in the internal, leaf or root nodes on a B-tree.
+The leaves are not connected with each other on a B-tree whereas they are connected on a B+ tree.
+Operations on a B+ tree are faster than on a B-tree.
+The following steps are followed to search for data in a B+ Tree of order m. Let the data to be searched be k. Let us search k = 45 on the following B+ tree.
+If linear search is implemented inside a node, then total complexity is Θ(logt n).
+If binary search is used, then total complexity is Θ(log2t.logt n).
+Sorry about that.
+DS & Algorithms Insertion on a B+ Tree DS & Algorithms Deletion from a B+ Tree DS & Algorithms Insertion into a B-tree DS & Algorithms Perfect Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

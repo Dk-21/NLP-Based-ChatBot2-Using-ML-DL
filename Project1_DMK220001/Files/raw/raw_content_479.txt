@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Using strptime(), date and time in string format can be converted to datetime type.
+The first parameter is the string and the second is the date time format specifier.
+One advantage of converting to date format is one can select the month or date or time individually.
+If you want to learn more about the directives and strptime(), please go to Python strptime() - string to datetime object.
+Output Using dateutil module, parse() can be used to convert a string into date time format.
+The only parameter used is the string.
+Also Read:  Sorry about that.
+Python Tutorial Python timestamp to datetime and vice-versa Python Tutorial Python datetime Python Tutorial How to get current date and time in Python?
+Python Tutorial Python strftime() © Parewa Labs Pvt.
+Ltd. All rights reserved.

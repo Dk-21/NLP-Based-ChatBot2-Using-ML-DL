@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: The content of the file my_file.txt is The source code to write to a file in append mode is: The content of the file after appending a text to it is: Open the file in append 'a' mode, and write to it using write() method.
+Inside write() method, a string "new text" is passed.
+This text is seen on the file as shown above.
+If you want to learn more about different types of file opening modes, please refer to Python file I/O.
+Also Read: Sorry about that.
+Python Example Python Program Read a File Line by Line Into a List Python Example Get Line Count of a File Python Tutorial  Python File Operation  Python Example Copy a File © Parewa Labs Pvt.
+Ltd. All rights reserved.

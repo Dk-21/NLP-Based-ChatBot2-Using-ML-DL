@@ -1,0 +1,19 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The best way to learn Kotlin is by practicing examples.
+The page
+      contains examples on basic concepts of Kotlin.
+You are advised to take the
+      references from these examples and try them on your own.
+All the programs on this page are tested and should work on all platforms.
+Kotlin Examples
+                 Kotlin Program to Get Current Date/Time 
+                    Kotlin Examples
+                 Kotlin Program to Convert List to Array and Vice-Versa 
+                    Kotlin Examples
+                 Kotlin Program to Convert String to Date 
+                    Kotlin Examples
+                 Program to Sort ArrayList of Custom Objects By Property © Parewa Labs Pvt.
+Ltd. All rights reserved.

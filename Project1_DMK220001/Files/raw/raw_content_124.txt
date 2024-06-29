@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+C# (pronounced as C sharp) is a general-purpose, object-oriented programming language.
+It is one of the most popular languages used for developing desktop and web applications.
+Being a C based language, C# is closer to C++ and C. Syntactically, it is similar to Java.
+Our C# programming tutorial will guide you to learn C# programming one step at a time.
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

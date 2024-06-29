@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output int() can be used to parse a string to an integer.
+The argument passed balance_int is the string.
+As shown in the above example, you can see the type of the string changed to int.
+Note: The string must be a numeral value.
+Output float() can be used to parse a string to an integer.
+Similar to Example 1, the string is passed as an argument to float().
+Output If the string is a float numeral, you can convert it into a float type using float(), and then parse it to an integer using int().
+Also Read: Sorry about that.
+Python Example Check If a String Is a Number (Float) Python Tutorial Python Type Conversion  Python Tutorial Python Numbers, Type Conversion and Mathematics Python Example Print Output Without a Newline © Parewa Labs Pvt.
+Ltd. All rights reserved.

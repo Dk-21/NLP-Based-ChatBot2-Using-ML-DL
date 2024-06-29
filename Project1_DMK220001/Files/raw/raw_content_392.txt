@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: The standard form of a quadratic equation is: The solutions of this quadratic equation is given by: Output We have imported the cmath module to perform complex square root.
+First, we calculate the discriminant and then find the two solutions of the quadratic equation.
+You can change the value of a, b and c in the above program and test this program.
+Also Read:  Sorry about that.
+Python Example Find the Square Root Python Tutorial Python Mathematical Functions Python Example Find the Sum of Natural Numbers Python Example Find the Largest Among Three Numbers © Parewa Labs Pvt.
+Ltd. All rights reserved.

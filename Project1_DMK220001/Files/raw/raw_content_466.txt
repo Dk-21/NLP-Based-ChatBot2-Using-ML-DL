@@ -1,0 +1,20 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: There are different ways to create a nested directory depending on the versions of python you are using.
+For this example, we will create directories as shown in the image below.
+For python 3.5 and above, you can use pathlib.Path.mkdir to create a nested directory.
+Note: You should provide the full path (absolute path) of the directory (not relative path).
+If the directory already exists, the above code does not raise an exception.
+For python 3.2 and above, you can use os.makedirs.
+You should provide the full path (absolute path) of the directory (not relative path).
+If the directory already exists, the above code does not raise an exception.
+This example is also similar to Example 2.
+Here mkpath() is used instead of makedirs().
+You should provide the full path (absolute path) of the directory (not the relative path).
+If the directory already exists, the above code does not raise an exception.
+This example is similar to Example 2.
+Also Read:  Sorry about that.
+Python Example Get the Full Path of the Current Working Directory Python Tutorial Python Directory and Files Management Python Example Get the File Name From the File Path Python Example Find All File with .txt Extension Present Inside a Directory © Parewa Labs Pvt.
+Ltd. All rights reserved.

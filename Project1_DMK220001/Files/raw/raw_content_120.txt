@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Rust is an open-source programming language that is extensively used to build kernels for operating systems, game engines for video games, browser engines for web browsers like Chrome, Firefox, and command-line tools.
+It is one of the fastest programming languages and requires less memory.
+Our Rust tutorials will guide you to learn Rust programming one step at a time.
+Rust is one of the most popular programming languages in recent times.
+Here're some of the features of Rust that make it so popular: Here're some of the reasons why you should learn Rust: © Parewa Labs Pvt.
+Ltd. All rights reserved.

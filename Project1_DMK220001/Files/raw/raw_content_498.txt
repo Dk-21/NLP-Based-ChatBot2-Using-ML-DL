@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output When you return multiple values using comma(s), they are returned in the form of a tuple.
+As shown in the code above, two strings "John" and "Armin" are returned with a single return statement.
+Output When you return values using a dictionary, it is easy for you to keep track of the returned values using the keys.
+The return statement returns the two variables in the form a dictionary.
+Sorry about that.
+Python Tutorial Python Nested Dictionary Python Tutorial Python Dictionary Comprehension Python Example Print Output Without a Newline Python Example Check if a Key is Already Present in a Dictionary © Parewa Labs Pvt.
+Ltd. All rights reserved.

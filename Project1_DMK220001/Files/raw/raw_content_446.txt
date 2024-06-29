@@ -1,0 +1,8 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: In the program below, we have used anonymous (lambda) function inside the filter() built-in function to find all the numbers divisible by 13 in the list.
+Output Also Read:  Sorry about that.
+Python Tutorial  Python Lambda/Anonymous Function  Python Example Find the Factors of a Number Python Example Display Powers of 2 Using Anonymous Function Python Tutorial Python List Comprehension © Parewa Labs Pvt.
+Ltd. All rights reserved.

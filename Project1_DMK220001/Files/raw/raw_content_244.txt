@@ -1,0 +1,28 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A tuple is a collection of data similar to a Python list.
+The only difference is that we cannot modify a tuple once it has been created.
+We create a tuple by placing items inside parentheses ().
+For example, We can also create a tuple using a tuple() constructor.
+For example, Here are the different types of tuples we can create in Python.
+Empty Tuple Tuple of different data types Tuple of mixed data types Tuples are: Each item in a tuple is associated with a number, known as a index.
+The index always starts from 0, meaning the first item of a tuple is at index 0, the second item is at index 1, and so on.
+We use index numbers to access tuple items.
+For example, Python tuples are immutable (unchangeable).
+We cannot add, change, or delete items of a tuple.
+If we try to modify a tuple, we will get an error.
+For example, We use the len() function to find the number of items present in a tuple.
+For example, We use the for loop to iterate over the items of a tuple.
+For example, Output We use the in keyword to check if an item exists in the tuple.
+For example, Here, Python Tuples are immutable - we cannot change the items of a tuple once created.
+If we try to do so, we will get an error.
+For example, We cannot delete individual items of a tuple.
+However, we can delete the tuple itself using the del statement.
+For example, Here, we have deleted the animals tuple.
+When we want to create a tuple with a single item, we might do the following: But this would not create a tuple; instead, it would be considered a string.
+To solve this, we need to include a trailing comma after the item.
+For example, Also Read: Sorry about that.
+Python Library Python tuple() Python Library Python Tuple count() Python Library Python Tuple index() Python Tutorial Python del Statement © Parewa Labs Pvt.
+Ltd. All rights reserved.

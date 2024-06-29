@@ -1,0 +1,30 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In Python, we can declare variables in three different scopes: local scope, global, and nonlocal scope.
+A variable scope specifies the region where we can access a variable.
+For example, Here, the sum variable is created inside the function, so it can only be accessed within it (local scope).
+This type of variable is called a local variable.
+Based on the scope, we can classify Python variables into three types: When we declare variables inside a function, these variables will have a local scope (within the function).
+We cannot access them outside the function.
+These types of variables are called local variables.
+For example, Output Here, the message variable is local to the greet() function, so it can only be accessed within the function.
+That's why we get an error when we try to access it outside the greet() function.
+To fix this issue, we can make the variable named message global.
+In Python, a variable declared outside of the function or in global scope is known as a global variable.
+This means that a global variable can be accessed inside or outside of the function.
+Let's see an example of how a global variable is created in Python.
+Output This time we can access the message variable from outside of the greet() function.
+This is because we have created the message variable as the global variable.
+Now, message will be accessible from any scope (region) of the program.
+In Python, nonlocal variables are used in nested functions whose local scope is not defined.
+This means that the variable can be neither in the local nor the global scope.
+We use the nonlocal keyword to create nonlocal variables.
+For example, Output In the above example, there is a nested inner() function.
+We have used the nonlocal keywords to create a nonlocal variable.
+The inner() function is defined in the scope of another function outer().
+Note : If we change the value of a nonlocal variable, the changes appear in the local variable.
+Also Read: Sorry about that.
+Python Tutorial Python Global Keyword  Python Tutorial Python Namespace and Scope Python Tutorial Python Closures Python Library Python locals() © Parewa Labs Pvt.
+Ltd. All rights reserved.

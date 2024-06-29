@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output basename() gives the name of the last file/folder of the path, whereas splitext() splits the file name into filename and extension.
+Output Output Using stem attribute of Path module, the file name can be extracted as shown above.
+It works for python 3.4 and above.
+Also Read: Sorry about that.
+Python Example Extract Extension From the File Name Python Example Get the Full Path of the Current Working Directory Python Example Find All File with .txt Extension Present Inside a Directory Python Example Check the File Size © Parewa Labs Pvt.
+Ltd. All rights reserved.

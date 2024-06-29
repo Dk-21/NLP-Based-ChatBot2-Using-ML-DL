@@ -1,0 +1,27 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Iterators are methods that iterate collections like lists, tuples, etc.
+Using an iterator method, we can loop through an object and return its elements.
+Technically, a Python iterator object must implement two special methods, __iter__() and __next__(), collectively called the iterator protocol.
+In Python, we can use the next() function to return the next item in the sequence.
+Let's see an example, Output Here, first we created an iterator from the list using the iter() method.
+And then used the next() function to retrieve the elements of the iterator in sequential order.
+When we reach the end and there is no more data to be returned, we will get the StopIteration Exception.
+A more elegant way of automatically iterating is by using the for loop.
+For example, Output The for loop in Python is used to iterate over a sequence of elements, such as a list, tuple, or string.
+When we use the for loop with an iterator, the loop will automatically iterate over the elements of the iterator until it is exhausted.
+Here's an example of how a for loop works with an iterator, In this example, the for loop iterates over the elements of the iterator object.
+On each iteration, the loop assigns the value of the next element to the variable element, and then executes the indented code block.
+This process continues until the iterator is exhausted, at which point the for loop terminates.
+Building an iterator from scratch is easy in Python.
+We just have to implement the __iter__() and the __next__() methods, Let's see an example that will give us the next power of 2 in each iteration.
+Power exponent starts from zero up to a user set number, Output We can also use a for loop to iterate over our iterator class.
+Output To learn more about object-oriented programming, visit Python OOP.
+An infinite iterator is an iterator that never ends, meaning that it will continue to produce elements indefinitely.
+Here is an example of how to create an infinite iterator in Python using the count() function from the itertools module, Output Here, we have created an infinite iterator that starts at 1 and increments by 1 each time.
+And then we printed the first 5 elements of the infinite iterator using the for loop and the next() method.
+Sorry about that.
+Python Library Python next() Python Library Python iter() Python Library Python list() Python Tutorial Python Generators © Parewa Labs Pvt.
+Ltd. All rights reserved.

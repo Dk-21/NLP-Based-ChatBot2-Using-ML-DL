@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Python offers random module that can generate random numbers.
+These are pseudo-random number as the sequence of number generated depends on the seed.
+If the seeding value is same, the sequence will be the same.
+For example, if you use 2 as the seeding value, you will always see the following sequence.
+The output will always follow the sequence:  Not so random eh?
+Since this generator is completely deterministic, it must not be used for encryption purpose.
+Here is the list of all the functions defined in random module with a brief explanation of what they do.
+Visit this page to learn more on how you can generate pseudo-random numbers in Python.
+Sorry about that.
+Python Tutorial Python Numbers, Type Conversion and Mathematics Python Library Python List count() Python Library Python next() Python Library Python abs() © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,24 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Deque or Double Ended Queue is a type of queue in which insertion and removal of elements can either be performed from the front or the rear.
+Thus, it does not follow FIFO rule (First In First Out).
+Below is the circular array implementation of deque.
+In a circular array, if the array is full, we start from the beginning.
+But in a linear array implementation, if the array is full, no more elements can be inserted.
+In each of the operations below, if the array is full, "overflow message" is thrown.
+Before performing the following operations, these steps are followed.
+This operation adds an element at the front.
+This operation adds an element to the rear.
+The operation deletes an element from the front.
+This operation deletes an element from the rear.
+This operation checks if the deque is empty.
+If front = -1, the deque is empty.
+This operation checks if the deque is full.
+If front = 0 and rear = n - 1 OR front = rear + 1, the deque is full.
+The time complexity of all the above operations is constant i.e.
+O(1).
+Sorry about that.
+DS & Algorithms Circular Queue Data Structure DS & Algorithms Queue Data Structure DS & Algorithms Types of Queues DS & Algorithms Breadth first search © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,13 @@
+Try Programiz PRO Learn SQL practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+SQL (Structured Query Language) is a powerful and standard query language for relational database systems.
+We use SQL to perform CRUD (Create, Read, Update, Delete) operations on databases along with other various operations.
+SQL has evolved a lot in the past decade.
+Our SQL tutorials will help you understand the core concepts of modern SQL in database systems such as MySQL, PostgreSQL, Oracle and MS SQL, one step at a time.
+Do you want to learn SQL the right way?
+Enroll in our Interactive SQL Course for FREE.
+SQL is a standardized programming language that is used to communicate with database systems.
+SQL is used to © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output In this program, we use the temp variable to hold the value of x temporarily.
+We then put the value of y in x and later temp in y.
+In this way, the values get exchanged.
+In Python, there is a simple construct to swap variables.
+The following code does the same as above but without the use of any temporary variable.
+If the variables are both numbers, we can use arithmetic operations to do the same.
+It might not look intuitive at first sight.
+But if you think about it, it is pretty easy to figure it out.
+Here are a few examples Addition and Subtraction Multiplication and Division XOR swap This algorithm works for integers only Also Read:  Sorry about that.
+Python Example Find HCF or GCD Python Tutorial Python Programming Python Tutorial  Python Variable Scope Python Example Check Armstrong Number © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,21 @@
+Try Programiz PRO Learn Java practically 
+                and Get Certified.
+Learn Java practically 
+                        and Get Certified.
+The best way to learn Java programming is by practicing examples.
+The page
+        contains examples on basic concepts of Java.
+You are advised to take the
+        references from these examples and try them on your own.
+All the programs on this page are tested and should work on all platforms.
+Want to learn Java by writing code yourself?
+Enroll in our Interactive Java Course for FREE.
+Java Examples
+                 Java Program to Check Prime Number 
+                    Java Examples
+                 Java Program to Display Fibonacci Series 
+                    Java Examples
+                 Java Program to Create Pyramids and Patterns 
+                    Java Examples
+                 Java Program to Reverse a Number © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The items() method returns a view object that displays a list of dictionary's (key, value) tuple pairs.
+The syntax of items() method is: Note: items() method is similar to dictionary's viewitems() method in Python 2.7.
+The items() method doesn't take any parameters.
+The items() method returns a view object that displays a list of a given dictionary's (key, value) tuple pair.
+Output Output The view object items doesn't itself return a list of sales items but it returns a view of sales's (key, value) pair.
+If the list is updated at any time, the changes are reflected on the view object itself, as shown in the above program.
+Also Read: Sorry about that.
+Python Library Python Dictionary values() Python Library Python Dictionary pop() Python Library Python Dictionary clear() Python Library Python Dictionary keys() © Parewa Labs Pvt.
+Ltd. All rights reserved.

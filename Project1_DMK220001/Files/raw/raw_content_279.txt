@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+There are a number of ways we can take to get current time in Python.
+Output In the above example, we have imported the datetime class from the datetime module.
+Then, we used the now() function to get a datetime object containing current date and time.
+Using datetime.strftime() function, we then created a string representing current time.
+In Python, we can also get the current time using the time module.
+Output If we need to find the current time of a certain timezone, you can use the pytZ module.
+Output Here, we have used the pytz module to find the current time of a certain time zone.
+Also Read: Sorry about that.
+Python Tutorial How to get current date and time in Python?
+Python Tutorial Python datetime Python Tutorial Python timestamp to datetime and vice-versa Python Tutorial Python strftime() © Parewa Labs Pvt.
+Ltd. All rights reserved.

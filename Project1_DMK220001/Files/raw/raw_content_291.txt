@@ -1,0 +1,19 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The print() function prints the given object to the standard output device (screen) or to the text stream file.
+The full syntax of print() is: Note: sep, end, file, and flush are keyword arguments.
+If you want to use sep argument, you have to use: not It doesn't return any value; returns None.
+Output In the above program, only the objects parameter is passed to print() function (in all three print statements).
+Hence, Output We passed the sep and end parameters in the above program.
+In Python, you can print objects to the file by specifying the file parameter.
+Recommended Reading: Python File I/O This program tries to open the python.txt in writing mode.
+If this file doesn't exist, python.txt file is created and opened in writing mode.
+Here, we have passed sourceFile file object to the file parameter.
+The string object 'Pretty cool, huh!'
+is printed to the python.txt file (check it in your system).
+Finally, the file is closed using the close() method.
+Also Read: Sorry about that.
+Python Library Python open() Python Library Python object() Python Library Python hash() Python Library Python iter() © Parewa Labs Pvt.
+Ltd. All rights reserved.

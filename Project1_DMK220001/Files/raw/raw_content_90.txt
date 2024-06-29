@@ -1,0 +1,19 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Quicksort is a sorting algorithm based on the divide and conquer approach where 1.
+Select the Pivot Element There are different variations of quicksort where the pivot element is selected from different positions.
+Here, we will be selecting the rightmost element of the array as the pivot element.
+2.
+Rearrange the Array Now the elements of the array are rearranged so that elements that are smaller than the pivot are put on the left and the elements greater than the pivot are put on the right.
+Here's how we rearrange the array: 3.
+Divide Subarrays Pivot elements are again chosen for the left and the right sub-parts separately.
+And, step 2 is repeated.
+The subarrays are divided until each subarray is formed of a single element.
+At this point, the array is already sorted.
+You can understand the working of quicksort algorithm with the help of the illustrations below.
+The space complexity for quicksort is O(log n).
+Quicksort algorithm is used when Sorry about that.
+DS & Algorithms Insertion Sort Algorithm DS & Algorithms Selection Sort Algorithm DS & Algorithms Bubble Sort DS & Algorithms Binary Search © Parewa Labs Pvt.
+Ltd. All rights reserved.

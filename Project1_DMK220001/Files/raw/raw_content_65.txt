@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A complete binary tree is a binary tree in which all the levels are completely filled except possibly the lowest one, which is filled from the left.
+A complete binary tree is just like a full binary tree, but with two major differences A complete binary tree has an interesting property that we can use to find the children and parents of any node.
+If the index of any element in the array is i, the element in the index 2i+1 will become the left child and element in 2i+2 index will become the right child.
+Also, the parent of any element at index i is given by the lower bound of (i-1)/2.
+Let's test it out, Let us also confirm that the rules hold for finding parent of any node Understanding this mapping of array indexes to tree positions is critical to understanding how the Heap Data Structure works and how it is used to implement Heap Sort.
+Sorry about that.
+DS & Algorithms Full Binary Tree DS & Algorithms Perfect Binary Tree DS & Algorithms Balanced Binary Tree DS & Algorithms Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

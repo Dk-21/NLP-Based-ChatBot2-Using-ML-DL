@@ -1,0 +1,17 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: ASCII stands for American Standard Code for Information Interchange.
+It is a numeric value given to different characters and symbols, for computers to store and manipulate.
+For example, the ASCII value of the letter 'A' is 65.
+Output Note: To test this program for other characters, change the character assigned to the c variable.
+Here we have used ord() function to convert a character to an integer (ASCII value).
+This function returns the Unicode code point of that character.
+Unicode is also an encoding technique that provides a unique number to a character.
+While ASCII only encodes 128 characters, the current Unicode has more than 100,000 characters from hundreds of scripts.
+Your turn: Modify the code above to get characters from their corresponding ASCII values using the chr() function as shown below.
+Here, ord() and chr() are built-in functions.
+Also Read:  Sorry about that.
+Python Tutorial Python Strings Python Tutorial Python Programming Built-in Functions Python Example Capitalize the First Character of a String Python Example Count the Number of Occurrence of a Character in String © Parewa Labs Pvt.
+Ltd. All rights reserved.

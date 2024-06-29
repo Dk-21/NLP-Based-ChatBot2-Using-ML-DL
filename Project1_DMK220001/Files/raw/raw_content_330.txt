@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The count() method returns the number of times the specified element appears in the list.
+The syntax of the count() method is: The count() method takes a single argument: The count() method returns the number of times element appears in the list.
+Output Output Also Read: Sorry about that.
+Python Library Python List index() Python Library Python List insert() Python Library Python List remove() Python Library Python List pop() © Parewa Labs Pvt.
+Ltd. All rights reserved.

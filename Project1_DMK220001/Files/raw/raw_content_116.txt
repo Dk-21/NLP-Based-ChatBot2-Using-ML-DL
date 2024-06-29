@@ -1,0 +1,6 @@
+Try Programiz PRO  R programming is an interpreted programming language widely used to analyze statistical information and a graphical representation.
+R programming is popular in the field of data science among data analysts, researchers, statisticians, etc.
+You can use R to retrieve data from datasets, clean them, analyze and visualize them, and present them in the most suitable way.
+Our R tutorials will guide you to learn R programming one step at a time.
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

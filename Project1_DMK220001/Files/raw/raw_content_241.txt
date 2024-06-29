@@ -1,0 +1,24 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In programming, the break and continue statements are used to alter the flow of loops: The break statement terminates the loop immediately when it's encountered.
+Syntax The above image shows the working of break statements in for and while loops.
+Note: The break statement is usually used inside decision-making statements such as if...else.
+We can use the break statement with the for loop to terminate the loop when a certain condition is met.
+For example, Output In the above example,  terminates the loop when i is equal to 3.
+Hence, the output doesn't include values after 2.
+Note: We can also terminate the while loop using a break statement.
+We can also terminate the while loop using the break statement.
+For example,  Output In the above example, terminates the loop when i is equal to 3.
+The continue statement skips the current iteration of the loop and the control flow of the program goes to the next iteration.
+Syntax We can use the continue statement with the for loop to skip the current iteration of the loop and jump to the next iteration.
+For example, Output In the above example,  skips the current iteration when i is equal to 3, and continues the next iteration.
+Hence, the output has all the values except 3.
+Note: We can also use the  continue statement with a while loop.
+We can skip the current iteration of the while loop using the continue statement.
+For example, Output In the above example, we have used the while loop to print the odd numbers between 1 and 10.
+Here, skips the current iteration when the number is even and starts the next iteration.
+Also Read: Sorry about that.
+Python Tutorial Python pass Statement Python Tutorial Python while Loop Python Tutorial Python Looping Techniques Python Tutorial Python for Loop © Parewa Labs Pvt.
+Ltd. All rights reserved.

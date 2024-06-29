@@ -1,0 +1,22 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A backtracking algorithm is a problem-solving algorithm that uses a brute force approach for finding the desired output.
+The Brute force approach tries out all the possible solutions and chooses the desired/best solutions.
+The term backtracking suggests that if the current solution is not suitable, then backtrack and try other solutions.
+Thus, recursion is used in this approach.
+This approach is used to solve problems that have multiple solutions.
+If you want an optimal solution, you must go for dynamic programming.
+A space state tree is a tree representing all the possible states (solution or nonsolution) of the problem from the root as an initial state to the leaf as a terminal state.
+Problem: You want to find all the possible ways of arranging 2 boys and 1 girl on 3 benches.
+Constraint: Girl should not be on the middle bench.
+Solution: There are a total of 3!
+= 6 possibilities.
+We will try all the possibilities and get the possible solutions.
+We recursively try all the possibilities.
+All the possibilities are: The following state space tree shows the possible solutions.
+Sorry about that.
+DS & Algorithms Greedy Algorithm DS & Algorithms Dynamic Programming DS & Algorithms Divide and Conquer Algorithm DS & Algorithms Why Learn Data Structures and Algorithms?
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The clear() method removes all items from the dictionary.
+The syntax of the clear() method is: Here, clear() removes all the items present in the dictionary.
+The clear() method doesn't take any parameters.
+The clear() method doesn't return any value.
+Output In the above example, we have used the clear() method to remove all the items from the dictionary cityTemperature.
+Here, the method removes every item from {"New York": 18, "Texas": 26} and returns an empty dictionary {}.
+Also Read: Sorry about that.
+Python Library Python Dictionary items() Python Library Python Dictionary copy() Python Library Python Dictionary values() Python Library Python Dictionary pop() © Parewa Labs Pvt.
+Ltd. All rights reserved.

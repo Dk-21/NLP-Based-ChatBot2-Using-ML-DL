@@ -1,0 +1,29 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+An adjacency list represents a graph as an array of linked lists.
+The index of the array represents a vertex and each element in its linked list represents the other vertices that form an edge with the vertex.
+For example, we have a graph below.
+We can represent this graph in the form of a linked list on a computer as shown below.
+Here, 0, 1, 2, 3 are the vertices and each of them forms a linked list with all of its adjacent vertices.
+For instance, vertex 1 has two adjacent vertices 0 and 2.
+Therefore, 1 is linked with 0 and 2 in the figure above.
+The simplest adjacency list needs a node data structure to store a vertex and a graph data structure to organize the nodes.
+We stay close to the basic definition of a graph - a collection of vertices and edges {V, E}.
+For simplicity, we use an unlabeled graph as opposed to a labeled one i.e.
+the vertices are identified by their indices 0,1,2,3.
+Let's dig into the data structures at play here.
+Don't let the struct node** adjLists overwhelm you.
+All we are saying is we want to store a pointer to struct node*.
+This is because we don't know how many vertices the graph will have and so we cannot create an array of Linked Lists at compile time.
+It is the same structure but by using the in-built list STL data structures of C++, we make the structure a bit cleaner.
+We are also able to abstract the details of the implementation.
+We use Java Collections to store the Array of Linked Lists.
+The type of LinkedList is determined by what data you want to store in it.
+For a labeled graph, you could store a dictionary instead of an Integer There is a reason Python gets so much love.
+A simple dictionary of vertices and its edges is a sufficient representation of a graph.
+You can make the vertex itself as complex as you want.
+Sorry about that.
+DS & Algorithms Depth First Search (DFS) DS & Algorithms Graph Data Stucture DS & Algorithms Breadth first search DS & Algorithms Adjacency Matrix © Parewa Labs Pvt.
+Ltd. All rights reserved.

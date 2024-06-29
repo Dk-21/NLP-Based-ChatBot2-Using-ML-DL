@@ -1,0 +1,41 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In Python, a string is a sequence of characters.
+For example, "hello" is a string containing a sequence of characters 'h', 'e', 'l', 'l', and 'o'.
+We use single quotes or double quotes to represent a string in Python.
+For example, Here, we have created a string variable named string1.
+The variable is initialized with the string "Python Programming".
+Output In the above example, we have created string-type variables: name and message with values "Python" and "I love Python" respectively.
+Here, we have used double quotes to represent strings, but we can use single quotes too.
+We can access the characters in a string in three ways.
+Note: If we try to access an index out of the range or use numbers other than an integer, we will get errors.
+In Python, strings are immutable.
+That means the characters of a string cannot be changed.
+For example, Output However, we can assign the variable name to a new string.
+For example, We can also create a multiline string in Python.
+For this, we use triple double quotes """ or triple single quotes '''.
+For example, Output In the above example, anything inside the enclosing triple quotes is one multiline string.
+Many operations can be performed with strings, which makes it one of the most used data types in Python.
+We use the == operator to compare two strings.
+If two strings are equal, the operator returns True.
+Otherwise, it returns False.
+For example, Output In the above example, In Python, we can join (concatenate) two or more strings using the + operator.
+In the above example, we have used the + operator to join two strings: greet and name.
+We can iterate through a string using a for loop.
+For example, Output In Python, we use the len() method to find the length of a string.
+For example, We can test if a substring exists within a string or not, using the keyword in.
+Besides those mentioned above, there are various string methods present in Python.
+Here are some of those methods: The escape sequence is used to escape some of the characters present inside a string.
+Suppose we need to include both a double quote and a single quote inside a string, Since strings are represented by single or double quotes, the compiler will treat "He said, " as a string.
+Hence, the above code will cause an error.
+To solve this issue, we use the escape character \ in Python.
+Here is a list of all the escape sequences supported by Python.
+Python f-Strings makes it easy to print values and variables.
+For example, Output Here, f'{name} is from {country}' is an f-string.
+This new formatting syntax is powerful and easy to use.
+From now on, we will use f-Strings to print strings and variables.
+Also Read: Sorry about that.
+Python Tutorial Python Data Types Python Tutorial  Python Variable Scope Python Tutorial Your First Python Program  Python Library Python String strip() © Parewa Labs Pvt.
+Ltd. All rights reserved.

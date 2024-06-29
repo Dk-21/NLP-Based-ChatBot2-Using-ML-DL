@@ -1,0 +1,30 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The time module in Python provides functions for handling time-related tasks.
+The time-related tasks includes, In Python, the time() function returns the number of seconds passed since epoch (the point where time begins).
+For the Unix system, January 1, 1970, 00:00:00 at UTC is epoch.
+Let's see an example, In the above example, we have used the time.time() function to get the current time in seconds since the epoch, and then printed the result.
+The time.ctime() function in Python takes seconds passed since epoch as an argument and returns a string representing local time.
+Output Here, we have used the time.ctime() function to convert the time in seconds since the epoch to a readable format, and then printed the result.
+The sleep() function suspends (delays) execution of the current thread for the given number of seconds.
+Output Here's how this program works: To learn more about sleep(), please visit Python sleep().
+The localtime() function takes the number of seconds passed since epoch as an argument and returns struct_time (a tuple containing 9 elements corresponding to struct_time) in local time.
+Output  Here, if no argument or None is passed to localtime(), the value returned by time() is used.
+The gmtime() function takes the number of seconds passed since epoch as an argument and returns struct_time in UTC.
+Output Here, if no argument or None is passed to gmtime(), the value returned by time() is used.
+The mktime() function takes struct_time (a tuple containing 9 elements corresponding to struct_time) as an argument and returns the seconds passed since epoch in local time.
+The struct_time has the following structure: Let's see an example, Here, we have converted the time_tuple to seconds since the epoch.
+In Python, the asctime() function takes struct_time as an argument and returns a string representing it.
+Similar to mktime(), the time_tuple has the following structure: Let's see an example, Here, we can see time.asctime() converts the time tuple to a human-readable string.
+The strftime() function takes struct_time (or tuple corresponding to it) as an argument and returns a string representing it based on the format code used.
+For example, Output Here, %Y, %m, %d, %H etc.
+are format codes.
+To learn more, visit time.strftime().
+The strptime() function parses a string representing time and returns struct_time.
+Output Here, strptime() parses a string and convert it to the struct_time object.
+Sorry about that.
+Python Tutorial Python sleep() Python Tutorial Python datetime Python Tutorial How to get current date and time in Python?
+Python Tutorial Python Get Current time © Parewa Labs Pvt.
+Ltd. All rights reserved.

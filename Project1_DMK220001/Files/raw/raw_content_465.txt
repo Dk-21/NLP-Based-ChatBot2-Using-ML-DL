@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output In Python 3.9 and later versions, the | operator can be used to merge dictionaries.
+Note: If there are two keys with the same name, the merged dictionary contains the value of the latter key.
+Output In the above program, we have used ** to unpack dictionaries dict_1 and dict_2.
+Then, the dictionaries are merged by placing them inside {}.
+To know more about **kwargs, visit Python *args and **kwargs.
+Note: The above code works for Python 3.5 and above versions.
+Output Here, we have first copied the elements of dict_2 to dict_3 using the dictionary copy() method.
+Then, we updated dict_3 with the values of dict_1 using the dictionary update() method.
+Also Read:  Sorry about that.
+Python Example Concatenate Two Lists  Python Example Iterate Over Dictionaries Using for Loop Python Tutorial Python Dictionary  Python Tutorial Python *args and **kwargs © Parewa Labs Pvt.
+Ltd. All rights reserved.

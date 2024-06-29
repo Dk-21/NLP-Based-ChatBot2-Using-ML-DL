@@ -1,0 +1,17 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+It's pretty common to store date and time as a timestamp in a database.
+A Unix timestamp is the number of seconds between a particular date and January 1, 1970 at UTC.
+We can simply use the fromtimestamp() method from the datetime module to get a date from a UNIX timestamp.
+Output Here, we have imported the datetime class from the datetime module.
+Then, we used the datetime.fromtimestamp() class method which returns the local date and time (datetime object).
+This object is stored in the dt_object variable.
+Note: We can easily create a string representing date and time from a datetime object using strftime() method.
+In Python, we can get timestamp from a datetime object using the datetime.timestamp() method.
+For example, Output Here, the datetime.timestamp() method takes a datetime object as an argument and returns a Unix timestamp.
+Also Read: Sorry about that.
+Python Tutorial Python datetime Python Tutorial Python strftime() Python Tutorial How to get current date and time in Python?
+Python Tutorial Python Get Current time © Parewa Labs Pvt.
+Ltd. All rights reserved.

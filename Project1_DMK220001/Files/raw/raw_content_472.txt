@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Multiple exceptions can be caught using a tuple .
+The errors can be passed through a tuple as shown in example below.
+Input Output Here, we try to catch two types of exceptions TypeError and ValueError, which are passed as inside a tuple in the except block.
+In the above example, string and an integer cannot be added, so TypeError is caught.
+Let's see another example with a different exception.
+Input Output In the above example, the second input should have been an integer, but we passed a string 'b'.
+Therefore, ValueError is raised.
+Note: The error which comes first is caught as an exception in case of multiple exceptions.
+Also Read:  Sorry about that.
+Python Tutorial Python Custom Exceptions Python Tutorial Python Exceptions Python Tutorial Python Exception Handling   Python Tutorial  Python Basic Input and Output   © Parewa Labs Pvt.
+Ltd. All rights reserved.

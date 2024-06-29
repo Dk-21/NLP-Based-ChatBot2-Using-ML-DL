@@ -1,0 +1,40 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The CSV (Comma Separated Values) format is a common and straightforward way to store tabular data.
+To represent a CSV file, it should have the .csv file extension.
+Now, let's proceed with an example of the info .csv file and its data.
+Python provides a dedicated csv module to work with csv files.
+The module includes various methods to perform different operations.
+However, we first need to import the module using: The csv module provides the csv.reader() function to read a CSV file.
+Suppose we have a csv file named people.csv with the following entries.
+Now, let's read this csv file.
+Output  Here, we have opened the people.csv file in reading mode using: We then used the csv.reader() function to read the file.
+To learn more about reading csv files, Python Reading CSV Files.
+The csv.DictReader() class can be used to read the CSV file into a dictionary, offering a more user-friendly and accessible method.
+Suppose we want to read the following people.csv file.
+Now let's read this file.
+Output In this example, we have read data from the people.csv file and print each row as a dictionary.
+Here, we used csv.DictReader(file), which treats the first row of the CSV file as column headers and each subsequent row as a data record.
+The csv module provides the csv.writer() function to write to a CSV file.
+Let's look at an example.
+When we run the above program, a protagonist.csv file is created with the following content: In this example, we have created the CSV file named protagonist.csv in the writing mode.
+We then used the csv.writer() function to write to the file.
+To learn more about writing to a csv file, Python Writing CSV Files.
+Here,  We can use the csv.DictWriter() class to write dictionary data into a CSV file, which is useful for more structured data.
+For example, The program creates a players.csv file with the following entries: In this example, we have written data to the players.csv file using csv.DictWriter(file, fieldnames=fieldnames).
+The writer.writeheader() function writes these column headers to the first row of the file.
+And each call to writerow() adds a new row to the CSV file, where each dictionary represents a record with player_name and fide_rating as keys corresponding to the columns.
+Pandas is a popular data science library in Python for data manipulation and analysis.
+If we are working with huge chunks of data, it's better to use pandas to handle CSV files for ease and efficiency.
+Note: Before we can use pandas, we need to install and import it.
+To learn more, visit Install and Import  Pandas.
+To read the CSV file using pandas, we can use the read_csv() function.
+Here, the program reads people.csv from the current directory.
+To write to a CSV file, we need to use the to_csv() function of a DataFrame.
+Here, we have created a DataFrame using the pd.DataFrame() method.
+Then, the to_csv() function for this object is called, to write into person.csv.
+Also Read Sorry about that.
+Python Tutorial Working with CSV files in Python Python Tutorial Writing CSV files in Python Python Tutorial Reading CSV files in Python Python Library Python open() © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The Python del keyword is used to delete objects.
+Its syntax is: Here, obj_name can be variables, user-defined objects, lists, items within lists, dictionaries etc.
+In the program, we have deleted MyClass using del MyClass statement.
+The del statement can be used to delete an item at a given index.
+It can also be used to remove slices from a list.
+Recommended Reading: Python Dictionary Note: You can't delete items of tuples and strings in Python.
+It's because tuples and strings are immutables; objects that can't be changed after their creation.
+However, you can delete an entire tuple or string.
+Sorry about that.
+Python Tutorial Python Dictionary  Python Tutorial  Python Lambda/Anonymous Function  Python Tutorial Python Tuple Python Tutorial Python Lists Vs Tuples © Parewa Labs Pvt.
+Ltd. All rights reserved.

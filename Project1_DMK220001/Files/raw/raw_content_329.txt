@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The clear() method removes all items from the list.
+The syntax of clear() method is: The clear() method doesn't take any parameters.
+The clear() method only empties the given list.
+It doesn't return any value.
+Output Note: If you are using Python 2 or Python 3.2 and below, you cannot use the clear() method.
+You can use the del operator instead.
+Output To learn more about the del operator, visit Python del Statement.
+Also Read: Sorry about that.
+Python Library Python List remove() Python Library Python List copy() Python Library Python List pop() Python Library Python List insert() © Parewa Labs Pvt.
+Ltd. All rights reserved.

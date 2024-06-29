@@ -1,0 +1,18 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Floyd-Warshall Algorithm is an algorithm for finding the shortest path between all the pairs of vertices in a weighted graph.
+This algorithm works for both the directed and undirected weighted graphs.
+But, it does not work for the graphs with negative cycles (where the sum of the edges in a cycle is negative).
+A weighted graph is a graph in which each edge has a numerical value associated with it.
+Floyd-Warhshall algorithm is also called as Floyd's algorithm, Roy-Floyd algorithm, Roy-Warshall algorithm, or WFI algorithm.
+This algorithm follows the dynamic programming approach to find the shortest paths.
+Let the given graph be:  Follow the steps below to find the shortest path between all the pairs of vertices.
+There are three loops.
+Each loop has constant complexities.
+So, the time complexity of the Floyd-Warshall algorithm is O(n3).
+The space complexity of the Floyd-Warshall algorithm is O(n2).
+Sorry about that.
+DS & Algorithms Prim's Algorithm DS & Algorithms Graph Data Stucture DS & Algorithms Bellman Ford's Algorithm DS & Algorithms Adjacency Matrix © Parewa Labs Pvt.
+Ltd. All rights reserved.

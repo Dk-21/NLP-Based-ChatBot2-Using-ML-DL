@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A fibonacci heap is a tree based data structure which consists of a collection of trees with min heap or max heap property.
+Its operations are more efficient in terms of time complexity than those of its similar data structures like binomial heap and binary heap.
+Now, we will discuss two of its important operations.
+In decreasing a key operation, the value of a key is decreased to a lower value.
+Following functions are used for decreasing the key.
+The above operations can be understood in the examples below.
+This process makes use of decrease-key and extract-min operations.
+The following steps are followed for deleting a node.
+Sorry about that.
+DS & Algorithms Fibonacci Heap DS & Algorithms Perfect Binary Tree DS & Algorithms Full Binary Tree DS & Algorithms Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

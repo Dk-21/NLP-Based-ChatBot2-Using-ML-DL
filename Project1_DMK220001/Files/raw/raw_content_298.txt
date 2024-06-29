@@ -1,0 +1,44 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Operators are special symbols that perform operations on variables  and values.
+For example, Here, + is an operator that adds two numbers: 5 and 6.
+Here's a list of different types of Python operators that we will learn in this tutorial.
+Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication, etc.
+For example, Here, - is an arithmetic operator that subtracts two values or variables.
+Output In the above example, we have used multiple arithmetic operators,  Assignment operators are used to assign values to variables.
+For example, Here, = is an assignment operator that assigns 5 to x.
+Here's a list of different assignment operators available in Python.
+Here, we have used the += operator to assign the sum of a and b to a.
+Similarly, we can use any other assignment operators as per our needs.
+Comparison operators compare two values/variables and return a boolean result: True or False.
+For example, Here, the > comparison operator is used to compare whether a is greater than b or not.
+Output Note: Comparison operators are used in decision-making and loops.
+We'll discuss more of the comparison operator and decision-making in later tutorials.
+Logical operators are used to check whether an expression is True or False.
+They are used in decision-making.
+For example, Here, and is the logical operator AND.
+Since both a > 2 and b >= 6 are True, the result is True.
+Note: Here is the truth table for these logical operators.
+Bitwise operators act on operands as if they were strings of binary digits.
+They operate bit by bit, hence the name.
+For example, 2 is 10 in binary, and 7 is 111.
+In the table below: Let x = 10 (0000 1010 in binary) and y = 4 (0000 0100 in binary) Python language offers some special types of operators like the identity operator and the membership operator.
+They are described below with examples.
+In Python, is and is not are used to check if two values are located at the same memory location.
+It's important to note that having two variables with equal values doesn't necessarily mean they are identical.
+Here, we see that x1 and y1 are integers of the same values, so they are equal as well as identical.
+The same is the case with x2 and y2 (strings).
+But x3 and y3 are lists.
+They are equal but not identical.
+It is because the interpreter locates them separately in memory, although they are equal.
+In Python, in and not in are the membership operators.
+They are used to test whether a value or variable is found in a sequence (string, list, tuple, set and dictionary).
+In a dictionary, we can only test for the presence of a key, not the value.
+Output Here, 'H' is in message, but 'hello' is not present in message (remember, Python is case-sensitive).
+Similarly, 1 is key, and 'a' is the value in dictionary dict1.
+Hence, 'a' in y returns False.
+Also Read: Sorry about that.
+Python Tutorial Precedence and Associativity of Operators in Python Python Tutorial Python Operator Overloading Python Tutorial Python if...else Statement Python Tutorial Python 3 Tutorial © Parewa Labs Pvt.
+Ltd. All rights reserved.

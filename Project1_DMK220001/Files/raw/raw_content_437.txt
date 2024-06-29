@@ -1,0 +1,21 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The best way to learn Python is by practicing examples.
+This page contains
+      examples on basic concepts of Python.
+We encourage you to try these
+      examples on your own before looking at the solution.
+All the programs on this page are tested and should work on all platforms.
+Want to learn Python by writing code yourself?
+Enroll in our Interactive Python Course for FREE.
+Python Examples
+                 Python Program to Check Prime Number 
+                    Python Examples
+                 Python Program to Add Two Numbers 
+                    Python Examples
+                 Python Program to Find the Factorial of a Number 
+                    Python Examples
+                 Python Program to Make a Simple Calculator © Parewa Labs Pvt.
+Ltd. All rights reserved.

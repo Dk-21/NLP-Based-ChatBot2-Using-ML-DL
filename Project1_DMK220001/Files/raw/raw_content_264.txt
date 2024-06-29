@@ -1,0 +1,41 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The literal meaning of polymorphism is the condition of occurrence in different forms.
+Polymorphism is a very important concept in programming.
+It refers to the use of a single type entity (method, operator or object) to represent different types in different scenarios.
+Let's take an example: We know that the + operator is used extensively in Python programs.
+But, it does not have a single usage.
+For integer data types, + operator is used to perform arithmetic addition operation.
+Hence, the above program outputs 3.
+Similarly, for string data types, + operator is used to perform concatenation.
+As a result, the above program outputs Python Programming.
+Here, we can see that a single operator + has been used to carry out different operations for distinct data types.
+This is one of the most simple occurrences of polymorphism in Python.
+There are some functions in Python which are compatible to run with multiple data types.
+One such function is the len() function.
+It can run with many data types in Python.
+Let's look at some example use cases of the function.
+Output  Here, we can see that many data types such as string, list, tuple, set, and dictionary can work with the len() function.
+However, we can see that it returns specific information about specific data types.
+Polymorphism is a very important concept in Object-Oriented Programming.
+To learn more about OOP in Python, visit: Python Object-Oriented Programming We can use the concept of polymorphism while creating class methods as Python allows different classes to have methods with the same name.
+We can then later generalize calling these methods by disregarding the object we are working with.
+Let's look at an example: Output Here, we have created two classes Cat and Dog.
+They share a similar structure and have the same method names info() and make_sound().
+However, notice that we have not created a common superclass or linked the classes together in any way.
+Even then, we can pack these two different objects into a tuple and iterate through it using a common animal variable.
+It is possible due to polymorphism.
+Like in other programming languages, the child classes in Python also inherit methods and attributes from the parent class.
+We can redefine certain methods and attributes specifically to fit the child class, which is known as Method Overriding.
+Polymorphism allows us to access these overridden methods and attributes that have the same name as the parent class.
+Let's look at an example: Output Here, we can see that the methods such as __str__(), which have not been overridden in the child classes, are used from the parent class.
+Due to polymorphism, the Python interpreter automatically recognizes that the fact() method for object a(Square class) is overridden.
+So, it uses the one defined in the child class.
+On the other hand, since the fact() method for object b isn't overridden, it is used from the Parent Shape class.
+Note: Method Overloading, a way to create multiple methods with the same name but different arguments, is not possible in Python.
+Also Read:
+ Sorry about that.
+Python Tutorial Python Object Oriented Programming Python Tutorial Python Multiple Inheritance Python Tutorial Python Inheritance Python Tutorial Python Classes and Objects © Parewa Labs Pvt.
+Ltd. All rights reserved.

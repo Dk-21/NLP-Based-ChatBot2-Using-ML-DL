@@ -1,0 +1,18 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: When we want to send the same invitations to many people, the body of the mail does not change.
+Only the name (and maybe address) needs to be changed.
+Mail merge is a process of doing this.
+Instead of writing each mail separately, we have a template for body of the mail and a list of names that we merge together to form all the mails.
+For this program, we have written all the names in separate lines in the file "names.txt".
+The body is in the "body.txt" file.
+We open both the files in reading mode and iterate over each name using a for loop.
+A new file with the name "[name].txt" is created, where name is the name of that person.
+We use the strip() method to clean up leading and trailing whitespaces (reading a line from the file also reads the newline '\n' character).
+Finally, we write the content of the mail into this file using the write() method.
+Learn more about files in Python.
+Sorry about that.
+Python Tutorial Python CSV: Read and Write CSV Files  Python Example Append to a File Python Tutorial  Python File Operation  Python Example Python Program Read a File Line by Line Into a List © Parewa Labs Pvt.
+Ltd. All rights reserved.

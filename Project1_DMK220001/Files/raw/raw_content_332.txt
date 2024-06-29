@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The reverse() method reverses the elements of the list.
+The syntax of the reverse() method is: The reverse() method doesn't take any arguments.
+The reverse() method doesn't return any value.
+It updates the existing list.
+Output There are other several ways to reverse a list.
+Output If you need to access individual elements of a list in the reverse order, it's better to use the reversed() function.
+Output Also Read: Sorry about that.
+Python Library Python List sort() Python Library Python List remove() Python Library Python List clear() Python Library Python List insert() © Parewa Labs Pvt.
+Ltd. All rights reserved.

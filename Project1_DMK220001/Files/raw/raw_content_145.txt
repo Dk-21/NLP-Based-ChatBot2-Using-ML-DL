@@ -1,0 +1,22 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+NumPy (Numerical Python) is a Python library that excels in array operations.
+It is widely used in
+    mathematical
+    computations, machine learning, and data science.
+With its straightforward and user-friendly syntax, NumPy is an ideal choice, especially for beginners.
+Our NumPy tutorial will guide you through essential topics, accompanied by examples.
+By the end, you will have the
+    skills and knowledge to implement projects using NumPy.
+Do you want to learn NumPy the right way?
+Enroll in our Interactive NumPy Course for FREE.
+Free and open-source - NumPy follows the same principles as Python, allowing you to use and
+    distribute NumPy for free, even for commercial use.
+Easy to learn - NumPy has a simple syntax and many built-in functions that ease data analysis and
+    manipulation.
+Integration - NumPy can integrate with powerful data analysis tools such as SciPy, Pandas, and
+    Matplotlib, expanding your data processing capabilities.
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

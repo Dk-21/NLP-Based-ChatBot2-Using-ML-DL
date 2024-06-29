@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The insert() method inserts an element to the list at the specified index.
+The syntax of the insert() method is Here, elem is inserted to the list at the ith index.
+All the elements after elem are shifted to the right.
+The insert() method takes two parameters: Notes: The insert() method doesn't return anything; returns None.
+It only updates the current list.
+Output Output Also Read: Sorry about that.
+Python Library Python List index() Python Library Python List append() Python Library Python List extend() Python Library Python List pop() © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output os.path.splitext() gives a tuple with one item as the name of the file along with the path and the other is the extension of the file.
+If you want the file extension only, you can print it as shown above file_details[1].
+Output Using suffix attribute from pathlib module, we can get the extension of a file.
+In the above example, .ext is the extension of file file.ext.
+Note: It works for python 3.4 and above.
+Sorry about that.
+Python Example Get the File Name From the File Path Python Example Find All File with .txt Extension Present Inside a Directory Python Example Get the Full Path of the Current Working Directory Python Example Check the File Size © Parewa Labs Pvt.
+Ltd. All rights reserved.

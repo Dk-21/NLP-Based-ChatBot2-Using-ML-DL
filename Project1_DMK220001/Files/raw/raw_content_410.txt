@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: In the program below, we have used the for loop to display the multiplication table of 12.
+Output Here, we have used the for loop along with the range() function to iterate 10 times.
+The arguments inside the range() function are (1, 11).
+Meaning, greater than or equal to 1 and less than 11.
+We have displayed the multiplication table of variable num (which is 12 in our case).
+You can change the value of num in the above program to test for other values.
+Also Read:  Sorry about that.
+Python Example Multiply Two Matrices Python Example Display Powers of 2 Using Anonymous Function Python Example Add Two Matrices Python Example Create Pyramid Patterns © Parewa Labs Pvt.
+Ltd. All rights reserved.

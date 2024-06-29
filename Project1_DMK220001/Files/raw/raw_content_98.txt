@@ -1,0 +1,36 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A greedy algorithm is an approach for solving a problem by selecting the best option available at the moment.
+It doesn't worry whether the current best result will bring the overall optimal result.
+The algorithm never reverses the earlier decision even if the choice is wrong.
+It works in a top-down approach.
+This algorithm may not produce the best result for all the problems.
+It's because it always goes for the local best choice to produce the global best result.
+However, we can determine if the algorithm can be used with any problem if the problem has the following properties: 1.
+Greedy Choice Property If an optimal solution to the problem can be found by choosing the best choice at each step without reconsidering the previous steps once chosen, the problem can be solved using a greedy approach.
+This property is called greedy choice property.
+2.
+Optimal Substructure  If the optimal overall solution to the problem corresponds to the optimal solution to its subproblems, then the problem can be solved using a greedy approach.
+This property is called optimal substructure.
+As mentioned earlier, the greedy algorithm doesn't always produce the optimal solution.
+This is the major disadvantage of the algorithm For example, suppose we want to find the longest path in the graph below from root to leaf.
+Let's use the greedy algorithm here.
+Greedy Approach 1.
+Let's start with the root node 20.
+The weight of the right child is 3 and the weight of the left child is 2.
+2.
+Our problem is to find the largest path.
+And, the optimal solution at the moment is 3.
+So, the greedy algorithm will choose 3.
+3.
+Finally the weight of an only child of 3 is 1.
+This gives us our final result 20 + 3 + 1 = 24.
+However, it is not the optimal solution.
+There is another path that carries more weight (20 + 2 + 10 = 32) as shown in the image below.
+Therefore, greedy algorithms do not always give an optimal/feasible solution.
+Let's now use this algorithm to solve a problem.
+Solution: Sorry about that.
+DS & Algorithms Dynamic Programming DS & Algorithms Backtracking Algorithm DS & Algorithms Prim's Algorithm DS & Algorithms Kruskal's Algorithm © Parewa Labs Pvt.
+Ltd. All rights reserved.

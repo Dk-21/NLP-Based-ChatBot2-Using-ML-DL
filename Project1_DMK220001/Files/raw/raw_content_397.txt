@@ -1,0 +1,20 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Functions that we define ourselves to do certain specific task are referred as user-defined functions.
+The way in which we define and call functions in Python are already discussed.
+Functions that readily come with Python are called built-in functions.
+If we use functions written by others in the form of library, it can be termed as library functions.
+All the other functions that we write on our own fall under user-defined functions.
+So, our user-defined function could be a library function to someone else.
+Output Here, we have defined the function my_addition() which adds two numbers and returns the result.
+This is our user-defined function.
+We could have multiplied the two numbers inside our function (it's all up to us).
+But this operation would not be consistent with the name of the function.
+It would create ambiguity.
+It is always a good idea to name functions according to the task they perform.
+In the above example, print() is a built-in function in Python.
+Sorry about that.
+Python Tutorial Python Functions Python Tutorial Python Modules Python Tutorial Python Programming Built-in Functions Python Tutorial Python Operator Overloading © Parewa Labs Pvt.
+Ltd. All rights reserved.

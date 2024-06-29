@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The syntax of popitem() is: The popitem() doesn't take any parameters.
+The popitem() method removes and returns the (key, value) pair from the dictionary in the Last In, First Out (LIFO) order.
+Note: Before Python 3.7, the popitem() method returned and removed an arbitrary element (key, value) pair from the dictionary.
+Output Note: The popitem() method raises a KeyError error if the dictionary is empty.
+Also Read: Sorry about that.
+Python Library Python Dictionary setdefault() Python Library Python Dictionary get() Python Library Python Dictionary pop() Python Library Python Dictionary keys() © Parewa Labs Pvt.
+Ltd. All rights reserved.

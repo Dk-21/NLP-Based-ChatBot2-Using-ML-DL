@@ -1,0 +1,19 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Deleting an element on a B+ tree consists of three main events: searching the node where the key to be deleted exists, deleting the key and balancing the tree if required.Underflow is a situation when there is less number of keys in a node than the minimum number of keys it should hold.
+Before going through the steps below, one must know these facts about a B+ tree of degree m. While deleting a key, we have to take care of the keys present in the internal nodes (i.e.
+indexes) as well because the values are redundant in a B+ tree.
+Search the key to be deleted then follow the following steps.
+The key to be deleted is present only at the leaf node not in the indexes (or internal nodes).
+There are two cases for it: The key to be deleted is present in the internal nodes as well.
+Then we have to remove them from the internal nodes as well.
+There are the following cases for this situation.
+In this case, the height of the tree gets shrinked.
+It is a little complicated.Deleting 55 from the tree below leads to this condition.
+It can be understood in the illustrations below.
+Time complexity: Θ(t.logt n) The complexity is dominated by Θ(logt n).
+Sorry about that.
+DS & Algorithms Insertion on a B+ Tree DS & Algorithms B+ Tree DS & Algorithms Insertion into a B-tree DS & Algorithms Perfect Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

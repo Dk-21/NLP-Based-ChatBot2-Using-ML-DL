@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Inserting an element into a B+ tree consists of three main events: searching the appropriate leaf, inserting the element and balancing/splitting the tree.
+Let us understand these events below.
+Before inserting an element into a B+ tree, these properties must be kept in mind.
+The following steps are followed for inserting an element.
+Let us understand the insertion operation with the illustrations below.
+The elements to be inserted are 5,15, 25, 35, 45.
+Time complexity: Θ(t.logt n) The complexity is dominated by Θ(logt n).
+Sorry about that.
+DS & Algorithms B+ Tree DS & Algorithms Deletion from a B+ Tree DS & Algorithms Insertion into a B-tree DS & Algorithms Perfect Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

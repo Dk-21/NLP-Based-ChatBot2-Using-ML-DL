@@ -1,0 +1,41 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In Python, a decorator is a design pattern that allows you to modify the functionality of a function by wrapping it in another function.
+The outer function is called the decorator, which takes the original function as an argument and returns a modified version of it.
+Before we learn about decorators, we need to understand a few important concepts related to Python functions.
+Also, remember that everything in Python is an object, even functions are objects.
+We can include one function inside another, known as a nested function.
+For example, Here, we have created the inner() function inside the outer() function.
+We can pass a function as an argument to another function in Python.
+For Example, Output In the above example, the calculate() function takes a function as its argument.
+While calling calculate(), we are passing the add() function as the argument.
+In the calculate() function, arguments: func, x, y become add, 4, and 6 respectively.
+And hence, func(x, y) becomes add(4, 6) which returns 10.
+In Python, we can also return a function as a return value.
+For example, In the above example, the return hello statement returns the inner hello() function.
+This function is now assigned to the greet variable.
+That's why, when we call greet() as a function, we get the output.
+As mentioned earlier, A Python decorator is a function that takes in a function and returns it by adding some functionality.
+In fact, any object which implements the special __call__() method is termed callable.
+So, in the most basic sense, a decorator is a callable that returns a callable.
+Basically, a decorator takes in a function, adds some functionality and returns it.
+Here, we have created two functions: We are calling the ordinary() function normally, so we get the output "I am ordinary".
+Now, let's call it using the decorator function.
+Output In the example shown above, make_pretty() is a decorator.
+Notice the code, Here, we are actually calling the inner() function, where we are printing Instead of assigning the function call to a variable, Python provides a much more elegant way to achieve this functionality using the @ symbol.
+For example, Output Here, the ordinary() function is decorated with the make_pretty() decorator using the @make_pretty syntax, which is equivalent to calling ordinary = make_pretty(ordinary).
+The above decorator was simple and it only worked with functions that did not have any parameters.
+What if we had functions that took in parameters like: This function has two parameters, a and b.
+We know it will give an error if we pass in b as 0.
+Now let's make a decorator to check for this case that will cause the error.
+Output Here, when we call the divide() function with the arguments (2,5), the inner() function defined in the smart_divide() decorator is called instead.
+This inner() function calls the original divide() function with the arguments 2 and 5 and returns the result, which is 0.4.
+Similarly, When we call the divide() function with the arguments (2,0), the inner() function checks that b is equal to 0 and prints an error message before returning None.
+Multiple decorators can be chained in Python.
+To chain decorators in Python, we can apply multiple decorators to a single function by placing them one after the other, with the most inner decorator being applied first.
+Output The above syntax of, is equivalent to The order in which we chain decorators matter.
+If we had reversed the order as, The output would be: Also Read: Sorry about that.
+Python Tutorial Python Closures Python Tutorial Python Function Arguments Python Tutorial  Python @property decorator  Python Tutorial Python *args and **kwargs © Parewa Labs Pvt.
+Ltd. All rights reserved.

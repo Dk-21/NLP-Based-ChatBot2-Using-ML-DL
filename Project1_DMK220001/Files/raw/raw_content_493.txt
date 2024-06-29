@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output We have two lists: index and languages.
+They are first zipped and then converted into a dictionary.
+Output This example is similar to Example 1; the only difference is that list comprehension is being used for first zipping and then { } for converting into a dictionary.
+Learn more about list comprehension at Python List Comprehension.
+Sorry about that.
+Python Tutorial Python Dictionary Comprehension Python Example Sort a Dictionary by Value Python Example Count the Number of Each Vowel Python Tutorial Python List Comprehension © Parewa Labs Pvt.
+Ltd. All rights reserved.

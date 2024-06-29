@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: The first parameter of copyfile() is the path of the source file and the second parameter is the path of the destination file.
+The content of the destination file is replaced with the content of the source file.
+There are other methods copy(), cop2(), and copyfileobj() which serve the same purpose with some metadata changes.
+Also Read:  Sorry about that.
+Python Example Get the File Name From the File Path Python Example Append to a File Python Example Find All File with .txt Extension Present Inside a Directory Python Example Get File Creation and Modification Date © Parewa Labs Pvt.
+Ltd. All rights reserved.

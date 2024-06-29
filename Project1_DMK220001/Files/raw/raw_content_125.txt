@@ -1,0 +1,17 @@
+Try Programiz PRO 
+
+ 
+        The best way to learn JavaScript is by practicing examples.
+The page
+        contains examples on basic concepts of JavaScript.
+You are advised to take the
+        references from these examples and try them on your own.
+JS Examples
+                 Print Hello World 
+                    JS Examples
+                 Generate a Random Number 
+                    JS Examples
+                 Check Prime Number 
+                    JS Examples
+                 Factorial of a Number © Parewa Labs Pvt.
+Ltd. All rights reserved.

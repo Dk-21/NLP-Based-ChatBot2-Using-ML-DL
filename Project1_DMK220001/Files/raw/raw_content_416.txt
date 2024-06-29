@@ -1,0 +1,36 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The eval() method parses the expression passed to this method and runs python expression (code) within the program.
+The syntax of eval() is: The eval() function takes three parameters: The use of globals and locals will be discussed later in this article.
+The eval() method returns the result evaluated from the expression.
+Output Here, the eval() function evaluates the expression x + 1 and print() is used to display this value.
+Output Consider a situation where you are using a Unix system (macOS, Linux etc) and you have imported the os module.
+The os module provides a portable way to use operating system functionalities like reading or writing to a file.
+If you allow users to input a value using eval(input()), the user may issue commands to change file or even delete all the files using the command: os.system('rm -rf *').
+If you are using eval(input()) in your code, it is a good idea to check which variables and methods the user can use.
+You can see which variables and methods are available using dir() method.
+Output More often than not, all the available methods and variables used in the expression (first parameter to eval()) may not be needed, or even may have a security hole.
+You may need to restrict the use of these methods and variables for eval().
+You can do so by passing optional globals and locals parameters (dictionaries) to the eval() function.
+If both parameters are omitted (as in our earlier examples), the expression is executed in the current scope.
+You can check the available variables and methods using following code: The globals and locals parameters (dictionaries) are used for global and local variables respectively.
+If the locals dictionary is omitted, it defaults to globals dictionary.
+Meaning, globals will be used for both global and local variables.
+Note: You can check the current global and local dictionary in Python using globals() and locals() built-in methods respectively.
+Output If you pass an empty dictionary as globals, only the __builtins__ are available to expression (first parameter to the eval()).
+Even though we have imported the math module in the above program, expression can't access any functions provided by the math module.
+Output Here, the expression can only use the sqrt() and the pow() methods along with __builtins__.
+It is also possible to change the name of the method available for the expression as to your wish: Output In the above program, square_root() calculates the square root using sqrt().
+However, trying to use sqrt() directly will raise an error.
+You can restrict the use of __builtins__ in the expression as follows: You can make needed functions and variables available for use by passing the locals dictionary.
+For example: Output In this program, expression can have sqrt() method and variable a only.
+All other methods and variables are unavailable.
+Restricting the use of eval() by passing globals and locals dictionaries will make your code secure particularly when you are using input provided by the user to the eval() method.
+Note: Sometimes, eval() is not secure even with limited names.
+When an object and its methods are made accessible, almost anything can be done.
+The only secure way is by validating the user input.
+Sorry about that.
+Python Library Python globals() Python Library Python locals() Python Library Python exec() Python Library Python __import__() © Parewa Labs Pvt.
+Ltd. All rights reserved.

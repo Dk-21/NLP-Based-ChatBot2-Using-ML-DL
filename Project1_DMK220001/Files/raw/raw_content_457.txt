@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Sometimes, we may wish to break a sentence into a list of words.
+In such cases, we may first want to clean up the string and remove all the punctuation marks.
+Here is an example of how it is done.
+Output In this program, we first define a string of punctuations.
+Then, we iterate over the provided string using a for loop.
+In each iteration, we check if the character is a punctuation mark or not using the membership test.
+We have an empty string to which we add (concatenate) the character if it is not punctuation.
+Finally, we display the cleaned up string.
+Also Read:  Sorry about that.
+Python Example Trim Whitespace From a String Python Example Check Whether a String is Palindrome or Not Python Example Sort Words in Alphabetic Order Python Example Count the Number of Occurrence of a Character in String © Parewa Labs Pvt.
+Ltd. All rights reserved.

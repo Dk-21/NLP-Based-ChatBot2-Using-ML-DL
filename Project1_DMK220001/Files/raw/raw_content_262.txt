@@ -1,0 +1,32 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Being an object-oriented language, Python supports class inheritance.
+It allows us to create a new class from an existing one.
+Here, we are inheriting the sub_class from the super_class.
+Note: Before you move forward with inheritance, make sure you know how Python classes and objects work.
+Output In the above example, we have derived a subclass Dog from a superclass Animal.
+Notice the statements, Here, we are using labrador (object of Dog) to access name and eat() of the Animal class.
+This is possible because the subclass inherits all attributes and methods of the superclass.
+Also, we have accessed the name attribute inside the method of the Dog class using self.
+Inheritance is an is-a relationship.
+That is, we use inheritance only if there exists an is-a relationship between two classes.
+For example,  Here, Car can inherit from Vehicle, Apple can inherit from Fruit, and so on.
+In the previous example, we see the object of the subclass can access the method of the superclass.
+However, what if the same method is present in both the superclass and subclass?
+In this case, the method in the subclass overrides the method in the superclass.
+This concept is known as method overriding in Python.
+Output In the above example, the same method eat() is present in both the Dog class and the Animal class.
+Now, when we call the eat() method using the object of the Dog subclass, the method of the Dog class is called.
+This is because the eat() method of the Dog subclass overrides the same method of the Animal superclass.
+Previously we saw that the same method (function) in the subclass overrides the method in the superclass.
+However, if we need to access the superclass method from the subclass, we use the super() function.
+For example, Output In the above example, the eat() method of the Dog subclass overrides the same method of the Animal superclass.
+Inside the Dog class, we have used to call the eat() method of the Animal superclass from the Dog subclass.
+So, when we call the eat() method using the labrador object Both the overridden and the superclass version of the eat() method is executed.
+To learn more, visit Python super().
+There are 5 different types of inheritance in Python.
+They are: Also Read: Sorry about that.
+Python Library Python super() Python Tutorial Python Multiple Inheritance Python Tutorial Python Object Oriented Programming Python Tutorial Polymorphism in Python © Parewa Labs Pvt.
+Ltd. All rights reserved.

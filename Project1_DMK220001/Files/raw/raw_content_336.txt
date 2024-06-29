@@ -1,0 +1,40 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Python lists are one of the most commonly used and versatile built-in types.
+They allow us to store multiple items in a single variable.
+We create a list by placing elements inside square brackets [], separated by commas.
+For example, Here, the ages list has three items.
+In Python, lists can store data of different data types.
+We can use the built-in list() function to convert other iterables (strings, dictionaries, tuples, etc.)
+to a list.
+Lists are: Each element in a list is associated with a number, known as a index.
+The index always starts from 0.
+The first element of a list is at index 0, the second element is at index 1, and so on.
+We use index numbers to access list elements.
+For example, Python also supports negative indexing.
+The index of the last element is -1, the second-last element is -2, and so on.
+Negative indexing makes it easy to access list items from last.
+Let's see an example, In Python, it is possible to access a section of items from the list using the slicing operator :.
+For example, Output To learn more about slicing, visit Python program to slice lists.
+Note: If the specified index does not exist in a list, Python throws the IndexError exception.
+We use the append() method to add an element to the end of a Python list.
+For example, Output The insert() method adds an element at the specified index.
+For example, Output We use the extend() method to add elements to a list from other iterables.
+For example, Output We can change the items of a list by assigning new values using the = operator.
+For example, Output Here, we have replaced the element at index 2: 'Green' with 'Blue'.
+We can remove an item from a list using the remove() method.
+For example, The del statement removes one or more items from a list.
+For example,  Output Note: We can also use the del statement to delete the entire list.
+For example, We can use the built-in len() function to find the number of elements in a list.
+For example, We can use a for loop to iterate over the elements of a list.
+For example, Output Python has many useful list methods that make it really easy to work with lists.
+List Comprehension is a concise and elegant way to create a list.
+For example, To learn more, visit Python List Comprehension.
+We use the in keyword to check if an item exists in the list.
+For example, Here, Note: Lists are similar to arrays in other programming languages.
+When people refer to arrays in Python, they often mean lists, even though there is a numeric array type in Python.
+Also Read Sorry about that.
+Python Library Python List pop() Python Library Python List insert() Python Library Python List extend() Python Tutorial Python Tuple © Parewa Labs Pvt.
+Ltd. All rights reserved.

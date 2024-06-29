@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output This is one of the simplest pythonic ways of flattening a list.
+To learn more about list comprehension, visit Python List Comprehension.
+Output Output Using itertools module, we can create a flattened list.
+Output Output In the above example, reduce() applies the lambda function to all the elements of my_list.
+To learn more about lambda expressions, visit Python Anonymous/Lambda Function.
+Also Read:  Sorry about that.
+Python Example Check If a List is Empty Python Example Randomly Select an Element From the List Python Example Access Index of a List Using for Loop Python Example Get the Last Element of the List © Parewa Labs Pvt.
+Ltd. All rights reserved.

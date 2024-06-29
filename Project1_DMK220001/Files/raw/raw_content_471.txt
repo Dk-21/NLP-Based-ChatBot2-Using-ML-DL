@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output If my_list is empty then not returns True.
+It is the most pythonic way of testing emptiness.
+If you want to learn more about boolean truth value, you can refer to Truth Value Testing.
+Output In this example, length of list is used to check if there is any element in the list.
+If the length of a list is 0, then the list is empty.
+To learn more, visit  Python len().
+Output [] is an empty list, therefore if my_list has no elements, then it should be equal to [].
+Sorry about that.
+Python Example Flatten a Nested List Python Example Access Index of a List Using for Loop Python Example Get the Last Element of the List Python Example Randomly Select an Element From the List © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,24 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Assertions are statements that assert or state a fact confidently in your program.
+For example, while writing a division function, you're confident the divisor shouldn't be zero, you assert divisor is not equal to zero.
+Assertions are simply boolean expressions that check if the conditions return true or not.
+If it is true, the program does nothing and moves to the next line of code.
+However, if it's false, the program stops and throws an error.
+It is also a debugging tool as it halts the program as soon as an error occurs and displays it.
+We can be clear by looking at the flowchart below: Python has built-in assert statement to use assertion condition in the program.
+assert statement has a condition or expression which is supposed to be always true.
+If the condition is false assert halts the program and gives an AssertionError.
+In Python we can use assert statement in two ways as mentioned above.
+Let's take an example, where we have a function that will calculate the average of the values passed by the user and the value should not be an empty list.
+We will use assert statement to check the parameter and if the length is of the passed list is zero, the program halts.
+When we run the above program, the output will be: We got an error as we passed an empty list mark1 to assert statement, the condition became false and assert stops the program and give AssertionError.
+Now let's pass another list which will satisfy the assert condition and see what will be our output.
+When we run the above program, the output will be: We passed a non-empty list mark2 and also an empty list mark1 to the avg() function and we got output for mark2 list but after that we got an error AssertionError: List is empty.
+The assert condition was satisfied by the mark2 list and program to continue to run.
+However, mark1 doesn't satisfy the condition and gives an AssertionError.
+Sorry about that.
+Python Tutorial Python Exception Handling   Python Tutorial List of Keywords in Python Python Tutorial Python Exceptions Python Tutorial Python Keywords and Identifiers © Parewa Labs Pvt.
+Ltd. All rights reserved.

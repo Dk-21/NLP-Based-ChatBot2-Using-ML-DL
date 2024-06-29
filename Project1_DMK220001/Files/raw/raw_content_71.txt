@@ -1,0 +1,23 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Deleting an element on a B-tree consists of three main events: searching the node where the key to be deleted exists, deleting the key and balancing the tree if required.
+While deleting a tree, a condition called underflow may occur.
+Underflow occurs when a node contains less than the minimum number of keys it should hold.
+The terms to be understood before studying deletion operation are: Before going through the steps below, one must know these facts about a B tree of degree m. There are three main cases for deletion operation in a B tree.
+The key to be deleted lies in the leaf.
+There are two cases for it.
+If the key to be deleted lies in the internal node, the following cases occur.
+In this case, the height of the tree shrinks.
+If the target key lies in an internal node, and the deletion of the key leads to a fewer number of keys in the node (i.e.
+less than the minimum required), then look for the inorder predecessor and the inorder successor.
+If both the children contain a minimum number of keys then, borrowing cannot take place.
+This leads to Case II(3) i.e.
+merging the children.
+Again, look for the sibling to borrow a key.
+But, if the sibling also has only a minimum number of keys then, merge the node with the sibling along with the parent.
+Arrange the children accordingly (increasing order).
+Best case Time complexity: Θ(log n) Average case Space complexity: Θ(n) Worst case Space complexity: Θ(n)   Sorry about that.
+DS & Algorithms Insertion into a B-tree DS & Algorithms B-tree DS & Algorithms Binary Search Tree(BST) DS & Algorithms Complete Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Bucket Sort is a sorting algorithm that divides the unsorted array elements into several groups called buckets.
+Each bucket is then sorted by using any of the suitable sorting algorithms or recursively applying the same bucket algorithm.
+Finally, the sorted buckets are combined to form a final sorted array.
+Scatter Gather Approach The process of bucket sort can be understood as a scatter-gather approach.
+Here, elements are first scattered into buckets then the elements in each bucket are sorted.
+Finally, the elements are gathered in order.
+Bucket sort is used when: Sorry about that.
+DS & Algorithms Sorting Algorithm DS & Algorithms Linked List Operations: Traverse, Insert and Delete DS & Algorithms Radix Sort Algorithm DS & Algorithms Circular Linked List © Parewa Labs Pvt.
+Ltd. All rights reserved.

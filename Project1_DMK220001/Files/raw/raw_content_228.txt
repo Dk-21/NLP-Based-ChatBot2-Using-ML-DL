@@ -1,0 +1,104 @@
+You can use International Visa Card or MasterCard to buy a subscription for Programiz PRO.
+Yes.
+You can send messages through our contact us page or you can write to us at contact@programiz.pro.
+Yes, Programiz PRO offers a free 7-day trial for new users.
+You can access Programiz PRO as long as you have a subscription which is renewed monthly or annually, depending upon your subscribed plan.
+Yes, you can access Programiz PRO from any device you want.
+You can access all the courses present inside the Programiz PRO with a single subscription and claim the certificate for completed courses.
+No, currently, we only have a web app.
+However, Programiz PRO is well optimized for all devices.
+Programiz PRO doesn't have a feature to save tutorials for offline use.
+However, you can use the browser's default feature to save pages.
+Currently, we are not offering free courses.
+You can access any course with a single subscription.
+However, you can get a free trial for 7 days.
+Yes, you can always write to us at contact@programiz.pro.
+You can find enrolled courses from the My Courses section in your dashboard.
+Also, you can see the detailed list of enrolled learning paths and courses from your profile page.
+No, the dark mode is not available right now.
+Programiz PRO is available as a monthly or annual subscription.
+The subscription allows you to access the following features: With the monthly subscription, you automatically get billed every month.
+With the annual subscription, you automatically get billed every year.
+To cancel your subscription, 
+Once you cancel your subscription, you can still use Programiz Pro till you have remaining days left.
+Yes.
+When you delete your account, all your data and subscription are deleted from our server.
+Yes.
+Programiz PRO offers a refund within 7 days, from our side, after you buy a subscription and is handled by Paddle, link here.
+To request a refund, please write us a mail at contact@programiz.pro.
+No, you cannot transfer the subscription to another account.
+Rather, you can cancel the subscription from the old account and subscribe through the new account.
+Programiz PRO offers two subscription plans.
+Either you can subscribe monthly or yearly.
+To permanently delete your account,
+
+Visit the profile page.
+Go to account settings.
+Click on the Account tab from the sidebar.
+Click on Delete my Account.
+Accept the confirmation.
+Remember, you can reactivate your account by logging in within 30 days.
+Remember, you can reactivate your account by logging in within 30 days.
+To disable your account,
+
+Visit the profile page.
+Go to account settings.
+Click on the Account tab from the sidebar.
+Click on Disable my Account.
+Accept the confirmation.
+Remember, you can always reactivate your account by logging in.
+Remember, you can always reactivate your account by logging in.
+If you delete your account, after 30 days: If you change your mind within 30 days, you have an option to reactivate your account by simply logging in again.
+If you disable your account: If it's been less than 30 days since you deleted your account, you can recover your account.
+To recover your account: Simply log in to the app to reactivate your account.
+Please use the verification code we sent via email to verify your account.
+This is a one-time verification, and this code is valid for 24 hours only.
+If the code has expired, you can always request a new code using the ‘Resend’ option.
+You can change your name and other personal details but not your email address.
+You can change your password through the Change Password option in Account Settings.
+You can reset your password through the forgot password option during log-in.
+Then, you would need to enter your email address to get a password reset link in your inbox.
+You might not have received the email for one of the following reasons: If you still did not receive an email from us, do contact us at contact@programiz.pro, and we'll be happy to help.
+Yes, you can avail certificates for any course.
+However, you must complete the challenges of that specific course.
+No, certificate comes bundled with an account subscription.
+However, you must complete challenges in order to download certificates.
+Yes.
+You must complete an entire course content and their challenges to download a certificate.
+You will get a Professional Certificate once you complete a learning path.
+However, you can get a Completion Certificate after completing each level in a learning path.
+If you are signed in, you can also track your progress and closeness of certificates in the progress page which you can visit from navbar.
+You can always download the certificate from the My Certificates section in a User Profile page.
+However, you can also download the certificates immediately after completing the course.
+You will get the Completion Certificate after completing the course and a Professional Certificate after completion of the learning path.
+Yes, it would be a plus point.
+Yes.
+Once you complete the course, you can download certificates whenever you want from “My Certificates” section from your profile page.
+No, you don't need to have any programming background.
+Courses in Programiz PRO are designed to help you start your programming journey from scratch to an advanced level.
+Programiz PRO focuses more on learning paths (career path) rather than individual concepts.
+Let's say you want to learn python, Programiz PRO offers a "Become a Python Master" learning path that guides you through basics to advanced topics of python, step by step.
+Learning Path is a specially designed syllabus of courses bundled together to make you job-ready.
+Each learning path consists of multiple courses.
+Course is an individual content that specializes in any topic.
+For example, "Learn Python Basics" and "Python Beyond the Basics" are two individual courses inside the learning path "Become a Python Master".
+Both of these courses aim towards one goal, to make you proficient in Python Programming.
+The choice of language depends on the career path you choose, so first, figure out what field you want to make your career in.
+If it's artificial intelligence or data science, go for Python and if it's game development, go for C++.
+You cannot be wrong with whatever language you choose because once you have a strong base of one language, you can easily switch to another.
+Programiz PRO provides practical learning where you get a chance to test your skills within the course.
+This will definitely put you in front of your competition in the job market.
+Yes, you can access any course in Programiz PRO randomly.
+If you're confident in basic topics, you can directly enroll in advanced topics.
+However, if you are a beginner, we suggest you follow the learning path.
+To get maximum results, we recommend you to follow courses in the learning path sequentially.
+sensAI is your personal coding mentor, which helps you become a better coder.
+Built on the latest AI technology, sensAI helps you understand where you went wrong and how to fix your code in plain English.
+Visit this page to learn more about sensAI.
+sensAI allows you to leverage the power of AI in your coding journey.
+Its features are: No, there are no extra fees or hidden costs to use sensAI.
+The tool is baked into our lessons and challenges, which means you can access it anytime.
+Unfortunately, you do not have the option to disable sensAI right now.
+However, you can simply choose not to use it if you do not feel the need to.
+After you use sensAI, you will see a “Was this helpful?” section at the bottom of your compiler.
+You can choose either ‘Yes’ or ‘No’ depending on your experience with the tool.

@@ -1,0 +1,25 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+It is similar to Dijkstra's algorithm but it can work with graphs in which edges can have negative weights.
+Negative weight edges might seem useless at first but they can explain a lot of phenomena like cashflow, the heat released/absorbed in a chemical reaction, etc.
+For instance, if there are different ways to reach from one chemical A to another chemical B, each method will have sub-reactions involving both heat dissipation and absorption.
+If we want to find the set of reactions where minimum energy is required, then we will need to be able to factor in the heat absorption as negative weights and heat dissipation as positive weights.
+Negative weight edges can create negative weight cycles i.e.
+a cycle that will reduce the total path distance by coming back to the same point.
+Shortest path algorithms like Dijkstra's Algorithm that aren't able to detect such a cycle can give an incorrect result because they can go through a negative weight cycle and reduce the path length.
+Bellman Ford algorithm works by overestimating the length of the path from the starting vertex to all other vertices.
+Then it iteratively relaxes those estimates by finding new paths that are shorter than the previously overestimated paths.
+By doing this repeatedly for all vertices, we can guarantee that the result is optimized.
+We need to maintain the path distance of every vertex.
+We can store that in an array of size v, where v is the number of vertices.
+We also want to be able to get the shortest path, not only know the length of the shortest path.
+For this, we map each vertex to the vertex that last updated its path length.
+Once the algorithm is over, we can backtrack from the destination vertex to the source vertex to find the path.
+Bellman Ford's algorithm and Dijkstra's algorithm are very similar in structure.
+While Dijkstra looks only to the immediate neighbors of a vertex, Bellman goes through each edge in every iteration.
+And, the space complexity is O(V).
+Sorry about that.
+DS & Algorithms Graph Data Stucture DS & Algorithms Prim's Algorithm DS & Algorithms Dijkstra's Algorithm DS & Algorithms Kruskal's Algorithm © Parewa Labs Pvt.
+Ltd. All rights reserved.

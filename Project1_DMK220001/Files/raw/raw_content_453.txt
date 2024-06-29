@@ -1,0 +1,20 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: In Python, we can implement a matrix as a nested list (list inside a list).
+We can treat each element as a row of the matrix.
+For example X = [[1, 2], [4, 5], [3, 6]] would represent a 3x2 matrix.
+First row can be selected as X[0] and the element in first row, first column can be selected as X[0][0].
+We can perform matrix addition in various ways in Python.
+Here are a couple of them.
+Output In this program we have used nested for loops to iterate through each row and each column.
+At each point, we add the corresponding elements in the two matrices and store it in the result.
+The output of this program is the same as above.
+We have used nested list comprehension to iterate through each element in the matrix.
+List comprehension allows us to write concise codes and we must try to use them frequently in Python.
+They are very helpful.
+To learn more, visit Python List Comprehension.
+Also Read:  Sorry about that.
+Python Example Transpose a Matrix Python Example Multiply Two Matrices Python Tutorial Python List Comprehension Python Tutorial Python Matrices and NumPy Arrays © Parewa Labs Pvt.
+Ltd. All rights reserved.

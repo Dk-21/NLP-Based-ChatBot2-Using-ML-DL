@@ -1,0 +1,34 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Red-Black tree is a self-balancing binary search tree in which each node contains an extra bit for denoting the color of the node, either red or black.
+A red-black tree satisfies the following properties: An example of a red-black tree is: Each node has the following attributes: How the red-black tree maintains the property of self-balancing?
+The red-black color is meant for balancing the tree.
+The limitations put on the node colors ensure that any simple path from the root to a leaf is not more than twice as long as any other such path.
+It helps in maintaining the self-balancing property of the red-black tree.
+Various operations that can be performed on a red-black tree are: In rotation operation, the positions of the nodes of a subtree are interchanged.
+Rotation operation is used for maintaining the properties of a red-black tree when they are violated by other operations such as insertion and deletion.
+There are two types of rotations: In left-rotation, the arrangement of the nodes on the right is transformed into the arrangements on the left node.
+Algorithm In right-rotation, the arrangement of the nodes on the left is transformed into the arrangements on the right node.
+In left-right rotation, the arrangements are first shifted to the left and then to the right.
+In right-left rotation, the arrangements are first shifted to the right and then to the left.
+While inserting a new node, the new node is always inserted as a RED node.
+After insertion of a new node, if the tree is violating the properties of the red-black tree then, we do the following operations.
+Following steps are followed for inserting a new element into a red-black tree: Why newly inserted nodes are always red in a red-black tree?
+This is because inserting a red node does not violate the depth property of a red-black tree.
+If you attach a red node to a red node, then the rule is violated but it is easier to fix this problem than the problem introduced by violating the depth property.
+This algorithm is used for maintaining the property of a red-black tree if the insertion of a newNode violates this property.
+This operation removes a node from the tree.
+After deleting a node, the red-black property is maintained again.
+This algorithm is implemented when a black node is deleted because it violates the black depth property of the red-black tree.
+This violation is corrected by assuming that node x (which is occupying y's original position) has an extra black.
+This makes node x neither red nor black.
+It is either doubly black or black-and-red.
+This violates the red-black properties.
+However, the color attribute of x is not changed rather the extra black is represented in x's pointing to the node.
+The extra black can be removed if The following algorithm retains the properties of a red-black tree.
+Please refer to insertion and deletion operations for more explanation with examples.
+Sorry about that.
+DS & Algorithms Insertion in a Red-Black Tree DS & Algorithms Deletion From a Red-Black Tree DS & Algorithms Full Binary Tree DS & Algorithms Tree Traversal - inorder, preorder and postorder © Parewa Labs Pvt.
+Ltd. All rights reserved.

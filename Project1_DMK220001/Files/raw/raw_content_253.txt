@@ -1,0 +1,32 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Some programming languages have a special function called main() which is the execution point for a program file.
+Python interpreter, however, runs each line serially from the top of the file and has no explicit main() function.
+Python offers other conventions to define the execution point.
+One of them is using the main() function and the __name__ property of a python file.
+The __name__ variable is a special builtin Python variable that shows the name of the current module.
+It has different values depending on where we execute the Python file.
+Let's look at an example.
+Suppose we have a Python file called helloworld.py with the following content: If we run helloworld.py from the command line, then it runs as a Python script.
+We can run the Python program using the following command: When we run the program as a script, the value of the variable __name__ is set to __main__.
+So the output of the following program will be: We can also run a Python file as a module.
+For this, we have to import this file into another Python program.
+Let's look at an example.
+Suppose we have a Python file called main.py in the same directory as the heloworld.py file.
+It has the following content: When we run this file, we will have the following output: Here, we can see that importing a module also runs all the code in the module file.
+But, we can see that instead of displaying __main__, the program displays the name of the module i.e.
+helloworld.
+It is because, in the context of running a Python file as a module, the name of the module itself is assigned to the __name__ variable.
+Now that we have understood how __name__ variable is assigned values, we can use the if conditional clause to run the same Python file differently in different contexts.
+Let's look at an example.
+Suppose we change the content of the helloworld.py file to the following: Now, when we run it as a script via the command line, the output will be: However, when we run it as a module by importing it in the main.py file, no output is displayed since the main() function is not called.
+Here, we have created a custom main() function in the helloworld.py file.
+It is executed only when the program is run as a standalone script and not as an imported module.
+This is the standard way to explicitly define the main() function in Python.
+It is one of the most popular use cases of __name__ variable of a Python file.
+Also Read:
+ Sorry about that.
+Python Tutorial Python Modules Python Tutorial Working with CSV files in Python Python Tutorial Python Package Python Tutorial Python Docstrings © Parewa Labs Pvt.
+Ltd. All rights reserved.

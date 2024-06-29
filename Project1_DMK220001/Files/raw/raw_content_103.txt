@@ -1,0 +1,31 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Huffman Coding is a technique of compressing data to reduce its size without losing any of the details.
+It was first developed by David Huffman.
+Huffman Coding is generally useful to compress the data in which there are frequently occurring characters.
+Suppose the string below is to be sent over a network.
+Each character occupies 8 bits.
+There are a total of 15 characters in the above string.
+Thus, a total of 8 * 15 = 120 bits are required to send this string.
+Using the Huffman Coding technique, we can compress the string to a smaller size.
+Huffman coding first creates a tree using the frequencies of the character and then generates code for each character.
+Once the data is encoded, it has to be decoded.
+Decoding is done using the same tree.
+Huffman Coding prevents any ambiguity in the decoding process using the concept of prefix code ie.
+a code associated with a character should not be present in the prefix of any other code.
+The tree created above helps in maintaining the property.
+Huffman coding is done with the help of the following steps.
+For sending the above string over a network, we have to send the tree as well as the above compressed-code.
+The total size is given by the table below.
+Without encoding, the total size of the string was 120 bits.
+After encoding the size is reduced to 32 + 15 + 28 = 75.
+For decoding the code, we can take the code and traverse through the tree to find the character.
+Let 101 is to be decoded, we can traverse from the root as in the figure below.
+The time complexity for encoding each unique character based on its frequency is O(nlog n).
+Extracting minimum frequency from the priority queue takes place 2*(n-1) times and its complexity is O(log n).
+Thus the overall complexity is O(nlog n).
+Sorry about that.
+DS & Algorithms Full Binary Tree DS & Algorithms Perfect Binary Tree DS & Algorithms Tree Traversal - inorder, preorder and postorder DS & Algorithms Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

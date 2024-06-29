@@ -1,0 +1,47 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In the last tutorial, we learned about Python OOP.
+We know that Python also supports the concept of objects and classes.
+An object is simply a collection of data (variables) and methods (functions).
+Similarly, a class is a blueprint for that object.
+Before we learn about objects, let's first learn about classes in Python.
+A class is considered a blueprint of objects.
+We can think of the class as a sketch (prototype) of a house.
+It contains all the details about the floors, doors, windows, etc.
+Based on these descriptions, we build the house; the house is the object.
+Since many houses can be made from the same description, we can create many objects from a class.
+We use the class keyword to create a class in Python.
+For example, Here, we have created a class named ClassName.
+Let's see an example, Here, Note: The variables inside a class are called attributes.
+An object is called an instance of a class.
+Suppose Bike is a class then we can create objects like bike1, bike2, etc from the class.
+Here's the syntax to create an object.
+Let's see an example, Here, bike1 is the object of the class.
+Now, we can use this object to access the class attributes.
+We use the .
+notation to access the attributes of a class.
+For example, Here, we have used bike1.name and bike1.gear to change and access the value of name and gear attributes, respectively.
+Output In the above example, we have defined the class named Bike with two attributes: name and gear.
+We have also created an object bike1 of the class Bike.
+Finally, we have accessed and modified the properties of an object using the .
+notation.
+We can also create multiple objects from a single class.
+For example, Output In the above example, we have created two objects employee1 and employee2 of the Employee class.
+We can also define a function inside a Python class.
+A Python function defined inside a class is called a method.
+Let's see an example, Output In the above example, we have created a class named Room with: Here, we have created an object named study_room from the Room class.
+We then used the object to assign values to attributes: length and breadth.
+Notice that we have also used the object to call the method inside the class, Here, we have used the .
+notation to call the method.
+Finally, the statement inside the method is executed.
+Earlier we assigned a default value to a class attribute, However, we can also initialize values using the constructors.
+For example, Here, __init__() is the constructor function that is called whenever a new object of that class is instantiated.
+The constructor above initializes the value of the name attribute.
+We have used the self.name to refer to the name attribute of the bike1 object.
+If we use a constructor to initialize values inside a class, we need to pass the corresponding value during the object creation of the class.
+Here, "Mountain Bike" is passed to the name parameter of __init__().
+Also Read: Sorry about that.
+Python Tutorial Python Object Oriented Programming Python Library Python object() Python Tutorial Python Inheritance Python Tutorial Polymorphism in Python © Parewa Labs Pvt.
+Ltd. All rights reserved.

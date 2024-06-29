@@ -1,0 +1,20 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: JPEG (pronounced "jay-peg") stands for Joint Photographic Experts Group.
+It is one of the most widely used compression techniques for image compression.
+Most of the file formats have headers (initial few bytes) which contain useful information about the file.
+For example, jpeg headers contain information like height, width, number of color (grayscale or RGB) etc.
+In this program, we find the resolution of a jpeg image reading these headers, without using any external library.
+Output In this program, we opened the image in binary mode.
+Non-text files must be open in this mode.
+The height of the image is at 164th position followed by width of the image.
+Both are 2 bytes long.
+Note that this is true only for JPEG File Interchange Format (JFIF) standard.
+If your image is encode using other standard (like EXIF), the code will not work.
+We convert the 2 bytes into a number using bitwise shifting operator <<.
+Finally, the resolution is displayed.
+Also Read:  Sorry about that.
+Python Example Find Hash of File Python Example Append to a File Python Tutorial  Python File Operation  Python Example Convert Bytes to a String © Parewa Labs Pvt.
+Ltd. All rights reserved.

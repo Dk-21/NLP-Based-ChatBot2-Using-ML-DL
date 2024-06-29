@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The extend() method adds all the items of the specified iterable, such as list, tuple, dictionary, or string , to the end of a list.
+Output The extend() method takes a single argument.
+The extend() doesn't return anything; it modifies the original list.
+Output Output We can also extend a list using  the + operator..
+If you need to add the item itself (rather than its elements), use the append() method.
+To learn more, visit list append() method.
+Also Read: Sorry about that.
+Python Library Python List append() Python Library Python List insert() Python Library Python List pop() Python Library Python List clear() © Parewa Labs Pvt.
+Ltd. All rights reserved.

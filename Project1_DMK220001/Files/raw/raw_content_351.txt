@@ -1,0 +1,42 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In Python, a dictionary is an unordered collection of items.
+For example: Here, dictionary has a key:value pair enclosed within curly brackets {}.
+To learn more about dictionary, please visit Python Dictionary.
+In Python, a nested dictionary is a dictionary inside a dictionary.
+It's a collection of dictionaries into one single dictionary.
+Here, the nested_dict is a nested dictionary with the dictionary dictA and dictB.
+They are two dictionary each having own key and value.
+We're going to create dictionary of people within a dictionary.
+When we run above program, it will output: In the above program, people is a nested dictionary.
+The internal dictionary 1 and 2 is assigned to people.
+Here, both the dictionary have key name, age , sex with different values.
+Now, we print the result of people.
+To access element of a nested dictionary, we use indexing [] syntax in Python.
+When we run above program, it will output:  In the above program, we print the value of key name using i.e.
+people[1]['name'] from internal dictionary 1.
+Similarly, we print the value of age and sex one by one.
+When we run above program, it will output: In the above program, we create an empty dictionary 3 inside the dictionary people.
+Then, we add the key:value pair i.e people[3]['Name'] = 'Luna' inside the dictionary 3.
+Similarly, we do this for key age, sex and married one by one.
+When we print the people[3], we get key:value pairs of dictionary 3.
+When we run above program, it will output: In the above program, we assign a dictionary literal to people[4].
+The literal have keys name, age and sex with respective values.
+Then we print the people[4], to see that the dictionary 4 is added in nested dictionary people.
+In Python, we use “ del “ statement to delete elements from nested dictionary.
+When we run above program, it will output: In the above program, we delete the key:value pairs of married from internal dictionary 3 and 4.
+Then, we print the people[3] and people[4] to confirm changes.
+When we run above program, it will output: In the above program, we delete both the internal dictionary 3 and 4 using del from the nested dictionary people.
+Then, we print the nested dictionary people to confirm changes.
+Using the for loops, we can iterate through each elements in a nested dictionary.
+When we run above program, it will output: In the above program, the first loop returns all the keys in the nested dictionary people.
+It consist of the IDs p_id of each person.
+We use these IDs to unpack the information p_info of each person.
+The second loop goes through the information of each person.
+Then, it returns all of the keys name, age, sex of each person's dictionary.
+Now, we print the key of the person’s information and the value for that key.
+Sorry about that.
+Python Tutorial Python Dictionary Comprehension Python Library Python Dictionary setdefault() Python Library Python Dictionary clear() Python Library Python Dictionary popitem() © Parewa Labs Pvt.
+Ltd. All rights reserved.

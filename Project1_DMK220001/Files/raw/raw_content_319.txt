@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The list pop() method removes the item at the specified index.
+The method also returns the removed item.
+The syntax of the pop() method is: The pop() method returns the item present at the given index.
+This item is also removed from the list.
+Output Note: Index in Python starts from 0, not 1.
+If you need to pop the 4th element, you need to pass 3 to the pop() method.
+Output If you need to remove the given item from the list, you can use the remove() method.
+And, you can use the del statement to remove an item or slices from the list.
+Sorry about that.
+Python Library Python List index() Python Library Python List remove() Python Library Python List insert() Python Library Python List append() © Parewa Labs Pvt.
+Ltd. All rights reserved.

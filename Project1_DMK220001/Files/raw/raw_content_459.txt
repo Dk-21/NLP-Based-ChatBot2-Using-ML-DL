@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Python offers a datatype called set whose elements must be unique.
+It can be used to perform different set operations
+    like union, intersection, difference and symmetric difference.
+Output In this program, we take two different sets and perform different set operations on them.
+This can equivalently done
+    by using set methods.
+To learn more, visit  Python Set Methods.
+Sorry about that.
+Python Tutorial Python Sets Python Example Remove Duplicate Element From a List Python Example Print Output Without a Newline Python Example Print all Prime Numbers in an Interval © Parewa Labs Pvt.
+Ltd. All rights reserved.

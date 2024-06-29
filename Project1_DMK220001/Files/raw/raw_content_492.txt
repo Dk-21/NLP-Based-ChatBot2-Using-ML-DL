@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output __class__ is the attribute of the class to which it is associated and __name__ is a special variable in Python.
+Its functionality depends on where it is used.
+Output Using attribute __name__ with type(), you can get the class name of an instance/object as shown in the example above.
+type() gives the class of object v and __name__ gives the class name.
+Sorry about that.
+Python Tutorial Python Main function Python Tutorial Python Modules Python Tutorial Python Inheritance Python Example Differentiate Between type() and isinstance() © Parewa Labs Pvt.
+Ltd. All rights reserved.

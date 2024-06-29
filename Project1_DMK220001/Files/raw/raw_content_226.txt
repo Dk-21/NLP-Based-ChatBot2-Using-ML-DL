@@ -1,0 +1,12 @@
+We are a small team of passionate developers, teachers, mentors, and students.
+Since the very beginning, we have been dedicated to creating programming resources that's accurate, practical, and easier to understand.
+Through our interactive and project-driven courses, we strive to sculpt our users into skilled programmers who can confidently take on the job market.
+We understand that creating textual content on the web to learn programming is not enough.
+To improve the learning experience of our users, we started Programiz.pro.
+Most online tutorials (including our own) can appear as confusing walls of text.
+We realized that this is a huge hurdle to learning.
+So, we decided to mitigate this issue by revamping our courses.
+Our aim was to create extremely engaging and interactive lessons to make learning easy and enjoyable.
+Our modified, highly curated courses prioritize setting a strong programming foundation.
+We designed our lessons For this, we the core concepts of programming while simultaneously building their practical skills through our carefully selected projects.
+Mary Dippler

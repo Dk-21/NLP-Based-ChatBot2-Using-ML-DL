@@ -1,0 +1,52 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+pip is the standard package manager for Python.
+We can use pip to install additional packages that are not available in the Python standard library.
+For example, If we had installed pip on our system, this command would have installed the numpy library.
+pip comes pre-installed on the Python versions 3.4 or older.
+We can check if pip is installed by using the following command in the console: If pip is already available in the system, the respective pip version is displayed, like: If we are using an older version of Python or do not have pip installed for some other reason, follow the steps as described in this link: pip installation pip is a command-line program.
+After its installation, a pip command is added which can be used with the command prompt.
+The basic syntax of pip is: Apart from the standard Python library, the Python community contributes to an extensive number of packages tailored for various development frameworks, tools, and libraries.
+Most of these packages are officially hosted and published to the Python Package Index(PyPI).
+pip allows us to download and install these packages.
+The install command used to install packages using pip.
+Let's take an example: Suppose we want to install requests, a popular HTTP library for Python.
+We can do it with the help of the following command.
+Output  Here, we can see that the pip has been used with the install command followed by the name of the package we want to install (requests).
+All other dependencies like chardet, urllib3 and certifi required for this package are also installed by pip.
+When pip install is used in its minimal form, pip downloads the most recent version of the package.
+Sometimes, only a specific version is compatible with other programs.
+So, we can define the version of the package in the following way: Here, we have installed the 2.11.0 version of the requests library.
+The pip list command can be used to list all the available packages in the current Python environment.
+Output The pip show command displays information about one or more installed packages.
+Let's look at an example: Output  Here, the show command displays information about the requests library.
+Notice the Requires and Required-by column in the above output.
+Requires column shows which dependencies the requests library requires.
+And, Required-by column shows the packages that require requests.
+We can uninstall a package by using pip with the pip uninstall command.
+Suppose we want to remove the requests library from our current Python environment.
+We can do it in the following way: Output As we can see, the requests package is removed after the final prompt.
+Note: Even though the specified package is removed, the packages that were installed as dependencies are not removed.
+In this case, the dependencies (chardet, urllib3, and certifi) of the requests library aren't uninstalled.
+If we need to remove the dependencies of a package as well, we can use the pip show command to view installed packages and remove them manually.
+A file containing all the package names can also be used to install Python packages in batches.
+Let's take a look at an example: Suppose we have a file requirements.txt which has the following entries: We can install all these packages and their dependencies by using a single command in pip.
+Output Here, we have used the same install command with pip.
+However, the additional argument -r specifies pip that we are passing a requirements file rather than a package name.
+As an alternative to manually creating the requirements file, pip offers the freeze command.
+Let's look at how to use this command.
+Suppose our current Python environment has the following packages.
+It can be displayed using pip list.
+The packages that don't come preinstalled will Python are listed using the freeze command.
+Output The pip freeze command displays the packages and their version in the format of the requirements file.
+So this output can be redirected to create a requirements file using the following command: A new requirements.txt file is created in the working directory.
+It can later be used in other Python environments to install specific versions of packages.
+The search command is used to search for packages in the command prompt.
+Let's look at an example: Output Here, we have searched for a library called pygame.
+All other packages that match the keyword are displayed.
+This command is helpful for finding related packages.
+To learn more about pip, visit: Python pip (official documentation) Sorry about that.
+Python Tutorial Getting Started with Python Python Tutorial Python Package Python Tutorial Python IDEs and Code Editors Python Tutorial Python Matrices and NumPy Arrays © Parewa Labs Pvt.
+Ltd. All rights reserved.

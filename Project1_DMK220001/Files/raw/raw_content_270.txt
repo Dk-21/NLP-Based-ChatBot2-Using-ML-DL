@@ -1,0 +1,32 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To simply put it, a namespace is a collection of names.
+In Python, we can imagine a namespace as a mapping of every name we have defined to corresponding objects.
+It is used to store the values of variables and other objects in the program, and to associate them with a specific name.
+This allows us to use the same name for different variables or objects in different parts of your code, without causing any conflicts or confusion.
+A namespace containing all the built-in names is created when we start the Python interpreter and exists as long as the interpreter runs.
+This is the reason that built-in functions like id(), print() etc.
+are always available to us from any part of the program.
+Each module creates its own global namespace.
+These different namespaces are isolated.
+Hence, the same name that may exist in different modules does not collide.
+Modules can have various functions and classes.
+A local namespace is created when a function is called, which has all the names defined in it.
+Similar is the case with class.
+The following diagram may help to clarify this concept.
+Although there are various unique namespaces defined, we may not be able to access all of them from every part of the program.
+The concept of scope comes into play.
+A scope is the portion of a program from where a namespace can be accessed directly without any prefix.
+At any given moment, there are at least three nested scopes.
+When a reference is made inside a function, the name is searched in the local namespace, then in the global namespace and finally in the built-in namespace.
+If there is a function inside another function, a new scope is nested inside the local scope.
+Output In the above example, there are three separate namespaces: the global namespace, the local namespace within the outer function, and the local namespace within the inner function.
+Here, When the code is executed, the global_var global variable is printed first, followed by the local variable: outer_var and inner_var when the outer and inner functions are called.
+Output Here, when the function is called, the global keyword is used to indicate that global_var is a global variable, and its value is modified to 30.
+So, when the code is executed, global_var is printed first with a value of 10, then the function is called and the global variable is modified to 30 from the inside of the function.
+And finally the modified value of global_var is printed again.
+Also Read: Sorry about that.
+Python Tutorial Python Global Keyword  Python Tutorial  Python Variable Scope Python Library Python globals() Python Library Python locals() © Parewa Labs Pvt.
+Ltd. All rights reserved.

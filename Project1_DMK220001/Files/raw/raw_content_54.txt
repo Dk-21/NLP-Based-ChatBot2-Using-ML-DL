@@ -1,0 +1,20 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+There are various linked list operations that allow us to perform different actions on linked lists.
+For example, the insertion operation adds a new element to the linked list.
+Here's a list of basic linked list operations that we will cover in this article.
+Before you learn about linked list operations in detail, make sure to know about Linked List first.
+In all of the examples, we will assume that the linked list has three nodes 1 --->2 --->3 with node structure as below: Displaying the contents of a linked list is very simple.
+We keep moving the temp node to the next one and display its contents.
+When temp is NULL, we know that we have reached the end of the linked list so we get out of the while loop.
+The output of this program will be:  You can add elements to either the beginning, middle or end of the linked list.
+You can delete either from the beginning, end or from a particular position.
+You can search an element on a linked list using a loop using the following steps.
+We are finding item on a linked list.
+We will use a simple sorting algorithm, Bubble Sort, to sort the elements of a linked list in ascending order below.
+Check the article on bubble sort for better understanding of its working.
+Sorry about that.
+DS & Algorithms Doubly Linked List DS & Algorithms Circular Linked List DS & Algorithms Types of Linked List - Singly linked, doubly linked and circular DS & Algorithms Linked list Data Structure © Parewa Labs Pvt.
+Ltd. All rights reserved.

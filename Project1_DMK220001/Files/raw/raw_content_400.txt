@@ -1,0 +1,8 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The float() method returns a floating point number from a number or a string.
+The syntax for float() is: The float() method takes a single parameter: The float() method returns: Output Output Also Read: Sorry about that.
+Python Library Python print() Python Library Python round() Python Library Python hex() Python Library Python divmod() © Parewa Labs Pvt.
+Ltd. All rights reserved.

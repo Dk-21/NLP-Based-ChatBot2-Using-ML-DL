@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Go is an open-source programming language developed by Google.
+It has a wide range of applications like data science, artificial intelligence, network server programming, cloud-based applications, and server-side applications.
+It is also referred to as the Golang programming language.
+Our Go tutorials will guide you to learn Go Programming one step at a time.
+Go is expressive, concise, clean, and efficient.
+Go has gained popularity in recent years for the following reasons.
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

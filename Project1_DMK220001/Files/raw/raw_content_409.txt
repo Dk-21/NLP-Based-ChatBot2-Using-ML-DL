@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: A positive integer greater than 1 which has no other factors  except 1 and the number itself is called a prime number.
+2, 3, 5, 7 etc.
+are prime numbers as they do not have any other factors.
+But 6 is not prime (it is composite) since, 2 x 3 = 6.
+Output Here, we store the interval as lower for lower interval and upper for upper interval using Python range(), and printed prime numbers in that range.
+Visit this page to learn how to check whether a number is prime or not.
+Sorry about that.
+Python Example Check Prime Number Python Example Find Armstrong Number in an Interval Python Example Find Numbers Divisible by Another Number Python Example Find the Factors of a Number © Parewa Labs Pvt.
+Ltd. All rights reserved.

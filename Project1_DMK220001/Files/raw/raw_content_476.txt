@@ -1,0 +1,14 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output In the above example, we have defined a function to split the list.
+Learn more about yield at Python Generators.
+You can do the same thing using list compression as below.
+Output Learn more about list comprehension at Python List Comprehension.
+Output array_split() is a numpy method that splits a list into equal sized chunks.
+Here, the number of chunks is 5.
+Note: You need to install numpy on your system.
+Also Read: Sorry about that.
+Python Example Slice Lists Python Example Access Index of a List Using for Loop Python Example Flatten a Nested List Python Example Check If a List is Empty © Parewa Labs Pvt.
+Ltd. All rights reserved.

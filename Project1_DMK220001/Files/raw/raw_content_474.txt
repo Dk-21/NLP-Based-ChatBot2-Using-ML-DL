@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output In this example, + operator is used to concatenate two lists.
+Output * operator allows unpacking inside the list or tuple.
+Output If you want the unique items from a concatenated list, you can use list() and set().
+set() selects the unique values and list() converts the set into list.
+Output Using extend(), you can concatenate a list to another list as shown in example above.
+Also Read:  Sorry about that.
+Python Example Iterate Through Two Lists in Parallel Python Example Remove Duplicate Element From a List Python Example Flatten a Nested List Python Tutorial Python List © Parewa Labs Pvt.
+Ltd. All rights reserved.

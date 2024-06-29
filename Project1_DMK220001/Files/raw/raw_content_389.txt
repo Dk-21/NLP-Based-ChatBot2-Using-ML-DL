@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output In this program, we have used the built-in print() function to print the string Hello, world!
+on our screen.
+By the way, a string is a sequence of characters.
+In Python, strings are enclosed inside single quotes, double quotes, or triple quotes.
+Sorry about that.
+Python Tutorial Your First Python Program  Python Tutorial Python Strings Python Tutorial Python Comments Python Tutorial Python String Interpolation © Parewa Labs Pvt.
+Ltd. All rights reserved.

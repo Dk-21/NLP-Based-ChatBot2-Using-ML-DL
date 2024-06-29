@@ -1,0 +1,55 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Python programming provides us with a built-in @property decorator which makes usage of getter and setters much easier in Object-Oriented Programming.
+Before going into details on what @property decorator is, let us first build an intuition on why it would be needed in the first place.
+Let us assume that we decide to make a class that stores the temperature in degrees Celsius.
+And, it would also implement a method to convert the temperature into degrees Fahrenheit.
+One way of doing this is as follows: We can make objects out of this class and manipulate the temperature attribute as we wish: Output Here, the extra decimal places when converting into Fahrenheit is due to the Floating Point Arithmetic Error.
+So, whenever we assign or retrieve any object attribute like temperature as shown above, Python searches it in the object's built-in __dict__ dictionary attribute as Therefore, human.temperature internally becomes human.__dict__['temperature'].
+Suppose we want to extend the usability of the Celsius class defined above.
+We know that the temperature of any object cannot reach below -273.15 degrees Celsius.
+Let's update our code to implement this value constraint.
+An obvious solution to the above restriction will be to hide the attribute temperature (make it private) and define new getter and setter methods to manipulate it.
+This can be done as follows: As we can see, the above method introduces two new get_temperature() and set_temperature() methods.
+Furthermore, temperature was replaced with _temperature.
+An underscore _ at the beginning is used to denote private variables in Python.
+Now, let's use this implementation: Output This update successfully implemented the new restriction.
+We are no longer allowed to set the temperature below -273.15 degrees Celsius.
+Note: The private variables don't actually exist in Python.
+There are simply norms to be followed.
+The language itself doesn't apply any restrictions.
+However, the bigger problem with the above update is that all the programs that implemented our previous class have to modify their code from obj.temperature to obj.get_temperature() and all expressions like obj.temperature = val to obj.set_temperature(val).
+This refactoring can cause problems while dealing with hundreds of thousands of lines of codes.
+All in all, our new update was not backwards compatible.
+This is where @property comes to rescue.
+A pythonic way to deal with the above problem is to use the property class.
+Here is how we can update our code: We added the print() function inside get_temperature() and set_temperature() to clearly observe that they are being executed.
+The last line of the code makes a property object temperature.
+Simply put, property attaches some code (get_temperature and set_temperature) to the member attribute accesses (temperature).
+Let's use this update code: Output As we can see, any code that retrieves the value of temperature will automatically call get_temperature() instead of a dictionary (__dict__) look-up.
+Similarly, any code that assigns a value to temperature will automatically call set_temperature().
+We can even see above that set_temperature() was called even when we created an object.
+Can you guess why?
+The reason is that when an object is created, the __init__() method gets called.
+This method has the line self.temperature = temperature.
+This expression automatically calls set_temperature().
+Similarly, any access like c.temperature automatically calls get_temperature().
+This is what property does.
+By using property, we can see that no modification is required in the implementation of the value constraint.
+Thus, our implementation is backward compatible.
+Note: The actual temperature value is stored in the private _temperature variable.
+The temperature attribute is a property object which provides an interface to this private variable.
+In Python, property() is a built-in function that creates and returns a property object.
+The syntax of this function is: Here, As seen from the implementation, these function arguments are optional.
+A property object has three methods, getter(), setter(), and deleter() to specify fget, fset and fdel at a later point.
+This means, the line: can be broken down as: These two pieces of code are equivalent.
+Programmers familiar with Python Decorators can recognize that the above construct can be implemented as decorators.
+We can even not define the names get_temperature and set_temperature as they are unnecessary and pollute the class namespace.
+For this, we reuse the temperature name while defining our getter and setter functions.
+Let's look at how to implement this as a decorator: Output The above implementation is simple and efficient.
+It is the recommended way to use property.
+Sorry about that.
+Python Library Python property() Python Tutorial Python Classes and Objects Python Library Python setattr() Python Tutorial Python Decorators © Parewa Labs Pvt.
+Ltd. All rights reserved.

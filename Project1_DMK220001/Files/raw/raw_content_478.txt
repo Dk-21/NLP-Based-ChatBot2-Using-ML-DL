@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output The working of the above line of code is shown in the figure below.
+Let's understand the escape code \x1b[38;2;5;86;243m.
+For more information regarding the ANSI escape code, you can refer to ANSI escape code.
+Output Using the module termcolor, you can get the desired output.
+Also, you can set different styles of the text using this module.
+The first parameter of colored() is the text and the second parameter is the color.
+Sorry about that.
+Python Tutorial Python IDEs and Code Editors Python Example Randomly Select an Element From the List Python Example Print Output Without a Newline Python Tutorial Python Main function © Parewa Labs Pvt.
+Ltd. All rights reserved.

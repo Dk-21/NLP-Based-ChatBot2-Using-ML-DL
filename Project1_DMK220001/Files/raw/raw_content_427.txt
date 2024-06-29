@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: In the program below, we have used an anonymous (lambda) function inside the map() built-in function to find the powers of 2.
+Output Note: To test for different number of terms, change the value of terms variable.
+Also Read:  Sorry about that.
+Python Example Compute the Power of a Number Python Example Print the Fibonacci sequence Python Example Display Fibonacci Sequence Using Recursion Python Tutorial Python Exceptions © Parewa Labs Pvt.
+Ltd. All rights reserved.

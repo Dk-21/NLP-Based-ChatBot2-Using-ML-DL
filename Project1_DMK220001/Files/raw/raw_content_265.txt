@@ -1,0 +1,25 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In Python, we can change the way operators work for user-defined types.
+For example, the + operator will perform arithmetic addition on two numbers, merge two lists, or concatenate two strings.
+This feature in Python that allows the same operator to have different meaning according to the context is called operator overloading.
+Class functions that begin with double underscore __ are called special functions in Python.
+The special functions are defined by the Python interpreter and used to implement certain features or behaviors.
+They are called "double underscore" functions because they have a double underscore prefix and suffix, such as __init__() or __add__().
+Here are some of the special functions available in Python, To overload the + operator, we will need to implement __add__() function in the class.
+With great power comes great responsibility.
+We can do whatever we like inside this function.
+But it is more sensible to return the Point object of the coordinate sum.
+Let's see an example, In the above example, what actually happens is that, when we use p1 + p2, Python calls p1.__add__(p2) which in turn is Point.__add__(p1,p2).
+After this, the addition operation is carried out the way we specified.
+Similarly, we can overload other operators as well.
+The special function that we need to implement is tabulated below.
+Python does not limit operator overloading to arithmetic operators only.
+We can overload comparison operators as well.
+Here's an example of how we can overload the < operator to compare two objects the Person class based on their age: Output Here, __lt__() overloads the < operator to compare the age attribute of two objects.
+The __lt__() method returns, Similarly, the special functions that we need to implement, to overload other comparison operators are tabulated below.
+Here are some advantages of operator overloading, Also Read: Sorry about that.
+Python Tutorial Python Operators Python Tutorial Precedence and Associativity of Operators in Python Python Library Python dir() Python Tutorial Python Lists Vs Tuples © Parewa Labs Pvt.
+Ltd. All rights reserved.

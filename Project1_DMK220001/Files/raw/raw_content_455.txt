@@ -1,0 +1,25 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: In Python, we can implement a matrix as nested list (list inside a list).
+We can treat each element as a row of the matrix.
+For example X = [[1, 2], [4, 5], [3, 6]] would represent a 3x2 matrix.
+The first row can be selected as X[0].
+And, the element in first row, first column can be selected as X[0][0].
+Multiplication of two matrices X and Y is defined only if the number of columns in X is equal to the number of rows Y.
+If X is a n x m matrix and Y is a m x l matrix then, XY is defined and has the dimension n x l (but YX is not defined).
+Here are a couple of ways to implement matrix multiplication in Python.
+Output In this program, we have used nested for loops to iterate through each row and each column.
+We accumulate the sum of products in the result.
+This technique is simple but computationally expensive as we increase the order of the matrix.
+For larger matrix operations we recommend optimized software packages like NumPy which is several (in the order of 1000) times faster than the above code.
+The output of this program is the same as above.
+To understand the above code we must first know about built-in function zip() and unpacking argument list using * operator.
+We have used nested list comprehension to iterate through each element in the matrix.
+The code looks complicated and unreadable at first.
+But once you get the hang of list comprehensions, you will probably not go back to nested loops.
+To learn more, visit Python List Comprehension.
+Also Read:  Sorry about that.
+Python Example Transpose a Matrix Python Example Add Two Matrices Python Tutorial Python Matrices and NumPy Arrays Python Example Display the multiplication Table © Parewa Labs Pvt.
+Ltd. All rights reserved.

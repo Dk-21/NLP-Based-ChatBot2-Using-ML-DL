@@ -1,0 +1,59 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Python is a versatile, high-level programming language that is widely supported across all major operating systems.
+To execute Python code, you need to have a Python interpreter installed on your system.
+However, if you want to start immediately, you can use our free Online Python Complier that enables you to run Python code directly in your browser—no installation required.
+For those who prefer to install Python locally, this guide will walk you through the installation process on Windows, macOS, and Linux (Ubuntu).
+To install Python on your Windows, just follow these steps: Here is a detailed explanation of each of the steps: Go to the VS Code Official website and download the Windows installer.
+Once the download is complete, run the installer and follow the installation process.
+Click Finish to complete the installation process Go to the official Python website and download the latest version (Python 3.12.2 at the time of writing this tutorial) for Windows.
+The website automatically detects your operating system and gives you the right installer.
+Now, go to your download folder and run the installer you just downloaded.
+Depending on your security settings, you might be prompted to allow access.
+Simply allow it and proceed.
+Once you have run the installer, you will come across this screen.
+On the screen, you will see two options: Install Now and Customize Installation.
+We suggest you skip all customization steps and simply click Install Now.
+This makes it easier to run a Python Program from the command prompt (cmd) directly without specifying the full path of the Python executable.
+After using this option, Python will be successfully installed in your device.
+Python Default Installation
+ After the installation is complete, you can verify whether Python is installed by using the following command in the command prompt.
+python --version Note: The version number might differ from the one above, depending on your installed version.
+Now, you are all set to run Python programs on your device.
+To install Python on your Mac, just follow these steps: Here is a detailed explanation of each of the steps: Go to the VS Code official website and download the zipped file.
+Once the download is complete, open the zipped file.
+In Finder, open a new window and navigate to the Applications folder.
+Drag the VS Code application from the zip file into the Applications folder to install it.
+You can now launch VS Code directly from the Applications folder.
+Since macOS often comes with an older version of Python (Python 2.x) pre-installed on it, you can check the current version by using the following command in the Terminal app.
+or, for Python 3: If you are satisfied with the installed version of Python 3.x, you can skip the remaining steps.
+Otherwise, follow the steps below.
+Visit the official Python website and download the latest version (Python 3.12.2 at the time of writing this tutorial) for mac.
+The website automatically detects your operating system and gives you the right installer.
+Go to your downloads folder and run the installer you just downloaded.
+You will be prompted to agree to the software license agreement, choose the installation location (we recommend using default location), and enter your administrator password.
+Simply proceed through it.
+Once the installation is complete, you can verify whether Python is installed by using the following command in the Terminal app.
+Note: The version number might differ from the one above, depending on your installed version.
+Linux has various distributions, and the installation process differs slightly from each other.
+For now, we will focus on Ubuntu distribution.
+Most Linux distributions come pre-installed with Python.
+However, if you need to install or upgrade follow these steps: Here is a detailed explanation of each of the steps: Open the Terminal and type This command updates your package lists to ensure you get the latest versions of your software.
+Proceed to install VS Code with You can check the current version by using the following command in the terminal window.
+or, for Python 3 If you are satisfied with the installed version of Python, you can skip the remaining steps.
+Otherwise, follow the steps below.
+Update the package list to ensure you get the latest version available: Install Python 3: This command installs Python along pip (Python package installer), documentation, and other useful packages.
+Wait until the installation finishes to start using Python.
+Once the installation is complete, you can verify whether Python is installed by using the following command in the Terminal app.
+Now, you are all set to run Python programs on your device.
+First open VS Code, click on the File in the top menu and then select New File.
+Then, save this file with a .py extension by clicking on File again, then Save As, and type your filename ending in .py.
+(Here, we are saving it as hello.py) Now, write the following code into your file:  print("Hello World")  Then click on the run button on the top right side of your screen.
+You should see Hello World printed to the command prompt.
+Note: Type python3 in command prompt for macOS and Linux.
+Now that you have set everything up to run Python programs on your computer,  you'll be learning how the basic program works in Python in the next tutorial.
+Sorry about that.
+Python Tutorial Python pip Python Tutorial Python IDEs and Code Editors Python Library Python List reverse() Python Tutorial Python Matrices and NumPy Arrays © Parewa Labs Pvt.
+Ltd. All rights reserved.

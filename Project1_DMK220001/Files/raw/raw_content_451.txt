@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: In the program below, we've used a recursive function recur_sum() to compute the sum up to the given number.
+Output Note: To test the program for another number, change the value of num.
+Also Read:  Sorry about that.
+Python Example Find the Sum of Natural Numbers Python Example Find the Factorial of a Number Python Example Find Factorial of Number Using Recursion Python Example Find Numbers Divisible by Another Number © Parewa Labs Pvt.
+Ltd. All rights reserved.

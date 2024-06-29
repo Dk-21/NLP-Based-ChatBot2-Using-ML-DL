@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: In this example, we illustrate how words can be sorted lexicographically (alphabetic order).
+Output Note: To test the program, change the value of my_str.
+In this program, we store the string to be sorted in my_str.
+Using the split() method  the string is converted into a list of words.
+The split() method splits the string at whitespaces.
+The list of words is then sorted using the sort() method, and all the words are displayed.
+Sorry about that.
+Python Example Compute all the Permutation of the String Python Example Remove Punctuations From a String Python Example Check Whether a String is Palindrome or Not Python Example Sort a Dictionary by Value © Parewa Labs Pvt.
+Ltd. All rights reserved.

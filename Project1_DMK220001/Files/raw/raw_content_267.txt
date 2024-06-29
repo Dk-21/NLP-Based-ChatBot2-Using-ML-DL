@@ -1,0 +1,28 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In Python, a lambda function is a special type of function without the function name.
+For example, Here, we have created a lambda function that prints 'Hello World'.
+Before you learn about lambdas, make sure to know about Python Functions.
+We use the lambda keyword instead of def to create a lambda function.
+Here's the syntax to declare the lambda function: Here, Let's see an example, Here, we have defined a lambda function and assigned it to the variable named greet.
+To execute this lambda function, we need to call it.
+Here's how we can call the lambda function  The lambda function above simply prints the text 'Hello World'.
+Note: This lambda function doesn't have any argument.
+In the above example, we have defined a lambda function and assigned it to the greet variable.
+When we call the lambda function, the print() statement inside the lambda function is executed.
+Similar to normal functions, a lambda function can also accept arguments.
+For example, In the above example, we have assigned a lambda function to the greet_user variable.
+Here, name after the lambda keyword specifies that the lambda function accepts the argument named name.
+Notice the call of the lambda function, Here, we have passed a string value 'Delilah' to our lambda function.
+Finally, the statement inside the lambda function is executed.
+The filter() function in Python takes in a function and an iterable (lists, tuples, and strings) as arguments.
+The function is called with all the items in the list, and a new list is returned, which contains items for which the function evaluates to True.
+Let's see an example, Here, the filter() function returns only even numbers from a list.
+The map() function in Python takes in a function and an iterable (lists, tuples, and strings) as arguments.
+The function is called with all the items in the list, and a new list is returned, which contains items returned by that function for each item.
+Let's see an example, Here, the map() function doubles all the items in a list.
+Also Read: Sorry about that.
+Python Library Python map() Function Python Library Python filter() Python Tutorial Python List Comprehension Python Library Python min() © Parewa Labs Pvt.
+Ltd. All rights reserved.

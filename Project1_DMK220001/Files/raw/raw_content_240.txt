@@ -1,0 +1,32 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In Python, a for loop is used to iterate over sequences such as lists, strings, tuples, etc.
+Output In the above example, we have created a list called languages.
+As the list has 3 elements, the loop iterates 3 times.
+The value of i is  Here, val accesses each item of the sequence on each iteration.
+The loop continues until we reach the last item in the sequence.
+Output Here, we have printed each character of the string language using a for loop.
+In Python, the range() function returns a sequence of numbers.
+For example, Here, range(4) returns a sequence of 0, 1, 2 ,and 3.
+Since the range() function returns a sequence of numbers, we can iterate over it using a for loop.
+For example, Output  Here, we used the for loop to iterate over a range from 0 to 3.
+This is how the above program works.
+A for loop can have an optional else clause.
+This else clause executes after the iteration completes.
+Output Here, the for loop prints all the items of the digits list.
+When the loop finishes, it executes the else block and prints No items left.
+Note: The else block will not execute if the for loop is stopped by a break statement.
+We can also use for loop to repeat an action a certain number of times.
+For example, Output Here, we used the list languages to run the loop three times.
+However, we didn't use any of the elements of the list.
+In such cases, it is clearer to use the _ (underscore) as the loop variable.
+The _ indicates                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                that a loop variable is a placeholder and its value is intentionally being ignored.
+For example, Here, the loop still runs three times because there are three elements in the languages list.
+Using _ indicates that the loop is there for repetition and not for accessing the elements.
+A for loop can also have another for loop inside it.
+For each cycle of the outer loop, the inner loop completes its entire sequence of iterations.
+For example, Output Also Read: Sorry about that.
+Python Library Python range() Function Python Tutorial Python while Loop Python Tutorial Python Iterators Python Tutorial Python break and continue © Parewa Labs Pvt.
+Ltd. All rights reserved.

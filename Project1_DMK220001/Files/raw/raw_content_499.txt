@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: The content of the file my_file.txt is Source Code Output Using a for loop, the number of lines of a file can be counted.
+Output To learn more, visit Python List Comprehension.
+Also Read: Sorry about that.
+Python Example Python Program Read a File Line by Line Into a List Python Example Append to a File Python Example Find Hash of File Python Example Merge Mails © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,16 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Python programming offers two kinds of loop, the for loop and the while loop.
+Using these loops along with loop control statements like break and continue, we can create various forms of loop.
+We can create an infinite loop using while statement.
+If the condition of while loop is always True, we get an infinite loop.
+Output This is a normal while loop without break statements.
+The condition of the while loop is at the top and the loop terminates when this condition is False.
+When you run the program, the output will be: This kind of loop can be implemented using an infinite loop along with a conditional break in between the body of the loop.
+Output This kind of loop ensures that the body of the loop is executed at least once.
+It can be implemented using an infinite loop along with a conditional break at the end.
+This is similar to the do...while loop in C. Output Sorry about that.
+Python Tutorial Python while Loop Python Tutorial Python break and continue Python Tutorial Python for Loop Python Tutorial Python Iterators © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,37 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A Python dictionary is a collection of items, similar to lists and tuples.
+However, unlike lists and tuples, each item in a dictionary is a key-value pair (consisting of a key and a value).
+We create a dictionary by placing key: value pairs inside curly brackets {}, separated by commas.
+For example, Output The country_capitals dictionary has three elements (key-value pairs), where 'Germany' is the key and 'Berlin' is the value assigned to it and so on.
+Python Dictionary
+ Notes: Immutable objects can't be changed once created.
+Some immutable objects in Python are integer, tuple and string.
+In this example, we have used integers, tuples, and strings as keys for the dictionaries.
+When we used a list as a key, an error message occurred due to the list's mutable nature.
+Note: Dictionary values can be of any data type, including mutable types like lists.
+The keys of a dictionary must be unique.
+If there are duplicate keys, the later value of the key overwrites the previous value.
+Output Here, the key Harry Potter is first assigned to Gryffindor.
+However, there is a second entry where Harry Potter is assigned to Slytherin.
+As duplicate keys are not allowed in a dictionary, the last entry Slytherin overwrites the previous value Gryffindor.
+We can access the value of a dictionary item by placing the key inside square brackets.
+Note: We can also use the get() method to access dictionary items.
+We can add an item to a dictionary by assigning a value to a new key.
+For example,  Output We can use the del statement to remove an element from a dictionary.
+For example, Output Note: We can also use the pop() method to remove an item from a dictionary.
+If we need to remove all items from a dictionary at once, we can use the clear() method.
+Output Python dictionaries are mutable (changeable).
+We can change the value of a dictionary element by referring to its key.
+For example, Output Note: We can also use the update() method to add or change dictionary items.
+A dictionary is an ordered collection of items (starting from Python 3.7), therefore it maintains the order of its items.
+We can iterate through dictionary keys one by one using a for loop.
+Output We can find the length of a dictionary by using the len() function.
+Here are some of the commonly used dictionary methods.
+We can check whether a key exists in a dictionary by using the in and not in operators.
+Note: The in operator checks whether a key exists; it doesn't check whether a value exists or not.
+Sorry about that.
+Python Library Python reversed() Python Library Python Dictionary clear() Python Tutorial Python Data Types Python Library Python Dictionary fromkeys() © Parewa Labs Pvt.
+Ltd. All rights reserved.

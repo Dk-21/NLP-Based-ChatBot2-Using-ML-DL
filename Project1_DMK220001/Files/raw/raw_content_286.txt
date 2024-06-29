@@ -1,0 +1,36 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+JSON (JavaScript Object Notation) is a popular data format used for representing structured data.
+It's common to transmit and receive data between a server and web application in JSON format.
+In Python, JSON exists as a string.
+For example: It's also common to store a JSON object in a file.
+To work with JSON (string, or file containing JSON object), you can use Python's json module.
+You need to import the module before you can use it.
+The json module makes it easy to parse JSON strings and files containing JSON object.
+You can parse a JSON string using json.loads() method.
+The method returns a dictionary.
+Here, person is a JSON string, and person_dict is a dictionary.
+You can use json.load() method to read a file containing JSON object.
+Suppose, you have a file named person.json which contains a JSON object.
+Here's how you can parse this file: Here, we have used the open() function to read the json file.
+Then, the file is parsed using json.load() method which gives us a dictionary named data.
+If you do not know how to read and write files in Python, we recommend you to check Python File I/O.
+You can convert a dictionary to JSON string using json.dumps() method.
+Here's a table showing Python objects and their equivalent conversion to JSON.
+To write JSON to a file in Python, we can use json.dump() method.
+In the above program, we have opened a file named person.txt in writing mode using 'w'.
+If the file doesn't already exist, it will be created.
+Then, json.dump() transforms person_dict to a JSON string which will be saved in the person.txt file.
+When you run the program, the person.txt file will be created.
+The file has following text inside it.
+To analyze and debug JSON data, we may need to print it in a more readable format.
+This can be done by passing additional parameters indent and sort_keys to json.dumps() and json.dump() method.
+When you run the program, the output will be: In the above program, we have used 4 spaces for indentation.
+And, the keys are sorted in ascending order.
+By the way, the default value of indent is None.
+And, the default value of sort_keys is False.
+Recommended Readings: Sorry about that.
+Python Library Python open() Python Tutorial Working with CSV files in Python Python Tutorial Python Docstrings Python Tutorial Python Main function © Parewa Labs Pvt.
+Ltd. All rights reserved.

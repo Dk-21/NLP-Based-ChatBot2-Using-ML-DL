@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The index() method returns the index of the specified element in the list.
+The syntax of the list index() method is: The list index() method can take a maximum of three arguments: Note: The index() method only returns the first occurrence of the matching element.
+Output  Output Output Also Read: Python Program to Access Index of a List Using for Loop Sorry about that.
+Python Library Python List insert() Python Library Python List pop() Python Library Python List remove() Python Library Python List count() © Parewa Labs Pvt.
+Ltd. All rights reserved.

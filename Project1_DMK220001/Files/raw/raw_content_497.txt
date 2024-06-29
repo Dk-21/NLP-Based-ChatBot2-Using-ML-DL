@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Here, we have class Day with the object Enum as its argument.
+name and value are the attributes of Enum which give the name and value of the member MONDAY respectively.
+You can refer to the official documentation of enum for more information.
+Sorry about that.
+Python Tutorial Python strptime() Python Tutorial Python strftime() Python Example Print Colored Text to the Terminal Python Example Print Output Without a Newline © Parewa Labs Pvt.
+Ltd. All rights reserved.

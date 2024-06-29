@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: If a, b and c are three sides of a triangle.
+Then, Output In this program, area of the triangle is calculated when three sides are given using Heron's formula.
+If you need to calculate area of a triangle depending upon the input from the user, input() function can be used.
+Also Read:  Sorry about that.
+Python Example Differentiate Between type() and isinstance() Python Example Create Pyramid Patterns Python Tutorial  Python Basic Input and Output   Python Example Add Two Numbers © Parewa Labs Pvt.
+Ltd. All rights reserved.

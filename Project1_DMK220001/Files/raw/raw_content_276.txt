@@ -1,0 +1,18 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The strftime() method returns a string representing date and time using date, time or datetime object.
+The program below converts a datetime object containing current date and time to different string formats.
+When you run the program, the output will something like be: Here, year, day, time and date_time are strings, whereas now is a datetime object.
+In the above program, %Y, %m, %d etc.
+are format codes.
+The strftime() method takes one or more format codes as an argument and returns a formatted string based on it.
+When you run the program, the output will be: The table below shows all the codes that you can pass to the strftime() method.
+When you run the program, the output will be: Format codes %c, %x and %X are used for locale's appropriate date and time representation.
+We also recommend you to check Python strptime().
+The strptime() method creates a datetime object from a string.
+Sorry about that.
+Python Tutorial Python strptime() Python Tutorial How to get current date and time in Python?
+Python Tutorial Python datetime Python Tutorial Python timestamp to datetime and vice-versa © Parewa Labs Pvt.
+Ltd. All rights reserved.

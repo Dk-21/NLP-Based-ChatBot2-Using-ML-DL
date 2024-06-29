@@ -1,0 +1,20 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: In the above program, let's see how the pattern is printed.
+Also Read:  In the above program, let's see how the pattern is printed.
+The working of the above example is also similar to the other examples discussed above except that the ascii values are printed here.
+The ascii value for alphabets start from 65 (i.e.
+A).
+Therefore, in each iteration, we increase the value of ascii_value and print its corresponding alphabet.
+Also Read:  This example is similar to an upright pyramid except that here we start from the total number of rows and in each iteration we decrease the number of rows by 1.
+The only difference between an upright and an inverted pyramid using numbers is that the first loop starts from the total number of rows to 0.
+This type of pyramid is a bit more complicated than the ones we studied above.
+Like example 6, this example also makes use of two loops inside a for loop.
+In this example, we have used a total of 4 for loops.
+In this example, we have used three for loops.
+This is one of the easiest patterns.
+Sorry about that.
+Python Example Print all Prime Numbers in an Interval Python Example Print the Fibonacci sequence Python Example Find the Factorial of a Number Python Example Check Prime Number © Parewa Labs Pvt.
+Ltd. All rights reserved.

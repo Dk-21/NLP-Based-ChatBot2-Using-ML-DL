@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Decimal number is converted into binary by dividing the number successively by 2 and printing the remainder in reverse order.
+Output You can change the variable dec in the above program and run it to test out for other values.
+This program works only for whole numbers.
+It doesn't work for real numbers having fractional values such as: 25.5, 45.64 and so on.
+We encourage you to create Python program that converts decimal numbers to binary for all real numbers on your own.
+Also Read: Sorry about that.
+Python Example Convert Decimal to Binary, Octal and Hexadecimal Python Tutorial Python Numbers, Type Conversion and Mathematics Python Example Find the Sum of Natural Numbers Python Example Print all Prime Numbers in an Interval © Parewa Labs Pvt.
+Ltd. All rights reserved.

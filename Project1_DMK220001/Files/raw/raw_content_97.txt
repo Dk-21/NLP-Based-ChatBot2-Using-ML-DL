@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Binary Search is a searching algorithm for finding an element's position in a sorted array.
+In this approach, the element is always searched in the middle of a portion of an array.
+Binary search can be implemented only on a sorted list of items.
+If the elements are not sorted already, we need to sort them first.
+Binary Search Algorithm can be implemented in two ways which are discussed below.
+The recursive method follows the divide and conquer approach.
+The general steps for both methods are discussed below.
+Time Complexities Space Complexity The space complexity of the binary search is O(1).
+Sorry about that.
+DS & Algorithms Linear Search DS & Algorithms Quicksort Algorithm DS & Algorithms Insertion Sort Algorithm DS & Algorithms Binary Search Tree(BST) © Parewa Labs Pvt.
+Ltd. All rights reserved.

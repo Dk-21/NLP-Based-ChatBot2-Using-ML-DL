@@ -1,0 +1,27 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The longest common subsequence (LCS) is defined as the longest subsequence that is common to all the given sequences, provided that the elements of the subsequence are not required to occupy consecutive positions within the original sequences.
+If S1 and S2 are the two given sequences then, Z is the common subsequence of S1 and S2 if Z is a subsequence of both S1 and S2.
+Furthermore, Z must be a strictly increasing sequence of the indices of both S1 and S2.
+In a strictly increasing sequence, the indices of the elements chosen from the original sequences must be in ascending order in Z.
+If Then, {A, D, B} cannot be a subsequence of S1 as the order of the elements is not the same (ie.
+not strictly increasing sequence).
+Let us understand LCS with an example.
+If Then, common subsequences are {B, C}, {C, D, A, C}, {D, A, C}, {A, A, C}, {A, C}, {C, D}, ...
+Among these subsequences, {C, D, A, C} is the longest common subsequence.
+We are going to find this longest common subsequence using dynamic programming.
+Before proceeding further, if you do not already know about dynamic programming, please go through dynamic programming.
+Let us take two sequences: The following steps are followed for finding the longest common subsequence.
+Thus, the longest common subsequence is CA.
+How is a dynamic programming algorithm more efficient than the recursive algorithm while solving an LCS problem?
+The method of dynamic programming reduces the number of function calls.
+It stores the result of each function call so that it can be used in future calls without the need for redundant calls.
+In the above dynamic algorithm, the results obtained from each comparison between elements of X and the elements of Y are stored in a table so that they can be used in future computations.
+So, the time taken by a dynamic approach is the time taken to fill the table (ie.
+O(mn)).
+Whereas, the recursion algorithm has the complexity of 2max(m, n).
+Sorry about that.
+DS & Algorithms Dynamic Programming DS & Algorithms Rabin-Karp Algorithm DS & Algorithms Counting Sort Algorithm DS & Algorithms Floyd-Warshall Algorithm © Parewa Labs Pvt.
+Ltd. All rights reserved.

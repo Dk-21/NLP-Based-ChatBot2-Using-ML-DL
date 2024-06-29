@@ -1,0 +1,16 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: The factorial of a number is the product of all the integers from 1 to that number.
+For example, the factorial of 6 is 1*2*3*4*5*6 = 720.
+Factorial is not defined for negative numbers, and the factorial of zero is one, 0!
+= 1.
+Output Note: To test the program for a different number, change the value of num.
+Here, the number whose factorial is to be found is stored in num, and we check if the number is negative, zero or positive  using if...elif...else statement.
+If the number is positive, we use for loop and  range() function to calculate the factorial.
+In the above example, factorial() is a recursive function that calls itself.
+Here, the function will recursively call itself by decreasing the value of the x.
+Also Read:  Sorry about that.
+Python Example Find Factorial of Number Using Recursion Python Tutorial Python Recursion Python Example Check if a Number is Positive, Negative or 0 Python Example Check if a Number is Odd or Even © Parewa Labs Pvt.
+Ltd. All rights reserved.

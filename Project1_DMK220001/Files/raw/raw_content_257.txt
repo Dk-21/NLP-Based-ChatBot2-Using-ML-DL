@@ -1,0 +1,75 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+We are going to exclusively use the csv module built into Python for this task.
+But first, we will have to import the module as : We have already covered the basics of how to use the csv module to read and write into CSV files.
+If you don't have any idea on using the csv module, check out our tutorial on Python CSV: Read and Write CSV files Let's look at a basic example of using csv.writer() to refresh your existing knowledge.
+Suppose we want to write a CSV file with the following entries: Here's how we do it.
+When we run the above program, an innovators.csv file is created in the current working directory with the given entries.
+Here, we have opened the innovators.csv file in writing mode using open() function.
+To learn more about opening files in Python, visit: Python File Input/Output Next, the csv.writer() function is used to create a writer object.
+The writer.writerow() function is then used to write single rows to the CSV file.
+If we need to write the contents of the 2-dimensional list to a CSV file, here's how we can do it.
+The output of the program is the same as in Example 1.
+Here, our 2-dimensional list is passed to the writer.writerows() function to write the content of the list to the CSV file.
+Now let's see how we can write CSV files in different formats.
+We will then learn how to customize the csv.writer() function to write them.
+By default, a comma is used as a delimiter in a CSV file.
+However, some CSV files can use delimiters other than a comma.
+Few popular ones are | and \t.
+Suppose we want to use | as a delimiter in the innovators.csv file of Example 1.
+To write this file, we can pass an additional delimiter parameter to the csv.writer() function.
+Let's take an example.
+Output As we can see, the optional parameter delimiter = '|' helps specify the writer object that the CSV file should have | as a delimiter.
+Some CSV files have quotes around each or some of the entries.
+Let's take quotes.csv as an example, with the following entries: Using csv.writer() by default will not add these quotes to the entries.
+In order to add them, we will have to use another optional parameter called quoting.
+Let's take an example of how quoting can be used around the non-numeric values and ; as delimiters.
+Output  Here, the quotes.csv file is created in the working directory with the above entries.
+As you can see, we have passed csv.QUOTE_NONNUMERIC to the quoting parameter.
+It is a constant defined by the csv module.
+csv.QUOTE_NONNUMERIC specifies the writer object that quotes should be added around the non-numeric entries.
+There are 3 other predefined constants you can pass to the quoting parameter: We can also write CSV files with custom quoting characters.
+For that, we will have to use an optional parameter called quotechar.
+Let's take an example of writing quotes.csv file in Example 4, but with * as the quoting character.
+Output   Here, we can see that quotechar='*' parameter instructs the writer object to use * as quote for all non-numeric values.
+Notice in Example 5 that we have passed multiple parameters (quoting, delimiter and quotechar) to the csv.writer() function.
+This practice is acceptable when dealing with one or two files.
+But it will make the code more redundant and ugly once we start working with multiple CSV files with similar formats.
+As a solution to this, the csv module offers dialect as an optional parameter.
+Dialect helps in grouping together many specific formatting patterns like delimiter, skipinitialspace, quoting, escapechar into a single dialect name.
+It can then be passed as a parameter to multiple writer or reader instances.
+Suppose we want to write a CSV file (office.csv) with the following content: The CSV file has quotes around each entry and uses | as a delimiter.
+Instead of passing two individual formatting patterns, let's look at how to use dialects to write this file.
+Output  Here, office.csv is created in the working directory with the above contents.
+From this example, we can see that the csv.register_dialect() function is used to define a custom dialect.
+Its syntax is: The custom dialect requires a name in the form of a string.
+Other specifications can be done either by passing a sub-class of the Dialect class, or by individual formatting patterns as shown in the example.
+While creating the writer object, we pass dialect='myDialect' to specify that the writer instance must use that particular dialect.
+The advantage of using dialect is that it makes the program more modular.
+Notice that we can reuse myDialect to write other CSV files without having to re-specify the CSV format.
+The objects of csv.DictWriter() class can be used to write to a CSV file from a Python dictionary.
+The minimal syntax of the csv.DictWriter() class is: Here, Output The program creates a players.csv file with the following entries: The full syntax of the csv.DictWriter() class is: To learn more about it in detail, visit: Python csv.DictWriter() class A lineterminator is a string used to terminate lines produced by writer objects.
+The default value is \r\n.
+You can change its value by passing any string as a lineterminator parameter.
+However, the reader object only recognizes \n or \r as lineterminator values.
+So using other characters as line terminators is highly discouraged.
+In order to separate delimiter characters in the entries, the csv module by default quotes the entries using quotation marks.
+So, if you had an entry: He is a strong, healthy man, it will be written as: "He is a strong, healthy man".
+Similarly, the csv module uses double quotes in order to escape the quote character present in the entries by default.
+If you had an entry: Go to "programiz.com", it would be written as: "Go to ""programiz.com""".
+Here, we can see that each " is followed by a " to escape the previous one.
+It handles how quotechar present in the entry themselves are quoted.
+When True, the quoting character is doubled and when False, the escapechar is used as a prefix to the quotechar.
+By default its value is True.
+escapechar parameter is a string to escape the delimiter if quoting is set to csv.QUOTE_NONE and quotechar if doublequote is False.
+Its default value is None.
+Output  Here, we can see that / is prefix to all the " and , because we specified quoting=csv.QUOTE_NONE.
+If it wasn't defined, then, the output would be: Since we allow quoting, the entries with special characters(" in this case) are double-quoted.
+The entries with delimiter are also enclosed within quote characters.
+(Starting and closing quote characters) The remaining quote characters are to escape the actual " present as part of the string, so that they are not interpreted as quotechar.
+Note: The csv module can also be used for other file extensions (like: .txt) as long as their contents are in proper structure.
+Recommended Reading: Read CSV Files in Python Sorry about that.
+Python Tutorial Reading CSV files in Python Python Tutorial Python CSV: Read and Write CSV Files  Python Tutorial Working with CSV files in Python Python Library Python open() © Parewa Labs Pvt.
+Ltd. All rights reserved.

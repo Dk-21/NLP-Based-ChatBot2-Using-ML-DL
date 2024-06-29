@@ -1,0 +1,23 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Hash functions take an arbitrary amount of data and return a fixed-length bit string.
+The output of the function is called the digest message.
+They are widely used in cryptography for authentication purposes.
+There are many hashing functions like MD5, SHA-1 etc.
+Refer this page to know more about hash functions in cryptography.
+In this example, we will illustrate how to hash a file.
+We will use the SHA-1 hashing algorithm.
+The digest of SHA-1 is 160 bits long.
+We do not feed the data from the file all at once, because some files are very large to fit in memory all at once.
+Breaking the file into small chunks will make the process memory efficient.
+Output In this program, we open the file in binary mode.
+Hash functions are available in the hashlib module.
+We loop till the end of the file using a while loop.
+On reaching the end, we get empty bytes object.
+In each iteration, we only read 1024 bytes (this value can be changed according to our wish) from the file and update the hashing function.
+Finally, we return the digest message in hexadecimal representation using the hexdigest() method.
+Also Read:  Sorry about that.
+Python Example Append to a File Python Example Get Line Count of a File Python Example Get the File Name From the File Path Python Example Find the Size (Resolution) of an Image © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The get() method returns the value of the specified key in the dictionary.
+The syntax of get() is: get() method takes maximum of two parameters: get() method returns: Output get() method returns a default value if the key is missing.
+However, if the key is not found when you use dict[key], KeyError exception is raised.
+Output Also Read: Sorry about that.
+Python Library Python Dictionary setdefault() Python Library Python Dictionary popitem() Python Library Python Dictionary keys() Python Library Python Dictionary pop() © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,24 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+An exception is an unexpected event that occurs during program execution.
+For example, The above code causes an exception as it is not possible to divide a number by 0.
+Let's learn about Python Exceptions in detail.
+Errors that occur at runtime (after passing the syntax test) are called exceptions or logical errors.
+For instance, they occur when we Whenever these types of runtime errors occur, Python creates an exception object.
+If not handled properly, it prints a traceback to that error along with some details about why that error occurred.
+Let's look at how Python treats these errors: Output  Here, while trying to divide 7 / 0, the program throws a system exception ZeroDivisionError Illegal operations can raise exceptions.
+There are plenty of built-in exceptions in Python that are raised when corresponding errors occur.
+We can view all the built-in exceptions using the built-in local() function as follows: Here, locals()['__builtins__'] will return a module of built-in exceptions, functions, and attributes and dir allows us to list these attributes as strings.
+Some of the common built-in exceptions in Python programming along with the error that cause them are listed below: If required, we can also define our own exceptions in Python.
+To learn more about them, visit Python User-defined Exceptions.
+We can handle these built-in and user-defined exceptions in Python using try, except and finally statements.
+To learn more about them, visit Python try, except and finally statements.
+Errors represent conditions such as compilation error, syntax error, error in the logical part of the code, library incompatibility, infinite recursion, etc.
+Errors are usually beyond the control of the programmer and we should not try to handle errors.
+Exceptions can be caught and handled by the program.
+Now we know about exceptions, we will learn about handling exceptions in the next tutorial.
+Sorry about that.
+Python Tutorial Python Custom Exceptions Python Tutorial Python Exception Handling   Python Library Python open() Python Tutorial List of Keywords in Python © Parewa Labs Pvt.
+Ltd. All rights reserved.

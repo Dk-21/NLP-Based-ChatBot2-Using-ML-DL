@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Different forms of dict() constructors are: Note: **kwarg let you take an arbitrary number of keyword arguments.
+A keyword argument is an argument preceded by an identifier (eg.
+name=).
+Hence, the keyword argument of the form kwarg=value is passed to dict() constructor to create dictionaries.
+dict() doesn't return any value (returns None).
+Output Output Output Also Read: Sorry about that.
+Python Library Python print() Python Library Python type() Python Library Python isinstance() Python Library Python vars() © Parewa Labs Pvt.
+Ltd. All rights reserved.

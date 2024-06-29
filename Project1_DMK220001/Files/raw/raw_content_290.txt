@@ -1,0 +1,36 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+String interpolation is a process substituting values of variables into placeholders in a string.
+For instance, if you have a template for saying hello to a person like "Hello {Name of person}, nice to meet you!
+", you would like to replace the placeholder for name of person with an actual name.
+This process is called string interpolation.
+Python 3.6 added new string interpolation method called literal string interpolation and introduced a new literal prefix f. This new way of formatting strings is powerful and easy to use.
+It provides access to embedded Python expressions inside string constants.
+When we run the above program, the output will be In above example literal prefix f tells Python to restore the value of two string variable name and program inside braces {}.
+So, that when we print we get the above output.
+This new string interpolation is powerful as we can embed arbitrary Python expressions we can even do inline arithmetic with it.
+When we run the above program, the output will be In the above program we did inline arithmetic which is only possible with this method.
+Strings in Python have a unique built-in operation that can be accessed with the % operator.
+Using % we can do simple string interpolation very easily.
+When we run the above program, the output will be In above example we used two %s string format specifier and two strings Hello and World in parenthesis ().
+We got Hello World as output.
+%s string format specifier tell Python where to substitute the value.
+String formatting syntax changes slightly, if we want to make multiple substitutions in a single string, and as the % operator only takes one argument, we need to wrap the right-hand side in a tuple as shown in the example below.
+When we run the above program, the output will be In above example we used two string variable name and program.
+We wrapped both variable in parenthesis ().
+It’s also possible to refer to variable substitutions by name in our format string, if we pass a mapping to the % operator: When we run the above program, the output will be This makes our format strings easier to maintain and easier to modify in the future.
+We don’t have to worry about the order of the values that we’re passing with the order of the values that are referenced in the format string.
+In this string formatting we use format() function on a string object and braces {}, the string object in format() function is substituted in place of braces {}.
+We can use the format() function to do simple positional formatting, just like % formatting.
+When we run the above program, the output will be In this example we used braces {} and format() function to pass name object .We got the value of name in place of braces {} in output.
+We can refer to our variable substitutions by name and use them in any order we want.
+This is quite a powerful feature as it allows for re-arranging the order of display without changing the arguments passed to the format function.
+When we run the above program, the output will be In this example we specified the variable substitutions place using the name of variable and pass the variable in format().
+Template Strings is simpler and less powerful mechanism of string interpolation.
+We need to import Template class from Python’s built-in string module to use it.
+When we run the above program, the output will be In this example we import Template class from built-in string module and made a template which we used to pass two variable.
+Sorry about that.
+Python Library Python String format() Python Library Python format() Python Tutorial  Python Basic Input and Output   Python Tutorial Python Strings © Parewa Labs Pvt.
+Ltd. All rights reserved.

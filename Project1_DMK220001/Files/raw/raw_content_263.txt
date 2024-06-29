@@ -1,0 +1,24 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A class can be derived from more than one superclass in Python.
+This is called multiple inheritance.
+For example, a class Bat is derived from superclasses Mammal and WingedAnimal.
+It makes sense because bat is a mammal as well as a winged animal.
+Here, the MultiDerived class is derived from SuperClass1 and SuperClass2 classes.
+Output In the above example, the Bat class is derived from two super classes: Mammal and WingedAnimal.
+Notice the statements, Here, we are using b1 (object of Bat) to access mammal_info() and winged_animal_info() methods of the Mammal and the WingedAnimal class respectively.
+In Python, not only can we derive a class from the superclass but you can also derive a class from the derived class.
+This form of inheritance is known as multilevel inheritance.
+Here's the syntax of the multilevel inheritance, Here, the DerivedClass1 class is derived from the SuperClass class, and the DerivedClass2 class is derived from the DerivedClass1 class.
+Output In the above example, DerivedClass2 is derived from DerivedClass1, which is derived from SuperClass.
+It means that DerivedClass2 inherits all the attributes and methods of both DerivedClass1 and SuperClass.
+Hence, we are using d2 (object of DerivedClass2) to call methods from SuperClass, DerivedClass1, and DerivedClass2.
+If two superclasses have the same method (function) name and the derived class calls that method, Python uses the MRO to search for the right method to call.
+For example, Here, SuperClass1 and SuperClass2 both of these classes define a method info().
+So when info() is called using the d1 object of the Derived class, Python uses the MRO to determine which method to call.
+In this case, the MRO specifies that methods should be inherited from the leftmost superclass first, so info() of SuperClass1 is called rather than that of SuperClass2.
+Also Read: Sorry about that.
+Python Library Python super() Python Tutorial Python Inheritance Python Tutorial Python Object Oriented Programming Python Tutorial Polymorphism in Python © Parewa Labs Pvt.
+Ltd. All rights reserved.

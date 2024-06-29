@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Inserting an element on a B-tree consists of two events: searching the appropriate node to insert the element and splitting the node if required.Insertion operation always takes place in the bottom-up approach.
+Let us understand these events below.
+Let us understand the insertion operation with the illustrations below.
+The elements to be inserted are 8, 9, 10, 11, 15, 20, 17.
+Sorry about that.
+DS & Algorithms B-tree DS & Algorithms Deletion from a B-tree DS & Algorithms Tree Traversal - inorder, preorder and postorder DS & Algorithms Full Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

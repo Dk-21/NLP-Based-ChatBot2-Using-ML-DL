@@ -1,0 +1,33 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Python closure is a nested function that allows us to access variables of the outer function even after the outer function is closed.
+Before we learn about closure, let's first revise the concept of nested functions in Python.
+In Python, we can create a function inside another function.
+This is known as a nested function.
+For example, In the above example, we have defined the display_name() function inside the greet() function.
+Here, display_name() is a nested function.
+The nested function works similar to the normal function.
+It executes when display_name() is called inside the function greet().
+As we have already discussed, closure is a nested function that helps us access the outer function's variables even after the outer function is closed.
+For example, In the above example, we have created a function named greet() that returns a nested anonymous function.
+Here, when we call the outer function, The returned function is now assigned to the message variable.
+At this point, the execution of the outer function is completed, so the name variable should be destroyed.
+However, when we call the anonymous function using we are able to access the name variable of the outer function.
+It's possible because the nested function now acts as a closure that closes the outer scope variable within its scope even after the outer function is executed.
+Let's see one more example to make this concept clear.
+Output In the above example, This code executes the outer function calculate() and returns a closure to the odd number.
+T That's why we can access the num variable of calculate() even after completing the outer function.
+Again, when we call the outer function using  a new closure is returned.
+Hence, we get 3 again when we call odd2().
+So what are closures good for?
+Closures can be used to avoid global values and provide data hiding, and can be an elegant solution for simple cases with one or few methods.
+However, for larger cases with multiple attributes and methods, a class implementation may be more appropriate.
+Python Decorators make extensive use of closures as well.
+On a concluding note, it is good to point out that the values that get enclosed in the closure function can be found out.
+All function objects have a __closure__ attribute that returns a tuple of cell objects if it is a closure function.
+Referring to the example above, we know times3 and times5 are closure functions.
+Sorry about that.
+Python Tutorial  Python Variable Scope Python Tutorial Python Decorators Python Tutorial Python Namespace and Scope Python Tutorial  Python Lambda/Anonymous Function  © Parewa Labs Pvt.
+Ltd. All rights reserved.

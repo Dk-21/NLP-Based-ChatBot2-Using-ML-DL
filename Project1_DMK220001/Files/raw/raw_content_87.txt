@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Selection sort is a sorting algorithm that selects the smallest element from an unsorted list in each iteration and places that element at the beginning of the unsorted list.
+Number of comparisons: (n - 1) + (n - 2) + (n - 3) + ..... + 1 = n(n - 1) / 2 nearly equals to n2.
+Complexity = O(n2) Also, we can analyze the complexity by simply observing the number of loops.
+There are 2 loops so the complexity is n*n = n2.
+Time Complexities:  The time complexity of the selection sort is the same in all cases.
+At every step, you have to find the minimum element and put it in the right place.
+The minimum element is not known until the end of the array is not reached.
+Space Complexity: Space complexity is O(1) because an extra variable temp is used.
+The selection sort is used when Sorry about that.
+DS & Algorithms Insertion Sort Algorithm DS & Algorithms Bubble Sort DS & Algorithms Shell Sort Algorithm DS & Algorithms Quicksort Algorithm © Parewa Labs Pvt.
+Ltd. All rights reserved.

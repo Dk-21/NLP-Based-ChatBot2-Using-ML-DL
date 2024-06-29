@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A full Binary tree is a special type of binary tree in which every parent node/internal node has either two or no children.
+It is also known as a proper binary tree.
+The following code is for checking if a tree is a full binary tree.
+Sorry about that.
+DS & Algorithms Perfect Binary Tree DS & Algorithms Balanced Binary Tree DS & Algorithms Complete Binary Tree DS & Algorithms Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

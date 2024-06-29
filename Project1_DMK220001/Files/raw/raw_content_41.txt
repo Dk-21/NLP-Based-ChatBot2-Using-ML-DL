@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In computer programming terms, an algorithm is a set of well-defined instructions to solve a particular problem.
+It takes a set of input(s) and produces the desired output.
+For example, An algorithm to add two numbers: Take two number inputs Add numbers using the + operator Display the result Algorithm to add two numbers Algorithm to find the largest among three numbers Algorithm to find all the roots of the quadratic equation Algorithm to find the factorial Algorithm to check prime number Algorithm of Fibonacci series Sorry about that.
+DS & Algorithms Merge Sort Algorithm DS & Algorithms Dynamic Programming DS & Algorithms Greedy Algorithm DS & Algorithms Bellman Ford's Algorithm © Parewa Labs Pvt.
+Ltd. All rights reserved.

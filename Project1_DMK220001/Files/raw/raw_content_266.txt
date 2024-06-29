@@ -1,0 +1,41 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+List comprehension offers a concise way to create a new list based on the values of an existing list.
+Suppose we have a list of numbers and we desire to create a new list containing the double value of each element in the list.
+Output Here is how the list comprehension works:
+Python List Comprehension
+ Here, for every item in list, execute the expression if the condition is True.
+Note: The if statement in list comprehension is optional.
+List comprehension makes the code cleaner and more concise than for loop.
+Let's write a program to print the square of each list element using both for loop and list comprehension.
+for Loop List Comprehension It's much easier to understand list comprehension once you know Python for loop().
+List comprehensions can utilize conditional statements like if…else to filter existing lists.
+Let's see an example of an if statement with list comprehension.
+Here, list comprehension checks if the number from range(1, 10) is even or odd.
+If even, it appends the number in the list.
+Note: The range() function generates a sequence of numbers.
+To learn more, visit Python range().
+Let's use if...else with list comprehension to find even and odd numbers.
+Output Here, if an item in the numbers list is divisible by 2, it appends Even to the list even_odd_list.
+Else, it appends Odd.
+Let's use nested if with list comprehension to find even numbers that are divisible by 5.
+Output Here, list comprehension checks two conditions: If y satisfies both conditions, the number appends to num_list.
+We can also use list comprehension with iterables other than lists.
+Here, we used list comprehension to find vowels in the string 'Python'.
+We can also use nested loops in list comprehension.
+Let's write code to compute a multiplication table.
+Output Here is how the nested list comprehension works: Let's see the equivalent code using nested for loop.
+Equivalent Nested for Loop Here, the nested for loop generates the same output as the nested list comprehension.
+We can see that the code with list comprehension is much cleaner and concise.
+Along with list comprehensions, we also use lambda functions to work with lists.
+While list comprehension is commonly used for filtering a list based on some conditions, lambda functions are commonly used with functions like map() and filter().
+They are used for complex operations or when an anonymous function is required.
+Let's look at an example.
+Output We can achieve the same result using list comprehension by: If we compare the two codes, list comprehension is straightforward and simpler to read and understand.
+So unless we need to perform complex operations, we can stick to list comprehension.
+Visit Python Lambda/ Function to learn more about the use of lambda functions in Python.
+Sorry about that.
+Python Tutorial Python Dictionary Comprehension Python Library Python Dictionary fromkeys() Python Tutorial  Python Lambda/Anonymous Function  Python Tutorial Python List © Parewa Labs Pvt.
+Ltd. All rights reserved.

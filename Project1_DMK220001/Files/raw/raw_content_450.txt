@@ -1,0 +1,19 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Note: Run the program again to shuffle the cards.
+In the program, we used the product() function in itertools module to create a deck of
+    cards.
+This function performs the Cartesian product of the two sequences.
+The two sequences are numbers from 1 to 13 and the four suits.
+So, altogether we have 13 * 4 = 52 items in the deck
+    with each card as a tuple.
+For example, Our deck is ordered, so we shuffle it using the function shuffle() in random module.
+Finally, we draw the first five cards and display it to the user.
+We will get different output each time you run this
+    program as shown in our two outputs.
+Here we have used the standard modules itertools and random that comes with Python.
+Also Read:  Sorry about that.
+Python Tutorial Python Random Module Python Example Generate a Random Number Python Example Randomly Select an Element From the List Python Tutorial Python Numbers, Type Conversion and Mathematics © Parewa Labs Pvt.
+Ltd. All rights reserved.

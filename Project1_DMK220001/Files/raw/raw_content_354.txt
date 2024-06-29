@@ -1,0 +1,8 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The pop() method removes and returns an element from a dictionary having the given key.
+The syntax of pop() method is pop() method takes two parameters: The pop() method returns:  Output Output Output Also Read: Sorry about that.
+Python Library Python Dictionary items() Python Library Python Dictionary values() Python Library Python Dictionary popitem() Python Library Python Dictionary update() © Parewa Labs Pvt.
+Ltd. All rights reserved.

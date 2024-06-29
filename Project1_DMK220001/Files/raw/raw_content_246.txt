@@ -1,0 +1,67 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A function is a block of code that performs a specific task.
+Suppose we need to create a program to make a circle and color it.
+We can create two functions to solve this problem: Dividing a complex problem into smaller chunks makes our program easy to understand and reuse.
+Let's create our first function.
+Here are the different parts of the program: Here, we have created a simple function named greet() that prints Hello World!
+Note: When writing a function, pay attention to indentation, which are the spaces at the start of a code line.
+In the above code, the print() statement is indented to show it's part of the function body, distinguishing the function's definition from its body.
+In the above example, we have declared a function named greet().
+If we run the above code, we won't get an output.
+It's because creating a function doesn't mean we are executing the code inside it.
+It means the code is there for us to use if we want to.
+To use this function, we need to call the function.
+Function Call Output In the above example, we have created a function named greet().
+Here's how the control of the program flows: Here, Arguments are inputs given to the function.
+Sample Output 1 Here, we passed 'John' as an argument to the greet() function.
+We can pass different arguments in each call, making the function re-usable and dynamic.
+Let's call the function with a different argument.
+Sample Output 2 Output  In the above example, we have created a function named add_numbers() with arguments: num1 and num2.
+Parameters Parameters are the variables listed inside the parentheses in the function definition.
+They act like placeholders for the data the function can accept when we call them.
+Think of parameters as the blueprint that outlines what kind of information the function expects to receive.
+In this example, the print_age() function takes age as its input.
+However, at this stage, the actual value is not specified.
+The age parameter is just a placeholder waiting for a specific value to be provided when the function is called.
+Arguments Arguments are the actual values that we pass to the function when we call it.
+Arguments replace the parameters when the function executes.
+Here, during the function call, the argument 25 is passed to the function.
+We return a value from the function using the return statement.
+Output In the above example, we have created a function named find_square().
+The function accepts a number and returns the square of the number.
+Note: The return statement also denotes that the function has ended.
+Any code after return  is not executed.
+The pass statement serves as a placeholder for future code, preventing errors from empty code blocks.
+It's typically used where code is planned but has yet to be written.
+Note: To learn more, visit Python Pass Statement.
+Python provides some built-in functions that can be directly used in our program.
+We don't need to create the function, we just need to call them.
+Some Python library functions are: These library functions are defined inside the module.
+And to use them, we must include the module inside our program.
+For example, sqrt() is defined inside the math module.
+Note: To learn more about library functions, please visit Python Library Functions.
+Output Here, we imported a math module to use the library functions sqrt() and pow().
+In Python, functions are divided into two categories: user-defined functions and standard library functions.
+These two differ in several ways: User-Defined Functions These are the functions we create ourselves.
+They're like our custom tools, designed for specific tasks we have in mind.
+They're not part of Python's standard toolbox, which means we have the freedom to tailor them exactly to our needs, adding a personal touch to our code.
+Standard Library Functions  Think of these as Python's pre-packaged gifts.
+They come built-in with Python, ready to use.
+These functions cover a wide range of common tasks such as mathematics, file operations, working with strings, etc.
+They've been tried and tested by the Python community, ensuring efficiency and reliability.
+Python allows functions to have default argument values.
+Default arguments are used when no explicit values are passed to these parameters during a function call.
+Let's look at an example.
+Output Here, message has the default value of Hello.
+When greet() is called with only one argument, message uses its default value.
+Note: To learn more about default arguments in a function, please visit Python Function Arguments.
+We can handle an arbitrary number of arguments using special symbols *args and **kwargs.
+*args in Functions Using *args allows a function to take any number of positional arguments.
+Output  *kwargs in Functions Using **kwargs allows the function to accept any number of keyword arguments.
+Output  To learn more, visit Python *args and **kwargs.
+Also Read: Sorry about that.
+Python Tutorial Python Function Arguments Python Tutorial  Python Lambda/Anonymous Function  Python Tutorial Python User-defined Functions Python Tutorial Python Decorators © Parewa Labs Pvt.
+Ltd. All rights reserved.

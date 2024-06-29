@@ -1,0 +1,20 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Here, we have taken a string stored in ip_str.
+Using the method casefold(), we make it suitable for caseless comparisons.
+Basically, this method returns a lowercased version of the string.
+We use the dictionary method fromkeys() to construct a new dictionary with each vowel as its key and all values equal to 0.
+This is the initialization of the count.
+Next, we iterate over the input string using a for loop.
+In each iteration, we check if the character is in the dictionary keys (True if it is a vowel) and increment the value by 1 if true.
+The output of this program is the same as above.
+Here, we have nested a list comprehension inside a dictionary comprehension to count the vowels in a single line.
+The dictionary comprehension runs for all vowel characters and the list comprehension inside the dictionary comprehension checks if any characters in the string match that particular vowel.
+At the end, a list with 1s is generated for the number of each vowel character.
+The sum() method is used to calculate the sum of the elements for each list.
+However, this program is slower as we iterate over the entire input string for each vowel.
+Also Read:  Sorry about that.
+Python Tutorial Python Dictionary Comprehension Python Example Count the Number of Occurrence of a Character in String Python Tutorial Python List Comprehension Python Example Convert Two Lists Into a Dictionary © Parewa Labs Pvt.
+Ltd. All rights reserved.

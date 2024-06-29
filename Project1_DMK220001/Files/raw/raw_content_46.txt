@@ -1,0 +1,24 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A divide and conquer algorithm is a strategy of solving a large problem by To use the divide and conquer algorithm, recursion is used.
+Learn about recursion in different programming languages: Do you want to learn Recursion the right way?
+Enroll in our Interactive Recursion Course for FREE.
+Here are the steps involved: Let us understand this concept with the help of an example.
+Here, we will sort an array using the divide and conquer approach (ie.
+merge sort).
+The complexity of the divide and conquer algorithm is calculated using the master theorem.
+Let us take an example to find the time complexity of a recursive problem.
+For a merge sort, the equation can be written as:  The divide and conquer approach divides a problem into smaller subproblems; these subproblems are further solved recursively.
+The result of each subproblem is not stored for future reference, whereas, in a dynamic approach, the result of each subproblem is stored for future reference.
+Use the divide and conquer approach when the same subproblem is not solved multiple times.
+Use the dynamic approach when the result of a subproblem is to be used multiple times in the future.
+Let us understand this with an example.
+Suppose we are trying to find the Fibonacci series.
+Then, Divide and Conquer approach: Dynamic approach: In a dynamic approach, mem stores the result of each subproblem.
+Do you want to learn Recursion the right way?
+Enroll in our Interactive Recursion Course for FREE.
+Sorry about that.
+DS & Algorithms Master Theorem DS & Algorithms Dynamic Programming DS & Algorithms Merge Sort Algorithm DS & Algorithms Backtracking Algorithm © Parewa Labs Pvt.
+Ltd. All rights reserved.

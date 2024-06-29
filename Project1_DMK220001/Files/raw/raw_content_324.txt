@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The remove() method removes the first matching element (which is passed as an argument) from the list.
+The syntax of the remove() method is: The remove() doesn't return any value (returns None).
+Output If a list contains duplicate elements, the remove() method only removes the first matching element.
+Output Here, only the first occurrence of element 'dog' is removed from the list.
+Output Here, we are getting an error because the animals list doesn't contain 'fish'.
+Also Read: Sorry about that.
+Python Library Python List append() Python Library Python List pop() Python Library Python List clear() Python Library Python List index() © Parewa Labs Pvt.
+Ltd. All rights reserved.

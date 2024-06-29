@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Note: To find the factors of another number, change the value of num.
+In this program, the number whose factor is to be found is stored in num, which is passed to the print_factors() function.
+This value is assigned to the variable x in print_factors().
+In the function, we use the for loop to iterate from i equal to x.
+If x is perfectly divisible by i, it's a factor of x.
+Also Read: 
+ Sorry about that.
+Python Example Find Numbers Divisible by Another Number Python Example Check Prime Number Python Example Print all Prime Numbers in an Interval Python Example Find HCF or GCD © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The input() function takes input from the user and returns it.
+By default, the function doesn't require any parameters; however, there is one optional parameter - prompt The function returns the user's input in the form of a string.
+Output Here,  Note: Always build a habit of using prompts and make it descriptive.
+We can convert an input to an integer using int().
+For example, Output We can convert an input to a floating point using float().
+For example, Output Note: To learn more about int() and float() conversion, visit explicit conversion.
+Sorry about that.
+Python Library Python float() Python Library Python print() Python Library Python exec() Python Library Python eval() © Parewa Labs Pvt.
+Ltd. All rights reserved.

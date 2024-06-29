@@ -1,0 +1,32 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In computer programming, an argument is a value that is accepted by a function.
+Before we learn about function arguments, make sure to know about Python Functions.
+In the above example, the function add_numbers() takes two parameters: a and b.
+Notice the line, Here, add_numbers(2, 3) specifies that parameters a and b will get values 2 and 3 respectively.
+In Python, we can provide default values to function arguments.
+We use the = operator to provide default values.
+For example, Output In the above example, notice the function definition  Here, we have provided default values 7 and 8 for parameters a and b respectively.
+Here's how this program works 1. add_number(2, 3) Both values are passed during the function call.
+Hence, these values are used instead of the default values.
+2. add_number(2) Only one value is passed during the function call.
+So, according to the positional argument 2 is assigned to argument a, and the default value is used for parameter b.
+3. add_number() No value is passed during the function call.
+Hence, default value is used for both parameters a and b.
+In keyword arguments, arguments are assigned based on the name of the arguments.
+For example, Output Here, notice the function call, Here, we have assigned names to arguments during the function call.
+Hence, first_name in the function call is assigned to first_name in the function definition.
+Similarly, last_name in the function call is assigned to last_name in the function definition.
+In such scenarios, the position of arguments doesn't matter.
+Sometimes, we do not know in advance the number of arguments that will be passed into a function.
+To handle this kind of situation, we can use arbitrary arguments in Python.
+Arbitrary arguments allow us to pass a varying number of values during a function call.
+We use an asterisk (*) before the parameter name to denote this kind of argument.
+For example, Output In the above example, we have created the function find_sum() that accepts arbitrary arguments.
+Notice the lines, Here, we are able to call the same function with different arguments.
+Note: After getting multiple values, numbers behave as an array so we are able to use the for loop to access each value.
+Sorry about that.
+Python Tutorial Python Functions Python Tutorial  Python Lambda/Anonymous Function  Python Tutorial Python *args and **kwargs Python Tutorial Python User-defined Functions © Parewa Labs Pvt.
+Ltd. All rights reserved.

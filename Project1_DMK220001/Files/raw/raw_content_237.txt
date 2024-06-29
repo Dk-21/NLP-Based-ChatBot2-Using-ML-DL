@@ -1,0 +1,24 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In programming, type conversion is the process of converting data of one type to another.
+For example: converting int data to str.
+There are two types of type conversion in Python.
+In certain situations, Python automatically converts one data type to another.
+This is known as implicit type conversion.
+Let's see an example where Python promotes the conversion of the lower data type (integer) to the higher data type (float) to avoid data loss.
+Output In the above example, we have created two variables: integer_number and float_number of int and float type respectively.
+Then we added these two variables and stored the result in new_number.
+As we can see new_number has value 124.23 and is of the float data type.
+It is because Python always converts smaller data types to larger data types to avoid the loss of data.
+Note: In Explicit Type Conversion, users convert the data type of an object to required data type.
+We use the built-in functions like int(), float(), str(), etc to perform explicit type conversion.
+This type of conversion is also called typecasting because the user casts (changes) the data type of the objects.
+Output In the above example, we have created two variables: num_string and num_integer with str and int type values respectively.
+Notice the code, Here, we have used int() to perform explicit type conversion of num_string to integer type.
+After converting num_string to an integer value, Python is able to add these two variables.
+Finally, we got the num_sum value i.e 35 and data type to be int.
+Also Read: Sorry about that.
+Python Tutorial Python Numbers, Type Conversion and Mathematics Python Library Python float() Python Library Python complex() Python Library Python input() © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output In this program, we ask the user to choose an operation.
+Options 1, 2, 3, and 4 are valid.
+If any other input is given, Invalid Input is displayed and the loop continues until a valid option is selected.
+Two numbers are taken and an if...elif...else branching is used to execute a particular section.
+User-defined functions add(), subtract(), multiply() and divide() evaluate respective operations and display the output.
+Also Read: Sorry about that.
+Python Example Find the Largest Among Three Numbers Python Example Add Two Numbers Python Example Find LCM Python Tutorial Python User-defined Functions © Parewa Labs Pvt.
+Ltd. All rights reserved.

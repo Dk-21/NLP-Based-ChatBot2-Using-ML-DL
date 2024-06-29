@@ -1,0 +1,32 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: The least common multiple (L.C.M.)
+of two numbers is the smallest positive integer that is perfectly divisible by the two given numbers.
+For example, the L.C.M.
+of 12 and 14 is 84.
+Output Note: To test this program, change the values of num1 and num2.
+This program stores two number in num1 and num2 respectively.
+These numbers are passed to the compute_lcm() function.
+The function returns the L.C.M of two numbers.
+In the function, we first determine the greater of the two numbers since the L.C.M.
+can only be greater than or equal to the largest number.
+We then use an infinite while loop to go from that number and beyond.
+In each iteration, we check if both the numbers perfectly divide our number.
+If so, we store the number as L.C.M.
+and break from the loop.
+Otherwise, the number is incremented by 1 and the loop continues.
+The above program is slower to run.
+We can make it more efficient by using the fact that the product of two numbers is equal to the product of the least common multiple and greatest common divisor of those two numbers.
+Here is a Python program to implement this.
+The output of this program is the same as before.
+We have two functions compute_gcd() and compute_lcm().
+We require G.C.D.
+of the numbers to calculate its L.C.M.
+So, compute_lcm() calls the function compute_gcd() to accomplish this.
+G.C.D.
+of two numbers can be calculated efficiently using the Euclidean algorithm.
+Also Read: Sorry about that.
+Python Example Find HCF or GCD Python Example Find the Largest Among Three Numbers Python Example Add Two Numbers Python Example Make a Simple Calculator © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,8 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: In the program below, we take a temperature in degree Celsius and convert it into degree Fahrenheit.
+They are related by the formula: Output We encourage you to create a Python program to convert Fahrenheit to Celsius on your own using the following formula Also Read:  Sorry about that.
+Python Example Convert Kilometers to Miles Python Tutorial  Python @property decorator  Python Example Convert Decimal to Binary Using Recursion Python Example Convert Decimal to Binary, Octal and Hexadecimal © Parewa Labs Pvt.
+Ltd. All rights reserved.

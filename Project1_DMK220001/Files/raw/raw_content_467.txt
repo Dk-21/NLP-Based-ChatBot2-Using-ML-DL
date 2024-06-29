@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Using enumerate(), we can print both the index and the values.
+The function of enumerate() is to add a counter (i.e.
+index) to the iterate and return it.
+Output The value of the parameter start provides the starting index.
+Output You can access the index even without using enumerate().
+Also Read:  Sorry about that.
+Python Example Slice Lists Python Example Get the Last Element of the List Python Example Split a List Into Evenly Sized Chunks Python Example Check If a List is Empty © Parewa Labs Pvt.
+Ltd. All rights reserved.

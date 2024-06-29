@@ -1,0 +1,48 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In computer programming, data types specify the type of data that can be stored inside a variable.
+For example, Here, 24 (an integer) is assigned to the num variable.
+So the data type of num is of the int class.
+Since everything is an object in Python programming, data types are actually classes and variables are instances(object) of these classes.
+In Python, numeric data type is used to hold numeric values.
+Integers, floating-point numbers and complex numbers fall under Python numbers category.
+They are defined as int, float and complex classes in Python.
+We can use the type() function to know which class a variable or a value belongs to.
+Let's see an example, Output In the above example, we have created three variables named num1, num2 and num3 with values 5, 5.0, and 1+2j respectively.
+We have also used the type() function to know which class a certain variable belongs to.
+Since, List is an ordered collection of similar or different types of items separated by commas and enclosed within brackets [ ].
+For example,  Here, we have created a list named languages with 3 string values inside it.
+To access items from a list, we use the index number (0, 1, 2 ...).
+For example, In the above example, we have used the index values to access items from the languages list.
+To learn more about lists, visit Python List.
+Tuple is an ordered sequence of items same as a list.
+The only difference is that tuples are immutable.
+Tuples once created cannot be modified.
+In Python, we use the parentheses () to store items of a tuple.
+For example, Here, product is a tuple with a string value Xbox and integer value 499.99.
+Similar to lists, we use the index number to access tuple items in Python .
+For example, To learn more about tuples, visit Python Tuples.
+String is a sequence of characters represented by either single or double quotes.
+For example, Output In the above example, we have created string-type variables: name and message with values 'Python' and 'Python for beginners' respectively.
+To learn more about strings, visit Python Strings.
+Set is an unordered collection of unique items.
+Set is defined by values separated by commas inside braces { }.
+For example, Output Here, we have created a set named student_info with 5 integer values.
+Since sets are unordered collections, indexing has no meaning.
+Hence, the slicing operator [] does not work.
+To learn more about sets, visit Python Sets.
+Python dictionary is an ordered collection of items.
+It stores elements in key/value pairs.
+Here, keys are unique identifiers that are associated with each value.
+Let's see an example, Output In the above example, we have created a dictionary named capital_city.
+Here, We use keys to retrieve the respective value.
+But not the other way around.
+For example, Here, we have accessed values using keys from the capital_city dictionary.
+Since 'Nepal' is key, capital_city['Nepal'] accesses its respective value i.e.
+Kathmandu However, 'Kathmandu' is the value for the 'Nepal' key, so capital_city['Kathmandu'] throws an error message.
+To learn more about dictionaries, visit Python Dictionary.
+Sorry about that.
+Python Tutorial Python Numbers, Type Conversion and Mathematics Python Tutorial Python Dictionary  Python Tutorial Python Sets Python Tutorial Python Tuple © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,21 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Red-Black tree is a self-balancing binary search tree in which each node contains an extra bit for denoting the color of the node, either red or black.
+Before reading this article, please refer to the article on red-black tree.
+Deleting a node may or may not disrupt the red-black properties of a red-black tree.
+If this action violates the red-black properties, then a fixing algorithm is used to regain the red-black properties.
+This operation removes a node from the tree.
+After deleting a node, the red-black property is maintained again.
+This algorithm is implemented when a black node is deleted because it violates the black depth property of the red-black tree.
+This violation is corrected by assuming that node x (which is occupying y's original position) has an extra black.
+This makes node x neither red nor black.
+It is either doubly black or black-and-red.
+This violates the red-black properties.
+However, the color attribute of x is not changed rather the extra black is represented in x's pointing to the node.
+The extra black can be removed if Following algorithm retains the properties of a red-black tree.
+The workflow of the above cases can be understood with the help of the flowchart below.
+Sorry about that.
+DS & Algorithms Insertion in a Red-Black Tree DS & Algorithms Red-Black Tree DS & Algorithms Tree Traversal - inorder, preorder and postorder DS & Algorithms Full Binary Tree © Parewa Labs Pvt.
+Ltd. All rights reserved.

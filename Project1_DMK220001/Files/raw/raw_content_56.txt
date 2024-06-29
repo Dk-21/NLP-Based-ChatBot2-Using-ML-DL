@@ -1,0 +1,34 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The Hash table data structure stores elements in key-value pairs where In a hash table, a new index is processed using the keys.
+And, the element corresponding to that key is stored in the index.
+This process is called hashing.
+Let k be a key and h(x) be a hash function.
+Here, h(k) will give us a new index to store the element linked with k. To learn more, visit Hashing.
+When the hash function generates the same index for multiple keys, there will be a conflict (what value to be stored in that index).
+This is called a hash collision.
+We can resolve the hash collision using one of the following techniques.
+In chaining, if a hash function produces the same index for multiple elements, these elements are stored in the same index by using a doubly-linked list.
+If j is the slot for multiple elements, it contains a pointer to the head of the list of elements.
+If no element is present, j contains NIL.
+Pseudocode for operations Unlike chaining, open addressing doesn't store multiple elements into the same slot.
+Here, each slot is either filled with a single key or left NIL.
+Different techniques used in open addressing are: In linear probing, collision is resolved by checking the next slot.
+h(k, i) = (h′(k) + i) mod m where If a collision occurs at h(k, 0), then h(k, 1) is checked.
+In this way, the value of i is incremented linearly.
+The problem with linear probing is that a cluster of adjacent slots is filled.
+When inserting a new element, the entire cluster must be traversed.
+This adds to the time required to perform operations on the hash table.
+It works similar to linear probing but the spacing between the slots is increased (greater than one) by using the following relation.
+h(k, i) = (h′(k) + c1i + c2i2) mod m where, If a collision occurs after applying a hash function h(k), then another hash function is calculated for finding the next slot.
+h(k, i) = (h1(k) + ih2(k)) mod m A good hash function may not prevent the collisions completely however it can reduce the number of collisions.
+Here, we will look into different methods to find a good hash function If k is a key and m is the size of the hash table, the hash function h() is calculated as: h(k) = k mod m For example, If the size of a hash table is 10 and k = 112 then h(k) = 112 mod 10 = 2.
+The value of m must not be the powers of 2.
+This is because the powers of 2 in binary format are 10, 100, 1000, ….
+When we find k mod m, we will always get the lower order p-bits.
+h(k) = ⌊m(kA mod 1)⌋ where, In Universal hashing, the hash function is chosen at random independent of keys.
+Hash tables are implemented where Sorry about that.
+DS & Algorithms Hashing DS & Algorithms Bucket Sort Algorithm DS & Algorithms Rabin-Karp Algorithm DS & Algorithms Linked list Data Structure © Parewa Labs Pvt.
+Ltd. All rights reserved.

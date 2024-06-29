@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The Python range() function generates a sequence of numbers.
+By default, the sequence starts at 0, increments by 1, and stops before the specified number.
+Output The start and step arguments are optional.
+The range() function returns an immutable sequence of numbers.
+In this example, we have converted the range sequence to a list.
+The range() function is commonly used in for loop to iterate the loop a certain number of times.
+For example, Also Read: Sorry about that.
+Python Library Python list() Python Library Python print() Python Library Python set() Python Library Python slice() © Parewa Labs Pvt.
+Ltd. All rights reserved.

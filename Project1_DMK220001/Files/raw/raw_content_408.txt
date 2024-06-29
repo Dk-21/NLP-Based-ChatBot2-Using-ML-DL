@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: A number is even if it is perfectly divisible by 2.
+When the number is divided by 2, we use the remainder operator % to compute the remainder.
+If the remainder is not zero, the number is odd.
+Output 1 Output 2 In this program, we ask the user for the input and check if the number is odd or even.
+Please note that { } is a replacement field for num.
+Also Read:  Sorry about that.
+Python Example Check if a Number is Positive, Negative or 0 Python Example Check Armstrong Number Python Example Check Prime Number Python Example Find the Factorial of a Number © Parewa Labs Pvt.
+Ltd. All rights reserved.

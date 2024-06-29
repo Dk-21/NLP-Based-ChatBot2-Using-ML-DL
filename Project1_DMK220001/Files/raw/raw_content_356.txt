@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The values() method returns a view object that displays a list of all the values in the dictionary.
+The syntax of values() is: values() method doesn't take any parameters.
+values() method returns a view object that displays a list of all values in a given dictionary.
+Output Output The view object values doesn't itself return a list of sales item values but it returns a view of all values of the dictionary.
+If the list is updated at any time, the changes are reflected on the view object itself, as shown in the above program.
+Also Read: Sorry about that.
+Python Library Python Dictionary items() Python Library Python Dictionary pop() Python Library Python Dictionary keys() Python Library Python Dictionary update() © Parewa Labs Pvt.
+Ltd. All rights reserved.

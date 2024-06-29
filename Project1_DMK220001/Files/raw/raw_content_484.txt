@@ -1,0 +1,12 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Using random module, we can generate a random element from a list.
+As shown in the example above, the list my_list is passed as a parameter to choice() method of random module.
+Note: The output may vary.
+Output Using choice() method of secrets module, you can select a random element from the list.
+It is cryptographically safer than the random module.
+Also Read: Sorry about that.
+Python Tutorial Python Random Module Python Example Generate a Random Number Python Example Get the Last Element of the List Python Example Flatten a Nested List © Parewa Labs Pvt.
+Ltd. All rights reserved.

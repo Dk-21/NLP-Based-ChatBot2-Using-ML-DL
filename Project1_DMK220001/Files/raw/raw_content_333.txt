@@ -1,0 +1,17 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The copy() method returns a shallow copy of the list.
+The syntax of the copy() method is: The copy() method doesn't take any parameters.
+The copy() method returns a new list.
+It doesn't modify the original list.
+Output If you modify the new_list in the above example, my_list will not be modified.
+We can also use the = operator to copy a list.
+For example, Howerver, there is one problem with copying lists in this way.
+If you modify new_list, old_list is also modified.
+It is because the new list is referencing or pointing to the same old_list object.
+Output However, if you need the original list unchanged when the new list is modified, you can use the copy() method.
+Related tutorial: Python Shallow Copy Vs Deep Copy Output Also Read: Sorry about that.
+Python Library Python List clear() Python Library Python List append() Python Library Python List reverse() Python Library Python List insert() © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,15 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The keys() method extracts the keys of the dictionary and returns the list of keys as a view object.
+The syntax of the keys() method is: Here, dict is a dictionary whose keys are extracted.
+The keys() method doesn't take any parameters.
+The keys() method returns: For example, if the method returns dict_keys([1, 2, 3)], Output In the above example, we have used the keys() method to extract the keys of the dictionary.
+The list of keys are returned as a view object.
+Here, dict_keys() is the view object and ['name', 'age', 'salary'] is the list of keys of the dictionary employee.
+Output In the above example, we have updated the dictionary by adding a element and used the keys() method to extract the keys.
+The dictionaryKeys also gets updated when the dictionary element is updated.
+Also Read: Sorry about that.
+Python Library Python Dictionary update() Python Library Python Dictionary fromkeys() Python Library Python Dictionary setdefault() Python Library Python Dictionary popitem() © Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Linear search is a sequential searching algorithm where we start from one end and check every element of the list until the desired element is found.
+It is the simplest searching algorithm.
+The following steps are followed to search for an element k = 1 in the list below.
+Time Complexity: O(n)  Space Complexity: O(1) Sorry about that.
+DS & Algorithms Binary Search DS & Algorithms Insertion Sort Algorithm DS & Algorithms Counting Sort Algorithm DS & Algorithms Data Structure and Types © Parewa Labs Pvt.
+Ltd. All rights reserved.

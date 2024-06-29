@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output Learn more about sorted() and its parameter key at Python sorted().
+Output In this example, sorted() is used for sorted values only.
+The values are fed into sorted() using dt.values().
+Also Read:  Sorry about that.
+Python Example Sort Words in Alphabetic Order Python Tutorial Python Dictionary Comprehension Python Tutorial  Python Lambda/Anonymous Function  Python Example Return Multiple Values From a Function © Parewa Labs Pvt.
+Ltd. All rights reserved.

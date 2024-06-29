@@ -1,0 +1,9 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Output When you use negative indexing, the counting starts from 1 not 0 as shown in the figure below.
+If you want the first 1st element, you can use my_list[-5].
+Also Read: Sorry about that.
+Python Example Randomly Select an Element From the List Python Example Access Index of a List Using for Loop Python Example Check If a List is Empty Python Example Slice Lists © Parewa Labs Pvt.
+Ltd. All rights reserved.

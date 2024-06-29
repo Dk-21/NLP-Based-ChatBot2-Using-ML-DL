@@ -1,0 +1,16 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The update() method updates the dictionary with the elements from another dictionary object or from an iterable of key/value pairs.
+The syntax of update() is: The update() method takes either a dictionary or an iterable object of key/value pairs (generally tuples).
+If update() is called without passing parameters, the dictionary remains unchanged.
+update() method updates the dictionary with elements from a dictionary object or an iterable object of key/value pairs.
+It doesn't return any value (returns None).
+Output Note: The update() method adds element(s) to the dictionary if the key is not in the dictionary.
+If the key is in the dictionary, it updates the key with the new value.
+Output Here, we have passed a list of tuples [('y', 3), ('z', 0)] to the update() function.
+In this case, the first element of tuple is used as the key and the second element is used as the value.
+Also Read: Sorry about that.
+Python Library Python Dictionary keys() Python Library Python Dictionary copy() Python Library Python Dictionary fromkeys() Python Library Python Dictionary items() © Parewa Labs Pvt.
+Ltd. All rights reserved.

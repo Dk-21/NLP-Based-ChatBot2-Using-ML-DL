@@ -1,0 +1,7 @@
+Try Programiz PRO  HTML (HyperText Markup Language) is a language used for creating webpages which is the fundamental building block of the Web.
+One thing to remember about HTML is that it is a markup language with no programming constructs.
+Instead, the language provides us with a structure to build web pages.
+Using HTML, we can define web page elements such as paragraphs, headings, links, and images.
+Our HTML tutorials will teach you everything you need to know about HTML5 (modern HTML) step-by-step.
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

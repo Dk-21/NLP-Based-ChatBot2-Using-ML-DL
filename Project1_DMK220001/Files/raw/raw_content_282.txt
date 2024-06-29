@@ -1,0 +1,13 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+The sleep() method suspends the execution of the program for a specified number of seconds.
+Here, time is a Python module that provides several time-handling methods.
+The method takes a single parameter: The method does not return any value.
+Output  Here's how the above program works: Output In the above example, we obtain and print the current local time inside an infinite while loop.
+Then, the program waits for 1 second before repeating the same process.
+Also Read: Sorry about that.
+Python Tutorial Python time Module Python Tutorial Python Get Current time Python Tutorial Python datetime Python Tutorial How to get current date and time in Python?
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: Let the content of the file data_file.txt be Source Code Output readlines() returns a list of lines from the file.
+Output Another way to achieve the same thing is using a for loop.
+In each iteration, you can read each line of f object and store it in content_list as shown in the example above.
+Also Read:
+ Sorry about that.
+Python Example Append to a File Python Example Get Line Count of a File Python Example Merge Mails Python Tutorial Python List Comprehension © Parewa Labs Pvt.
+Ltd. All rights reserved.

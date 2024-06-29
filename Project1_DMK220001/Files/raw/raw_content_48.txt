@@ -1,0 +1,22 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+A queue is a useful data structure in programming.
+It is similar to the ticket queue outside a cinema hall, where the first person entering the queue is the first person who gets the ticket.
+Queue follows the First In First Out (FIFO) rule - the item that goes in first is the item that comes out first.
+In the above image, since 1 was kept in the queue before 2, it is the first to be removed from the queue as well.
+It follows the FIFO rule.
+In programming terms, putting items in the queue is called enqueue, and removing items from the queue is called dequeue.
+We can implement the queue in any programming language like C, C++, Java, Python or C#, but the specification is pretty much the same.
+A queue is an object (an abstract data structure - ADT) that allows the following operations: Queue operations work as follows:  We usually use arrays to implement queues in Java and C/++.
+In the case of Python, we use lists.
+As you can see in the image below, after a bit of enqueuing and dequeuing, the size of the queue has been reduced.
+And we can only add indexes 0 and 1 only when the queue is reset (when all the elements have been dequeued).
+After REAR reaches the last index, if we can store extra elements in the empty spaces (0 and 1), we can make use of the empty spaces.
+This is implemented by a modified queue called the circular queue.
+The complexity of enqueue and dequeue operations in a queue using an array is O(1).
+If you use pop(N) in python code, then the complexity might be O(n) depending on the position of the item to be popped.
+Sorry about that.
+DS & Algorithms Circular Queue Data Structure DS & Algorithms Deque Data Structure DS & Algorithms Types of Queues DS & Algorithms Breadth first search © Parewa Labs Pvt.
+Ltd. All rights reserved.

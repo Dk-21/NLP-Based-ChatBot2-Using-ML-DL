@@ -1,0 +1,10 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+Kotlin is a relatively new programming language developed by JetBrains for modern multiplatform applications.
+Nowadays, Kotlin is widely used for Android development instead of Java.
+It is because Kotlin is safe, concise, and fun to read and write.
+Our Kotlin tutorial will guide you to learn Kotlin one step at a time.
+© Parewa Labs Pvt.
+Ltd. All rights reserved.

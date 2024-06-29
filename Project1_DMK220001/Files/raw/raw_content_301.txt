@@ -1,0 +1,48 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+In computer programming, the if statement is a conditional statement.
+It is used to execute a block of code only when a specific condition is met.
+For example,  Suppose we need to assign different grades to students based on their scores.
+These conditional tasks can be achieved using the if statement.
+An if statement executes a block of code only if the specified condition is met.
+Syntax Here, if the condition of the if  statement is:   Let's look at an example.
+Note: Be mindful of the indentation while writing the if statements.
+Indentation is the whitespace at the beginning of the code.
+Here, the spaces before the print() statement denote that it's the body of the if statement.
+Sample Output 1 In the above example, we have created a variable named number.
+Notice the test condition, As the number is greater than 0, the condition evaluates True.
+Hence, the body of the if statement executes.
+Sample Output 2 Now, let's change the value of the number to a negative integer, say -5.
+Now, when we run the program, the output will be: This is because the value of the number is less than 0.
+Hence, the condition evaluates to False.
+And, the body of the if statement is skipped.
+An if statement can have an optional else clause.
+The else statement executes if the condition in the if statement evaluates to False.
+Syntax Here, if the condition inside the if statement evaluates to Let's look at an example.
+Sample Output 1 In the above example, we have created a variable named number.
+Since the value of the  number is 10, the condition evaluates to True.
+Hence, code inside the body of if is executed.
+Sample Output 2 If we change the value of the variable to a negative integer, let's say -5, our output will be: Here, the test condition evaluates to False.
+Hence code inside the body of else is executed.
+The if...else statement is used to execute a block of code among two alternatives.
+However, if we need to make a choice between more than two alternatives, we use the if...elif...else statement.
+Syntax Here, Let's look at an example.
+Output In the above example, we have created a variable named number.
+Since the value of the  number is 0, both the test conditions evaluate to False.
+Hence, the statement inside the body of else is executed.
+It is possible to include an if statement inside another if statement.
+For example, Output Here's how this program works.
+In certain situations, the if statement can be simplified into a single line.
+For example, This code can be compactly written as This one-liner approach retains the same functionality but in a more concise format.
+Python doesn't have a ternary operator.
+However, we can use if...else to work like a ternary operator in other languages.
+For example, can be written as We can use logical operators such as and and or within an if statement.
+Output Here, we used the logical operator and to add two conditions in the if statement.
+We also used >= (comparison operator) to compare two values.
+Logical and comparison operators are often used with if...else statements.
+Visit Python Operators to learn more.
+Sorry about that.
+Python Tutorial Python pass Statement Python Tutorial Python while Loop Python Tutorial Python Assert Statement Python Tutorial Python break and continue © Parewa Labs Pvt.
+Ltd. All rights reserved.

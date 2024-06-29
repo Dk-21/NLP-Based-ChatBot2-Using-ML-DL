@@ -1,0 +1,11 @@
+Try Programiz PRO Learn Python practically 
+                and Get Certified.
+Learn Python practically 
+                        and Get Certified.
+To understand this example, you should have the knowledge of the following Python programming topics: To generate random number in Python, randint() function is used.
+This function is defined in random module.
+Output Note that we may get different output because this program generates random number  in range 0 and 9.
+The syntax of this function is: This returns a number N in the inclusive range [a,b], meaning a <= N <= b, where the endpoints are included in the range.
+Also Read:  Sorry about that.
+Python Tutorial Python Random Module Python Example Randomly Select an Element From the List Python Example Shuffle Deck of Cards Python Tutorial Python Numbers, Type Conversion and Mathematics © Parewa Labs Pvt.
+Ltd. All rights reserved.
